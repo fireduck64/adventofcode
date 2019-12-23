@@ -241,6 +241,10 @@ public class IntComp
 
   }
 
+  public void addInput(long v)
+  {
+    input_queue.add(v);
+  }
 
   public void addInputAsciiMode(String line)
   {
