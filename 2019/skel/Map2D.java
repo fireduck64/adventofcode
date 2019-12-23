@@ -82,18 +82,30 @@ public class Map2D<V>
   {
     return HUtil.getHash(map.toString());
   }
-
   public String getPrintOut(Map<V, Character> conv_map)
   {
+    return getPrintOut(conv_map, low_x, low_y, high_x, high_y);
+  }
+  public String getPrintOut(Map<V, Character> conv_map, Point p, int dist)
+  {
+    return getPrintOut(conv_map, p.x - dist, p.y- dist, p.x + dist - 1, p.y+dist-1);
+  }
+
+  public String getPrintOut(Map<V, Character> conv_map, long min_x, long min_y, long max_x, long max_y)
+  {
     StringBuilder sb = new StringBuilder();
-    for(long y=low_y; y<=high_y; y++)
+    for(long y=min_y; y<=max_y; y++)
     {
-      for(long x=low_x; x<=high_x; x++)
+      for(long x=min_x; x<=max_x; x++)
       {
         char z=' ';
         V val = get(x,y);
         if (val != null)
         {
+          if (conv_map == null)
+          {
+            z=(char) val;
+          }
           if (conv_map.containsKey(val))
           {
             z=conv_map.get(val);

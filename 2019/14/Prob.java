@@ -28,18 +28,17 @@ public class Prob
 
     long start = max_ore / one_fuel;
 
-    System.out.println(rec(0, start*2));
+    System.out.println(rec(0, start*220));
     
   }
 
   public long rec(long min, long max)
   {
-    System.out.println(" " + min + " " + max);
 
     if (Math.abs(max-min) <= 1) return min;
 
     inv.clear();
-    long mid = ((max + min) + 0) / 2;
+    long mid = ((max + min) + 1) / 2;
     getItem(mid, "FUEL");
     long ore = -inv.get("ORE");
 

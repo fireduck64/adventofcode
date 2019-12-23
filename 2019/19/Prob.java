@@ -34,6 +34,8 @@ public class Prob
     
     int box = 99;
 
+    int count = 0;
+
     while(queue.size() > 0)
     {
       Point p = queue.pollFirstEntry().getValue();
@@ -46,9 +48,11 @@ public class Prob
         checked.add(p);
         if (getPoint(p) == 1)
         {
-          if ((p.x + p.y) % 100 == 0)
+          count++;
+          if (count % 1000 == 0)
           {
-          System.out.println("On beam: " + p);
+            System.out.println("On beam: " + p);
+            System.out.println(map.getPrintOut(print_map, p, 4));
           }
           if (getPoint(new Point(p.x, p.y+box)) == 1)
           if (getPoint(new Point(p.x+box, p.y)) == 1)

@@ -29,7 +29,9 @@ public class Prob
 
   public void runNetwork()
   {
-    Point nat = new Point(0,0);
+    Point nat = null;
+    Point nat_sent=new Point(-1,-1);
+    int messages=0;
 
     while(true)
     {
@@ -52,11 +54,15 @@ public class Prob
           long dest = c.output_queue.poll();
           long x = c.output_queue.poll();
           long y = c.output_queue.poll();
+          messages++;
 
           int dc = (int) dest;
           if (dc == 255)
           {
-            System.out.println("Message to 255: " + x + " " + y);
+            if (nat == null)
+            {
+              System.out.println("Part 1 - Message to 255: " + x + " " + y);
+            }
             nat = new Point(x,y);
           }
           else
@@ -73,6 +79,14 @@ public class Prob
         System.out.println("Sending nat to zero: " + nat);
         comps.get(0).addInput(nat.x);
         comps.get(0).addInput(nat.y);
+        if (nat.equals(nat_sent))
+        {
+          System.out.println("Part 2 - " + nat);
+          System.out.println("Total messages: " + messages);
+          return;
+
+        }
+        nat_sent=nat;
       }
     }
 
