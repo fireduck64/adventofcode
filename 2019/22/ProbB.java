@@ -27,7 +27,7 @@ public class ProbB
 
     long x = 2020;
     HashSet<Long> f = new HashSet<>();
-    while(true)
+    //while(true)
     {
       long y = x;
       for(String line : commands)

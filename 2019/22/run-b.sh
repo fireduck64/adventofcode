@@ -17,6 +17,9 @@ then
 fi
 echo "Running $target"
 #time java -cp . Prob $target
+echo "B"
 time java -cp . ProbB $target
+echo "B2"
+time java -cp . ProbB2 $target
 
 
