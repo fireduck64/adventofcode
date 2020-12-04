@@ -21,6 +21,7 @@ public class Map2D<V>
   {
     this.default_value = def;
     map = new TreeMap<>();
+    
   }
 
   public Map2D(Map2D<V> src)
