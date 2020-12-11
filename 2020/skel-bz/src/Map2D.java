@@ -105,7 +105,7 @@ public class Map2D<V>
           {
             z = val.toString();
           }
-          if (conv_map.containsKey(val))
+          else if (conv_map.containsKey(val))
           {
             z="" + conv_map.get(val);
           }
