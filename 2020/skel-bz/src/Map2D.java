@@ -11,11 +11,11 @@ public class Map2D<V>
   public TreeMap<Long, TreeMap<Long, V> > map;
   private V default_value;
 
-  protected long high_x;
-  protected long high_y;
+  protected long high_x = -1000000000L;
+  protected long high_y= -1000000000L;
 
-  protected long low_x;
-  protected long low_y;
+  protected long low_x = 1000000000L;
+  protected long low_y = 1000000000L;
 
   public Map2D(V def)
   {
@@ -97,21 +97,21 @@ public class Map2D<V>
     {
       for(long x=min_x; x<=max_x; x++)
       {
-        char z=' ';
+        String z=" ";
         V val = get(x,y);
         if (val != null)
         {
           if (conv_map == null)
           {
-            z=(char) val;
+            z = val.toString();
           }
           if (conv_map.containsKey(val))
           {
-            z=conv_map.get(val);
+            z="" + conv_map.get(val);
           }
           else
           {
-            z='?';
+            z="?";
           }
         }
         sb.append(z);
