@@ -140,16 +140,17 @@ public class Prob
   }
   public Point rotRight(Point in)
   {
-    int out_x=0;
-    int out_y=0;
 
     // I don't know.  I followed the rules of the turnRight above and rolled
     // with it.
     return new Point(in.y,-in.x);
 
-
   }
 
+  public Point rotLeft(Point in)
+  {
+    return rotRight(rotRight(rotRight(in)));
+  }
 
 
   public Point turnLeft(Point in)
@@ -157,10 +158,6 @@ public class Prob
     return turnRight(turnRight(turnRight(in)));
   }
 
-  public Point rotLeft(Point in)
-  {
-    return rotRight(rotRight(rotRight(in)));
-  }
 
   public class Step
   {
