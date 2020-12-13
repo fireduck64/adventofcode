@@ -85,7 +85,11 @@ public class Prob
     //step=105370369L;
     //start=109493804L;
 
-    for(long tm = start; tm<product; tm+=step)
+    long best_step = 1L;
+    long best_start = 0L;
+
+
+    for(long tm = start; tm<20000000L; tm+=step)
     {
       boolean ok=true;
       ArrayList<Integer> ok_list = new ArrayList<>();
@@ -119,6 +123,11 @@ public class Prob
           long fstep = tm - link.get(key);
           System.out.println(key + " step " + fstep + " start " + tm);
           link_done.add(key);
+          if (fstep > best_step)
+          {
+            best_step = fstep;
+            best_start = tm;
+          }
         }
       }
       if (ok)
@@ -129,6 +138,38 @@ public class Prob
       }
 
     }
+
+    start = best_start;
+    step = best_step;
+    System.out.println("Restarting with start: " + start + " step: " + step);
+
+    for(long tm = start; tm<product; tm+=step)
+    {
+      boolean ok=true;
+
+      for(int idx = 0; idx < bus2_lst.size(); idx++)
+      {
+        int b = bus2_lst.get(idx);
+        if (b < 0) continue;
+        if (checkBus(tm+idx, b))
+        {
+        }
+        else
+        {
+          ok =false;
+          break;
+        }
+
+      }
+      if (ok)
+      {
+        System.out.println("SOLUTION:");
+        System.out.println(tm);
+        break;
+      }
+
+    }
+
 
 
 
