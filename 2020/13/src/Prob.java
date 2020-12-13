@@ -78,10 +78,12 @@ public class Prob
     long start = 0L;
 
     System.out.println("Product: " + product);
-    //step=144022759L;
-    //start=170328712L;
-    //step=3892507;
-    //start=6843418;
+
+    // So run it once with these commented out
+    // grab some high start and step numbers from the output and put them
+    // in there.  Ha.
+    //step=105370369L;
+    //start=109493804L;
 
     for(long tm = start; tm<product; tm+=step)
     {
@@ -92,12 +94,11 @@ public class Prob
       {
         int b = bus2_lst.get(idx);
         if (b < 0) continue;
-        long w = getWaitTime(tm, b);
-        if (w == idx)
+        if (checkBus(tm+idx, b))
         {
           ok_list.add(b);
         }
-        if (w != idx) 
+        else
         {
           ok =false;
           //break;
@@ -133,9 +134,14 @@ public class Prob
 
   }
 
+
+  public boolean checkBus(long tm, long bus)
+  {
+    return (tm % bus == 0);
+  }
   public long getWaitTime(long tm, long bus)
   {
-    if (tm % bus == 0L) return 0;
+    if (tm % bus == 0L) return 0L;
 
     return bus - (tm % bus);
 
