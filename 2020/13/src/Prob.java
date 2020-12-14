@@ -89,7 +89,7 @@ public class Prob
     long best_start = 0L;
 
 
-    for(long tm = start; tm<20000000L; tm+=step)
+    for(long tm = start; tm<10000000L; tm+=step)
     {
       boolean ok=true;
       ArrayList<Integer> ok_list = new ArrayList<>();
