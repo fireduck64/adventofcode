@@ -14,7 +14,7 @@ public class Prob
 
   Random rnd=new Random();
 
-  TreeMap<Long, Long> last_spoken = new TreeMap<>();
+  HashMap<Long, Long> last_spoken = new HashMap<>(90000,0.5f);
 
   ArrayList<Long> initial_lst = new ArrayList<>();
 
