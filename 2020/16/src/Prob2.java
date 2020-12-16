@@ -3,30 +3,27 @@ import java.util.*;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
-
+import com.google.common.collect.ImmutableMap;
 
 /**
- * Spreadsheet clue.
- * 
- * For part 2, finds a rule that can only apply to one remaining column
- * and repeats until all assigned.
+ * Solution using n! recursive assignment
+ * would in theory work on more difficult imputs
+ * but takes longer.  Possibly forever.
  */
-public class Prob
+public class Prob2
 {
 
   public static void main(String args[]) throws Exception
   {
-    new Prob(new Scanner(new FileInputStream(args[0])));
+    new Prob2(new Scanner(new FileInputStream(args[0])));
   }
 
   Random rnd=new Random();
 
   TreeMap<String, TicketRange> rules=new TreeMap<>();
-
-  // Nearby valid tickets
   ArrayList<ArrayList<Integer> > nv = new ArrayList<>();
 
-  public Prob(Scanner scan)
+  public Prob2(Scanner scan)
   {
     // read rules
     while(true)
@@ -91,17 +88,17 @@ public class Prob
     System.out.println("invalid sum: " + invalid_sum);
     System.out.println("valid tickets: " + nv.size());
 
-    while(solve())
-    {
-    }
-    System.out.println("Assigned cols: " + found_label.size());
+    rec(0, new TreeMap<String, Integer>());
+
+
+    System.out.println("Solutions: " + sol_list.size());
 
     long product = 1;
     for(String s : rules.keySet())
     {
       if (s.startsWith("departure"))
       {
-        int c = found_label.get(s);
+        int c = sol_list.get(0).get(s);
 
         product = product * your_ticket.get(c);
       }
@@ -110,55 +107,50 @@ public class Prob
 
   }
 
-  TreeMap<String, Integer> found_label = new TreeMap<>();
-  TreeSet<Integer> used_col = new TreeSet<>();
-  int cc;
+  LinkedList<Map<String, Integer> > sol_list=new LinkedList<>();
 
-  public boolean solve()
+  final int cc;
+
+  int max_depth=20;
+
+  public void rec(int col, TreeMap<String, Integer> labels)
   {
-    for(String label : rules.keySet())
+    if (sol_list.size() > 0) return;
+    if (col == cc )
     {
-      if (!found_label.containsKey(label))
-      { 
-        int c = tryRule(rules.get(label));
-        if (c >= 0)
+      sol_list.add(ImmutableMap.copyOf(labels));
+      return;
+    }
+    if (col > max_depth)
+    {
+      max_depth = col;
+      System.out.println("depth: " + col);
+    }
+    // Try all labels
+    for(String s : rules.keySet())
+    {
+      if (!labels.containsKey(s))
+      {
+        if (tryRule( rules.get(s), col ))
         {
-          //System.out.println("Found: " + label + " " + c);
-          found_label.put(label, c);
-          used_col.add(c);
-          return true;
+          labels.put(s, col);
+          rec(col+1, labels);
+          labels.remove(s);
         }
       }
-
     }
-    return false; 
-
   }
-  public int tryRule(TicketRange tr)
-  {
-    TreeSet<Integer> possible_cols = new TreeSet<>();
-    for(int c =0; c<cc; c++)
-    {
-      if (!used_col.contains(c)) possible_cols.add(c);
-    }
 
+  public boolean tryRule(TicketRange tr, int c)
+  {
     for(ArrayList<Integer> lst : nv)
     {
-      TreeSet<Integer> rm = new TreeSet<>();
-      for(int c : possible_cols)
+      if (!tr.inRange( lst.get(c)))
       {
-        if (!tr.inRange( lst.get(c)))
-        {
-          rm.add(c);
-        }
+        return false;
       }
-      possible_cols.removeAll(rm);
-
     }
-    if (possible_cols.size() == 1)
-    return possible_cols.first();
-
-    return -1;
+    return true;
   }
 
   public ArrayList<Integer> readTicket(String line)

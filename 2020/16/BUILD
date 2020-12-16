@@ -18,3 +18,11 @@ java_binary(
   ],
 )
 
+java_binary(
+  name = "Prob2",
+  main_class = "Prob2",
+  runtime_deps = [
+    ":problib",
+  ],
+)
+
