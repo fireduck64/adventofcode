@@ -9,6 +9,8 @@ import com.google.common.collect.ImmutableMap;
  * Solution using n! recursive assignment
  * would in theory work on more difficult imputs
  * but takes longer.  Possibly forever.
+ *
+ *
  */
 public class Prob2
 {
@@ -88,6 +90,16 @@ public class Prob2
     System.out.println("invalid sum: " + invalid_sum);
     System.out.println("valid tickets: " + nv.size());
 
+
+    // In normal order, I find this never completes.
+    // with some ordering, it takes a minute.  
+    // so let's get stupid
+    for(int i=0; i<cc; i++)
+    {
+      col_order.add(i);
+    }
+    Collections.shuffle(col_order);
+
     rec(0, new TreeMap<String, Integer>());
 
 
@@ -108,11 +120,16 @@ public class Prob2
   }
 
   LinkedList<Map<String, Integer> > sol_list=new LinkedList<>();
+  ArrayList<Integer> col_order = new ArrayList<>();
 
   final int cc;
 
-  int max_depth=20;
+  int max_depth=0;
 
+  /**
+   * Finds a label to map to the given column.
+   * then go on to the next columns if successful.
+   */
   public void rec(int col, TreeMap<String, Integer> labels)
   {
     if (sol_list.size() > 0) return;
@@ -126,14 +143,15 @@ public class Prob2
       max_depth = col;
       System.out.println("depth: " + col);
     }
+    int actual_col = col_order.get(col);
     // Try all labels
     for(String s : rules.keySet())
     {
       if (!labels.containsKey(s))
       {
-        if (tryRule( rules.get(s), col ))
+        if (tryRule( rules.get(s), actual_col ))
         {
-          labels.put(s, col);
+          labels.put(s, actual_col);
           rec(col+1, labels);
           labels.remove(s);
         }
