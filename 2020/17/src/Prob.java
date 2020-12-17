@@ -80,10 +80,10 @@ public class Prob
   {
     Map4D<Character> out = new Map4D<Character>('.');
 
-    for(long x= input.low_x -2; x<= input.high_x+2; x++)
-    for(long y= input.low_y -2; y<= input.high_y+2; y++)
-    for(long z= input.low_z -2; z<= input.high_z+2; z++)
-    for(long w= input.low_w -2; w<= input.high_w+2; w++)
+    for(long x= input.low_x -1; x<= input.high_x+1; x++)
+    for(long y= input.low_y -1; y<= input.high_y+1; y++)
+    for(long z= input.low_z -1; z<= input.high_z+1; z++)
+    for(long w= input.low_w -1; w<= input.high_w+1; w++)
     {
       Point p = new Point(x,y,z,w);
       int active = 0;
