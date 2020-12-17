@@ -16,6 +16,8 @@ public class Prob
 
   Map4D<Character> initial = new Map4D<Character>('.');
 
+  boolean part1 = true;
+
   public Prob(Scanner scan)
   {
     MapLoad.loadMap(initial, scan);
@@ -29,6 +31,17 @@ public class Prob
       q = cycle(q);
     }
     System.out.println("Part 1: " + count(q));
+
+    part1=false;
+    q = initial;
+
+    for(int i=0; i<6; i++)
+    {
+      q = cycle(q);
+    }
+    System.out.println("Part 2: " + count(q));
+
+
 
   }
 
@@ -52,6 +65,7 @@ public class Prob
     for(int k=-1; k<=1; k++)
     for(int l=-1; l<=1; l++)
     {
+      if ((!part1) || (l==0))
       if ((i!=0) || (j!=0) || (k!=0) || (l!=0))
       {
         lst.add(new Point(a.x + i, a.y+j, a.z+k, a.w +l));
