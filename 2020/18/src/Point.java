@@ -4,28 +4,22 @@ public class Point
   final long x;
   final long y;
   final long z;
-  final long w;
 
   public Point(long x, long y)
   {
-    this(x,y,0L,0L);
+    this(x,y,0L);
   }
   public Point(long x, long y, long z)
-  {
-    this(x,y,z,0L);
-  }
-  public Point(long x, long y, long z, long w)
   {
     this.x = x;
     this.y = y;
     this.z = z;
-    this.w = w;
   }
 
   @Override
   public String toString()
   {
-    return String.format("(%d %d %d %d)", x,y, z, w);
+    return String.format("(%d %d %d)", x,y, z);
   }
 
   @Override
