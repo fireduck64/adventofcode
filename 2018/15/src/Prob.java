@@ -53,7 +53,7 @@ public class Prob
       catch(Throwable t)
       {
         System.out.println(t);
-        //Spot.elf_power++;
+        Spot.elf_power++;
       }
     }
 
@@ -174,7 +174,7 @@ public class Prob
       if (ts.hp <= 0)
       {
         // part 2
-        //if (target=='E') throw new RuntimeException("death elf");
+        if (target=='E') throw new RuntimeException("death elf");
         map.set(t, new Spot('.'));
 
       }

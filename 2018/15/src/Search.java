@@ -47,7 +47,7 @@ public class Search
 
         for(State n : s.next())
         {
-          queue.put(n.getCost() + n.getEstimate() + rnd.nextDouble()/1e6, n);
+          queue.put(n.getCost() + n.getEstimate() + rnd.nextDouble()/1e10, n);
         }
       }
 
