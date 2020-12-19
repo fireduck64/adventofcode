@@ -47,6 +47,7 @@ public class Prob
         System.out.println("Final HP: " + hp);
         int val =hp * (rnd-1);
         System.out.println("Score: " + val);
+        System.out.println("Elf power: " + Spot.elf_power);
         return;
 
       }
