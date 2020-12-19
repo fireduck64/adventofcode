@@ -112,8 +112,6 @@ public class Prob
     // return whatever we have left
     public Set<StringRead> match(StringRead sr)
     {
-      Set<StringRead> matches= new HashSet<StringRead>();
-
       Set<StringRead> in = new HashSet<>();
       in.add(sr);
       for(int i : lst)
