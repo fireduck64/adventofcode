@@ -28,13 +28,14 @@ public class Prob
       int rule = Integer.parseInt(tokens.get(0));
 
 
+      
       if (tokens.get(1).startsWith("\""))
-      {
+      { // read literal rule
         char z = tokens.get(1).charAt(1);
         rules.put(rule, new RuleLiteral(z));
       }
       else if (line.indexOf("|") > 0)
-      {
+      { // read or rule with two lists
         List<Integer> a = new LinkedList<>();
         List<Integer> b = null;
         for(int i = 1; i<tokens.size(); i++)
@@ -49,8 +50,6 @@ public class Prob
             int r = Integer.parseInt(s);
             if (b != null) b.add(r);
             else a.add(r);
-
-
           }
 
         }
@@ -58,7 +57,7 @@ public class Prob
 
       }
       else
-      {
+      { // read list rule
         
         List<Integer> lst = new LinkedList<>();
         for(int i = 1; i<tokens.size(); i++)
@@ -85,8 +84,6 @@ public class Prob
           break;
         }
       }
-
-
     }
 
     System.out.println(matches);
@@ -97,6 +94,8 @@ public class Prob
 
   public abstract class Rule
   {
+    // Starts from the reading location in StringRead,
+    // return the set of unique matching results with this rule
     public abstract Set<StringRead> match(StringRead sr);
   }
 
@@ -109,7 +108,8 @@ public class Prob
       this.lst = lst;
     }
 
-
+    // Takes the matches from each rule and gives it as input to the next rule
+    // return whatever we have left
     public Set<StringRead> match(StringRead sr)
     {
       Set<StringRead> matches= new HashSet<StringRead>();
@@ -131,10 +131,16 @@ public class Prob
     }
   }
 
+
   public class RuleOr extends Rule
   {
     public List<Rule> lst;
 
+    // Takes a list of rules to OR togather.
+    // Take them as a rules because they are kinda internal and don't
+    // have numbers.  Example: 23 45 | 13 12
+    // This comes int as List(RuleList(23,24), RuleList(13,12))
+    // Whatever
     public RuleOr(List<Rule> lst)
     {
       this.lst = lst;
@@ -180,6 +186,8 @@ public class Prob
 
   }
 
+  // Basically an immutable pointer class.
+  // Why the hell is this so long?  WTF am I doing.
   public class StringRead
   {
     public final String str;
