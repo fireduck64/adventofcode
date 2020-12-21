@@ -61,15 +61,19 @@ public class Prob
     for(Map2D<Character> f : makeOptions(trim).rots)
     {
 
-      //System.out.println( f.getPrintOut(null) );
       int found = countAndMark(f);
+      if (found > 0)
+      {System.out.println( f.getPrintOut(null) );
+      }
       System.out.print ("Found: " + found);
+      
 
       int sea=0;
       for(Point p : f.getAllPoints())
       {
         if (f.get(p)=='#') sea++;
       }
+      
       System.out.println(" sea: " + sea);
 
     }
