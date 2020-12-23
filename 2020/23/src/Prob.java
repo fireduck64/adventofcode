@@ -16,9 +16,9 @@ public class Prob
 
 
   LinkedList<Long> cups = new LinkedList<>();
-  HashMap<Long, ListRecord> cup_memo=new HashMap<>(256,0.5f);
 
-  ListRecord current_cup = null;
+  CircleList<Long> circle;
+  CircleList<Long>.ListRecord current_cup;
 
   long max_cup = 0;
 
@@ -37,16 +37,18 @@ public class Prob
 
     
     // Part 2
-    while(cups.size() < 1000000)
+    /*while(cups.size() < 1000000)
     {
       long v = max_cup+1;
       max_cup = Math.max(v, max_cup);
       cups.add(v);
-    }
+    }*/
 
     System.out.println("Max Cup: " + max_cup);
 
-    current_cup = makeCircle(cups);
+    circle = new CircleList<Long>(cups, true);
+    current_cup = circle.getFirst();
+    
 
 
     // part 1
@@ -56,7 +58,7 @@ public class Prob
       {
        round();
       }
-      ListRecord p = current_cup.find(1L).next;
+      CircleList<Long>.ListRecord p = circle.find(1L).next;
       for(int i=0; i<8; i++)
        {
         System.out.print(p.v);
@@ -73,8 +75,8 @@ public class Prob
         round();
       }
 
-      long v1 = current_cup.find(1L).next.v;
-      long v2 = current_cup.find(1L).next.next.v;
+      long v1 = circle.find(1L).next.v;
+      long v2 = circle.find(1L).next.next.v;
       System.out.println("eggs: " + v1 + " " + v2);
       long p2 = v1 * v2;
       System.out.println(p2);
@@ -103,8 +105,7 @@ public class Prob
       if (next < 1) next = max_cup;
     }
 
-
-    ListRecord dest = current_cup.find(next);
+    CircleList<Long>.ListRecord dest = circle.find(next);
 
     for(int i=2; i>=0; i--)
     {
@@ -114,78 +115,6 @@ public class Prob
     current_cup = current_cup.next;
   }
 
-
-  public ListRecord makeCircle(List<Long> lst)
-  {
-    ListRecord first = null;
-    ListRecord last = null;
-
-
-    for(Long n : lst)
-    {
-      ListRecord lr = new ListRecord(n);
-      if (first == null)
-      {
-        first = lr;
-      }
-      else
-      {
-        last.next = lr;
-
-      }
-      last = lr;
-
-    }
-
-    last.next = first;
-
-
-    return first;
-
-  }
-
-
-    public class ListRecord
-    {
-      long v;
-      ListRecord next;
-
-      public ListRecord(long v)
-      {
-        this.v =v;
-        cup_memo.put(v, this);
-      }
-
-      public long removeNext()
-      {
-        long next_val = next.v;
-
-        cup_memo.remove(next_val);
-
-        next = next.next;
-
-        return next_val;
-      }
-
-      public void insertNext(long nv)
-      {
-        ListRecord nr = new ListRecord(nv);
-
-        nr.next = next;
-        next = nr;
-
-      }
-
-      public ListRecord find(long val)
-      {
-        ListRecord f = cup_memo.get(val);
-
-        if (f == null) throw new RuntimeException("Unable to find: " + val);
-        return f;
-
-      }
-
-    }
 
 
 }
