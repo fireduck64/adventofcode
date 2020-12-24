@@ -15,6 +15,8 @@ public class Prob
   Random rnd=new Random();
 
 
+  int game_count=0;
+
   public Prob(Scanner scan)
   {
     LinkedList<Integer> p1 = new LinkedList<>();
@@ -85,6 +87,8 @@ public class Prob
       System.out.println(getScore(winner));
     }
 
+    System.out.println("Game count:" + game_count);
+
   }
 
   public int getScore(List<Integer> winner)
@@ -103,6 +107,7 @@ public class Prob
    */
   public boolean play(LinkedList<Integer> p1, LinkedList<Integer> p2)
   {
+    game_count++;
 
     TreeSet<String> memo = new TreeSet<>();
 
