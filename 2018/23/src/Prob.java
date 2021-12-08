@@ -56,11 +56,16 @@ public class Prob
     }
     System.out.println(String.format("Range: x %d %d y %d %d z %d %d", min_x, max_x, min_y, max_y, min_z, max_z));
 
+    // So what we do is search for a solution.  We start by chopping known space into big chunks
+    // and anything that touches that box is in
+    // Then we use our A* search to define smaller and smaller boxes
     long scale = 10000000L;
     SS start = new SS(new Box(new Point(min_x, min_y, min_z),new Point(max_x, max_y, max_z)), scale, 0);
     SS fin = (SS)Search.search(start);
     System.out.println( getZeroDist(fin.box.p1));
 
+    // There is a amount of wiggle room on the box search plan above
+    // so now search 20 squares in each direction for actual best
     Point origin = fin.box.p1;
     Point best = origin;
     int best_cnt = 0;
@@ -138,6 +143,7 @@ public class Prob
    
   }
 
+  // fucks
   public boolean boxTouches(NanoBot nb, Box box)
   {
     long dx = 0;
@@ -174,8 +180,6 @@ public class Prob
     if (dx + dy + dz <= nb.range) return true;
 
     return false;
-
-
   }
   public int countInRange(Point p)
   {
@@ -209,6 +213,7 @@ public class Prob
     return false;
   }
 
+  // This is our search state
   public class SS extends State
   {
     Box box;
@@ -223,10 +228,13 @@ public class Prob
 
     }
 
+    // Closest to having them all is best, closest to origin (zero) is best (tie breaker)
     public double getCost()
     {
       return bot_lst.size() - count + getZeroDist(box.p1) / 1e12;
     }
+
+    // terminal when we are at scale zero
     public boolean isTerm()
     {
       return (scale <= 0);
@@ -237,6 +245,7 @@ public class Prob
       return box + " " + scale + " " + count;
     }
 
+    // Split the current box into smaller boxes
     public List<State> next()
     {
       LinkedList<State> lst=new LinkedList<>();
