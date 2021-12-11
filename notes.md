@@ -3,6 +3,71 @@ My slightly profane and crass notes for Advent of Code Problems.
 Nothing I put here should be taken as a critizism of the contest itself,
 which is amazingly well done and awesome.
 
+# 2021 
+
+## Day 1 - Sonar Sweep
+
+### Part 1
+
+Can you compare some numbers?  
+
+### Part 2
+
+How about a rolling sequence of numbers?
+
+## Day 7 - The Treachery of Whales
+
+Align some crabs to explode some holes.
+
+Basic loops and some adding.
+
+## Day 8 - Seven Segment Search
+
+How much can you over complicate and inductive logic?  A lot?  I bet it is a lot.
+
+## Day 9 - Lava Tubes
+
+You have a field of numbers.  Find low points.
+
+# Part 1 
+
+Find the low points.
+
+# Part 2
+
+Find the area of basins that feed into the low points.  The problem statement eleminates the hard bits for you.
+
+## Day 10 - Syntax Scoring
+
+XKCD - https://xkcd.com/297/
+
+# Part 1
+
+Can you use a stack as you parse?
+
+# Part 2
+
+Can you break your above code and record different numbers?
+(also, remember that int sucks, and long rules)
+
+## Day 11 - Dumbo Octopus
+
+Conways game of life with some modifications.  Normally you do conways
+with two maps, before and after.  And you base after only on before to avoid
+tripping yourself up.  With this one, the beasts can chain flash so you can't do that.
+
+So the easy way is to have some special values for things that have flashed and can't
+flash anymore.
+
+# Part 1
+
+Run some cycles.
+
+# Part 2
+
+Run some cycles until they all flash.
+
+
 
 # 2020
 
@@ -111,4 +176,53 @@ Did you get all the stars and can you press a button?
 It took me almost three minutes to press the button.
 
 
+# 2018
 
+## Day 19 - Go With The Flow 
+
+This is a run this assembly code problems.
+
+### Part 1
+I don't even know.  Part 1 is easy, you run the program and it exits.
+
+### Part 2
+
+This thing runs forever.  It is counting to some number of millions over and over again.
+You can skip some, but some of them cause magic to happen.  I still don't understand it.
+It has something to do with the factors of some of the inputs and multipling the factors.
+
+Don't ask me.
+
+
+## Day 21 - Chronal Conversion
+
+Wherein you run a small bit of assembly like code to figure out what inputs cause the program to terminate
+and what inputs cause it to run forever (or just a long time).
+
+I spent a long time being stupid about this one.  Then I realized, it doesn't read the input!
+At all!  Well, except one compare and if it is equal, then it exits.
+
+So you just run it and when it does the compare operation that does read the input, write down the value it compared.
+
+### Part 1
+
+Return the first value that is compared to the "input"
+
+### Part 2
+
+Keep running the problem, saving each value compared as it runs.  The last new value is the winner and you are done
+when you get a repeat.
+
+
+## Day 24 - Immune System Simulator 20XX
+
+Basically, two problems.  A parsing problem and a simulation problem.
+Fairly straight forward.
+
+### Part 1
+
+Wheeeeeee
+
+### Part 2
+
+Wrinkle here is there can be ties where neighter army can damage the other.  Also, do it a lot.
