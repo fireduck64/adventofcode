@@ -29,11 +29,11 @@ How much can you over complicate and inductive logic?  A lot?  I bet it is a lot
 
 You have a field of numbers.  Find low points.
 
-# Part 1 
+### Part 1 
 
 Find the low points.
 
-# Part 2
+### Part 2
 
 Find the area of basins that feed into the low points.  The problem statement eleminates the hard bits for you.
 
@@ -41,11 +41,11 @@ Find the area of basins that feed into the low points.  The problem statement el
 
 XKCD - https://xkcd.com/297/
 
-# Part 1
+### Part 1
 
 Can you use a stack as you parse?
 
-# Part 2
+### Part 2
 
 Can you break your above code and record different numbers?
 (also, remember that int sucks, and long rules)
@@ -57,16 +57,17 @@ with two maps, before and after.  And you base after only on before to avoid
 tripping yourself up.  With this one, the beasts can chain flash so you can't do that.
 
 So the easy way is to have some special values for things that have flashed and can't
-flash anymore.
+flash anymore. I used -2.
 
-# Part 1
+### Part 1
 
 Run some cycles.
 
-# Part 2
+### Part 2
 
 Run some cycles until they all flash.
 
+Easy as eating pancakes.
 
 
 # 2020
