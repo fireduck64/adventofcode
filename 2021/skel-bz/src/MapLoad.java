@@ -33,5 +33,30 @@ public class MapLoad
     return new Point(max_x, max_y);
 
   }
+  public static Point loadMapInt(Map2D<Integer> m, Scanner scan)
+  {
+    int max_x=0;
+    int max_y=0;
+
+    int y =0;
+    while(scan.hasNextLine())
+    {
+      String line = scan.nextLine();
+      max_y = y;
+
+      for(int x=0; x<line.length(); x++)
+      {
+        int v = Integer.parseInt("" + line.charAt(x));
+        m.set(x,y, v);
+        max_x = Math.max(max_x, x);
+      }
+
+      y++;
+    }
+
+    return new Point(max_x, max_y);
+
+  }
+
 
 }
