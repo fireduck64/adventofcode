@@ -69,6 +69,11 @@ Run some cycles until they all flash.
 
 Easy as eating pancakes.
 
+## Day 12 - Passage Pathing
+
+Basic recusive path counting with some funny rules.
+Used memoization, but didn't actually need it.
+
 
 # 2020
 
