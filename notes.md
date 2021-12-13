@@ -74,6 +74,12 @@ Easy as eating pancakes.
 Basic recusive path counting with some funny rules.
 Used memoization, but didn't actually need it.
 
+## Day 13 - Transparent Origami
+
+Some simple folding points around in a 2d map.
+Thank fuck there were no rotations.
+I always fuck up rotations.
+
 
 # 2020
 
