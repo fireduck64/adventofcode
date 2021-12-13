@@ -129,6 +129,16 @@ public class Map2D<V>
   {
     return HUtil.getHash(map.toString());
   }
+  public void print()
+  {
+    System.out.println(String.format("Range %d %d %d %d", low_x, low_y, high_x, high_y));
+    System.out.println(getPrintOut());
+    System.out.println(getCounts());
+  }
+  public String getPrintOut()
+  {
+    return getPrintOut(null);
+  }
   public String getPrintOut(Map<V, Character> conv_map)
   {
     return getPrintOut(conv_map, low_x, low_y, high_x, high_y);
@@ -172,5 +182,47 @@ public class Map2D<V>
     return sb.toString();
 
   }
+
+  public Map2D<V> rotateL()
+  {
+    Map2D<V> m = new Map2D<V>(default_value);
+    for(Point p : getAllPoints())
+    { 
+      Point n = new Point(p.y, -p.x+high_x);
+      m.set(n, get(p));
+    }
+    return m;
+  }
+
+  public Map2D<V> rotateR()
+  {
+    return rotateL().rotateL().rotateL();
+
+  }
+  public Map2D<V> flipH()
+  {
+    long wid = high_x;
+    Map2D<V> m = new Map2D<V>(default_value);
+    for(Point p : getAllPoints())
+    { 
+      Point n = new Point(wid-p.x, p.y);
+      m.set(n, get(p));
+
+    }
+    return m;
+  }
+  public Map2D<V> flipV()
+  {
+    long wid = high_y;
+    Map2D<V> m = new Map2D<V>(default_value);
+    for(Point p : getAllPoints())
+    { 
+      Point n = new Point(p.x, wid-p.y);
+      m.set(n, get(p));
+    }
+    return m;
+  }
+
+
 
 }
