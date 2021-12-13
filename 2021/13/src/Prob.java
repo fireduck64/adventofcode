@@ -20,7 +20,7 @@ public class Prob
   {
     TreeMap<Boolean, Character> conv= new TreeMap<>();
     conv.put(true,'#');
-    conv.put(false,'.');
+    conv.put(false,' ');
     int fold_count=0;
     while(scan.hasNextLine())
     {
@@ -41,7 +41,6 @@ public class Prob
           System.out.println("Part 1");
           System.out.println(map.getCounts());
         }
-
 
       }
       else
