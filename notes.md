@@ -276,5 +276,9 @@ Can you follow instructions and track previous states in some sort of set?
 This one is pretty simple.  I thought it might get hard, like that one with
 the lumberjacks and the cycles and going to a billion iterations but it wasn't.
 
+## Day 7 - Recursive Circus
+
+Can you handle an n-ary tree?
+
 
 
