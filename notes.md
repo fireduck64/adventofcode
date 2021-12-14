@@ -269,4 +269,12 @@ list -> set of sorted strings (part 2)
 Problem involving jumping around.  Just requires careful reading of the statement
 and tracking of things.
 
+## Day 6 - Memory Reallocation
+
+Can you follow instructions and track previous states in some sort of set?
+
+This one is pretty simple.  I thought it might get hard, like that one with
+the lumberjacks and the cycles and going to a billion iterations but it wasn't.
+
+
 
