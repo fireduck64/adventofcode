@@ -245,4 +245,6 @@ Wrinkle here is there can be ties where neighter army can damage the other.  Als
 
 hello string
 
+## Day 2 - Spiral Memory
 
+hello lists with a little bit of mod
