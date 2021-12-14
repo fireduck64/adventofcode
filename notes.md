@@ -80,6 +80,10 @@ Some simple folding points around in a 2d map.
 Thank fuck there were no rotations.
 I always fuck up rotations.
 
+## Day 14 - Extended Polymerization
+
+This was a fun one.  It comes down to a memoized recursive count.
+
 
 # 2020
 
@@ -245,6 +249,8 @@ Wrinkle here is there can be ties where neighter army can damage the other.  Als
 
 hello string
 
-## Day 2 - Spiral Memory
+## Day 2 - Corruption Checksum
 
 hello lists with a little bit of mod
+
+## Day 3 - Spiral Memory
