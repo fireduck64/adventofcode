@@ -264,4 +264,9 @@ List -> set
 list.size == set.size (part 1)
 list -> set of sorted strings (part 2)
 
+## Day 5 - A Maze of Twisty Trampolines, All Alike
+
+Problem involving jumping around.  Just requires careful reading of the statement
+and tracking of things.
+
 
