@@ -258,3 +258,10 @@ hello lists with a little bit of mod
 Fun with spirals.  The trick here is to keep track of the direction you are moving
 as you write it out.
 
+## Day 4 - High-Entropy Passphrases
+
+List -> set 
+list.size == set.size (part 1)
+list -> set of sorted strings (part 2)
+
+
