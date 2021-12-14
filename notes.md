@@ -254,3 +254,7 @@ hello string
 hello lists with a little bit of mod
 
 ## Day 3 - Spiral Memory
+
+Fun with spirals.  The trick here is to keep track of the direction you are moving
+as you write it out.
+
