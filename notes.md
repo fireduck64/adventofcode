@@ -290,3 +290,9 @@ Can you handle an n-ary tree?
 
 Fairly straight forward.  Part parse problem part simulation.
 
+## Day 9 - Stream Processing
+
+A fun recursive parsing problem.
+
+Can handle this with a finite state machine.  Or with just programming.
+
