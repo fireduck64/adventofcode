@@ -84,6 +84,11 @@ I always fuck up rotations.
 
 This was a fun one.  It comes down to a memoized recursive count.
 
+## Day 15 - Chiton 
+
+A simple search problem.  "Wrap over 9 to 1" is not the same thing as mod 10, clownass.
+Wasted a lot of time on that.
+
 
 # 2020
 
