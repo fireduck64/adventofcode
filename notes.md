@@ -286,4 +286,7 @@ the lumberjacks and the cycles and going to a billion iterations but it wasn't.
 Can you handle an n-ary tree?
 
 
+## Day 8 - I Heard You Like Registers
+
+Fairly straight forward.  Part parse problem part simulation.
 
