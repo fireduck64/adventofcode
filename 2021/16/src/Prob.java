@@ -33,7 +33,7 @@ public class Prob
     
     System.out.println("Part2: " + parse());
 
-    System.out.println(ver_sum);
+    System.out.println("Part1: " + ver_sum);
 
 
   }
