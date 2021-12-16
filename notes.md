@@ -313,4 +313,7 @@ I prefer the one where straight north is -2y and south is -2y, and the angle one
 
 Then distance is ceil( abs(x) + abs(y) / 2 ) since each step can cover 2 bits.
 
+## Day 12 - Digital Plumber
+
+Pretty much a graph coloring.  No bigs.
 
