@@ -317,3 +317,11 @@ Then distance is ceil( abs(x) + abs(y) / 2 ) since each step can cover 2 bits.
 
 Pretty much a graph coloring.  No bigs.
 
+## Day 13 - Packet Scanners
+
+This one involves seeing when various scanners get to zero.
+Tricks: In the first part, you measure a score, which ends up being zero for the first scan 
+because it multiplied by zero (position).  In the second part, you need to count hits (even
+if the score is zero).  Also, the scanner back and forth isn't as simple as it seems.
+Basically the period for each scan is d + (d - 2)
+
