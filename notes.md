@@ -89,6 +89,11 @@ This was a fun one.  It comes down to a memoized recursive count.
 A simple search problem.  "Wrap over 9 to 1" is not the same thing as mod 10, clownass.
 Wasted a lot of time on that.
 
+## Day 16 - Packet Decoder
+
+The key here is to use a form where you can read one bit at a time.  Turning the hex
+into a bit string and then recording the position works well.  The parsing is simple as
+long as you pay attention to the rules.
 
 # 2020
 
@@ -295,4 +300,17 @@ Fairly straight forward.  Part parse problem part simulation.
 A fun recursive parsing problem.
 
 Can handle this with a finite state machine.  Or with just programming.
+
+## Day 10 - Knot Hash
+
+Knot a bad problem.  Mostly don't be dumb.
+
+## Day 11 - Hex Ed
+
+Basic hex grid problem.  There are a bunch of ways to map a hex grid into x,y coords.
+
+I prefer the one where straight north is -2y and south is -2y, and the angle ones are 1 x and 1 y.
+
+Then distance is ceil( abs(x) + abs(y) / 2 ) since each step can cover 2 bits.
+
 

@@ -40,4 +40,9 @@ public class Point
     return toString().equals(o.toString());
   }
 
+  public Point add(Point p)
+  {
+    return new Point(x + p.x, y +  p.y, z+p.z, w+p.w);
+  }
+
 }
