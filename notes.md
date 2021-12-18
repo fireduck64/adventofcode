@@ -95,6 +95,19 @@ The key here is to use a form where you can read one bit at a time.  Turning the
 into a bit string and then recording the position works well.  The parsing is simple as
 long as you pay attention to the rules.
 
+## Day 17 - Trick Shot
+
+Throw some things into a target.  Pretty straight forward dx and dy simulation.
+Tricks: For some weird reasons, the dy range can be negative or positive.
+
+## Day 18 - Snailfish
+
+Fucking shit snail math.  Basically, are you good at binary tree modifications.
+
+This one is fun.  The only weird part is the "explode" operation which involves digging
+around in the tree for things to twiddle.  Trick there is to do an in order traversal list
+and use that to find your things to twiddle.
+
 # 2020
 
 ## Day 16 - Ticket Translation
