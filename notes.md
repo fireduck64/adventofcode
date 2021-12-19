@@ -108,6 +108,14 @@ This one is fun.  The only weird part is the "explode" operation which involves 
 around in the tree for things to twiddle.  Trick there is to do an in order traversal list
 and use that to find your things to twiddle.
 
+## Day 19 - Beacon Scanner
+
+Insert dick into bear trap.  Thrust through the pain.
+
+Basically, take some sets of coordinates, permute them in 24 ways and try to map
+them onto each other until all your blood is gone.  No problems.
+
+
 # 2020
 
 ## Day 16 - Ticket Translation
