@@ -17,9 +17,6 @@ public class Prob
 
   Random rnd=new Random();
 
-  Map3D<Integer> fin_map = new Map3D<Integer>(0);
-  Map3D<Integer> sensor_map =  new Map3D<Integer>(-1);
-
   TreeMap<Integer, ArrayList<Point> > scan_map = new TreeMap<>();
 
   TreeMap<Long, Integer> dist_map=new TreeMap<>();
@@ -47,110 +44,154 @@ public class Prob
       }
 
     }
-    popDistMap();
-    // Add first scanner to fin_map
+    for(int sensor : scan_map.keySet())
     {
-      int start_scan=31;
-      start_scan=4;
-      if (scan_map.containsKey(31)) start_scan=31;
-
-      System.out.println("Using sensor " + start_scan);
-      ArrayList<Point> lst = scan_map.get(start_scan);
-      for(Point p : lst)
+      Map3D<Integer> m = new Map3D<Integer>(0);
+      for(Point p : scan_map.get(sensor))
       {
-        fin_map.set(p, 1);
+        m.set(p, 1);
       }
-      sensor_map.set(0,0,0,start_scan);
-      scan_map.remove(start_scan);
-    }
-    expandPossibles();
+      m.set(0,0,0,1000+sensor);
+      comb_maps.add(m);
 
-    while(scan_map.size() > 0)
+    }
+    popDistMap();
+
+    while(comb_maps.size() > 1)
     {
       applyBestMatch();
-      System.out.println("Remaining to assign: " + scan_map.size());
+      System.out.println("Remaining maps: " + comb_maps.size());
+
+      for(Map3D<Integer> m : comb_maps)
+      {
+        System.out.print(" ");
+        System.out.print(m.getCounts().get(1));
+      }
+      System.out.println();
     }
-    System.out.println(fin_map.getCounts());
-    System.out.println(sensor_map.getCounts());
+    System.out.println(comb_maps.get(0).getCounts());
+    long max_dist =0;
+    for(Point a : comb_maps.get(0).getAllPoints())
+    for(Point b : comb_maps.get(0).getAllPoints())
+    {
+      if (comb_maps.get(0).get(a) > 1)
+      if (comb_maps.get(0).get(b) > 1)
+      {
+        max_dist = Math.max( max_dist, a.getDistM(b));
+      }
+
+    }
+    System.out.println("Part 2: " + max_dist);
+
 
   }
 
-  TreeMap<Integer, ArrayList<Map3D<Integer> > > possibles = new TreeMap<>();
 
   Object best_lock = new Object();
   int best_matches=1;
-  int best_sensor=-1;
-  Map3D<Integer> best_map=null;
+  int best_map_a=-1;
+  int best_map_b=-1;
+  Map3D<Integer> best_map_b_rot=null;
   Point best_delta=null;
 
   public void applyBestMatch()
   {
     best_matches=0;
-    best_sensor=-1;
-    best_map=null;
+    best_map_a=-1;
+    best_map_b=-1;
+    best_map_b_rot=null;
     best_delta=null;
 
     List<Callable<String> > call_list = new LinkedList<>();
-
-    for(int sensor : scan_map.keySet())
+    for(int bi = 0; bi<comb_maps.size(); bi++)
     {
-      call_list.add(new Callable<String>(){
-        
-        public String call()
+      int b = bi;
+      ArrayList<Map3D<Integer> > b_rots = expandPossibles(comb_maps.get(b));
+      for(int ai = b+1; ai<comb_maps.size(); ai++)
+      {
+        int a = ai;
+        Map3D<Integer> map_a = comb_maps.get(a);
+        for(Map3D<Integer> map_b : b_rots)
         {
-          ArrayList<Map3D<Integer> > map_lst = possibles.get(sensor);
-          for(Map3D<Integer> map : map_lst)
-          {
-            for(Point p : map.getAllPoints())
+          call_list.add(new Callable<String>(){
+          
+            public String call()
             {
-              for(Point q : fin_map.getAllPoints())
+              for(Point p_b : map_b.getAllPoints())
               {
-                // Transform that when added to p gets q
-                Point delta = new Point(q.x - p.x, q.y - p.y, q.z - p.z);
-                int matches = getMatchCount(delta, map);
-                if (matches == 0) E.er();
-                synchronized(best_lock)
+                if (map_b.get(p_b)==1)
+                for(Point p_a : map_a.getAllPoints())
                 {
-                  if (best_matches >= 12) return null;
-                  if (matches > best_matches)
+                  if (map_a.get(p_a)==1)
                   {
-                    System.out.println("New best: " + matches);
-                    best_matches = matches;
-                    best_sensor = sensor;
-                    best_map = map;
-                    best_delta  = delta;
+                    // Transform that when added to b gets a
+                    // a = b + d
+                    // b + d = a
+                    // d = a - b
+                    Point delta = new Point(p_a.x - p_b.x, p_a.y - p_b.y, p_a.z - p_b.z);
+                    int matches = getMatchCount(delta, map_a, map_b);
+                    if (matches == 0) E.er();
+                    synchronized(best_lock)
+                    {
+                      if (best_matches >= 12) return null;
+                      if (matches > best_matches)
+                      {
+                        System.out.println("New best: " + matches);
+                        best_matches = matches;
+                        best_map_a=a;
+                        best_map_b=b;
+                        best_map_b_rot=map_b;
+                        best_delta  = delta;
 
+                      }
+                    }
                   }
-                }
 
+                }
+   
               }
+              return null;
             }
-          }
-          return null;
+
+          });
+
         }
-      });
+      }
+
     }
+  
     new TaskMaster<String>(call_list, exec).getResults();
 
-    System.out.println("Applying sensor: " + best_sensor);
-    for(Point p : best_map.getAllPoints())
+    if (best_matches<12) E.er();
+    System.out.println("Combining: " + best_map_a + " " +best_map_b);
+    for(Point p : best_map_b_rot.getAllPoints())
     {
+      
       Point q = p.add(best_delta);
-      fin_map.set(q, 1);
+      int bv = best_map_b_rot.get(p);
+      int av = comb_maps.get(best_map_a).get(q);;
+      if (av != 0)
+      {
+        if (av != bv) E.er();
+      }
+      comb_maps.get(best_map_a).set(q, best_map_b_rot.get(p));
     }
-    sensor_map.set(best_delta, best_sensor);
-    scan_map.remove(best_sensor);
+    comb_maps.remove(best_map_b);
 
 
 
   }
 
-  public int getMatchCount(Point delta, Map3D<Integer> map)
+  public int getMatchCount(Point delta, Map3D<Integer> map_a, Map3D<Integer> map_b)
   {
     int match=0;
-    for(Point p : map.getAllPoints())
+    for(Point p : map_b.getAllPoints())
     {
-      if (fin_map.get( p.add(delta)) > 0) match++;
+      int bv = map_b.get(p);
+      int av = map_a.get(p.add(delta));
+      if (bv == 1)
+      if (av == 1) 
+        match++;
     }
     return match;
   }
@@ -172,20 +213,6 @@ public class Prob
     return map_lst;
   }
  
-  public void expandPossibles()
-  {
-    for(int sensor : scan_map.keySet())
-    {
-      Map3D<Integer> base = new Map3D<Integer>(0);
-      for(Point p : scan_map.get(sensor))
-      {
-        base.set(p, 1);
-      }
-      ArrayList<Map3D<Integer> > map_lst = expandPossibles(base);
-
-      possibles.put(sensor, map_lst);
-    }
-  }
   
 
   public Map3D<Integer> rot(int x, int y, int z, Map3D<Integer> base)

@@ -127,14 +127,23 @@ public class Map3D<V>
     return lst;
   }
 
-
+  // Imagine the worst possible explanation
+  // for this comment and that is the correct one.
+  // I am terrible at rotations.
+  // SSS - sok - no
+  // FSS - sok - no
+  // FFS - sok - 447 
+  // FSF - sok
+  // SFS - sok 
+  // SFF - 
+  // FFF -
   public Map3D<V> rotateZ()
   {
     Map3D<V> m = new Map3D<V>(default_value);
     for(Point p : getAllPoints())
     { 
-      //Point n = new Point(p.y, -p.x, p.z);
-      Point n = new Point(-p.y, p.x, p.z);
+      Point n = new Point(p.y, -p.x, p.z);
+      //Point n = new Point(-p.y, p.x, p.z);
       m.set(n, get(p));
     }
     return m;
@@ -145,8 +154,8 @@ public class Map3D<V>
     Map3D<V> m = new Map3D<V>(default_value);
     for(Point p : getAllPoints())
     { 
-      //Point n = new Point(p.z, p.y, -p.x);
-      Point n = new Point(-p.z, p.y, p.x);
+      Point n = new Point(p.z, p.y, -p.x);
+      //Point n = new Point(-p.z, p.y, p.x);
       m.set(n, get(p));
     }
     return m;

@@ -55,5 +55,16 @@ public class Point
     return dx*dx+dy*dy+dz*dz+dw*dw;
 
   }
+public long getDistM(Point p)
+  {
+    long dx=Math.abs(p.x - x); 
+    long dy=Math.abs(p.y - y); 
+    long dz=Math.abs(p.z - z); 
+    long dw=Math.abs(p.w - w); 
+
+    return dx+dy+dz+dw;
+
+  }
+
 
 }
