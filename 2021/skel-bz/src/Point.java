@@ -45,6 +45,11 @@ public class Point
     return new Point(x + p.x, y +  p.y, z+p.z, w+p.w);
   }
 
+  public double getDist(Point p)
+  {
+    return Math.sqrt(getDist2(p));
+  }
+
   public long getDist2(Point p)
   {
     long dx=Math.abs(p.x - x); 
