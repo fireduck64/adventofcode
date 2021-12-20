@@ -125,6 +125,11 @@ public class Map2D<V>
     return lst;
   }
 
+  public long getSize()
+  {
+    return high_x+1;
+  }
+
   public String getHashState()
   {
     return HUtil.getHash(map.toString());
@@ -180,17 +185,6 @@ public class Map2D<V>
     }
 
     return sb.toString();
-
-  }
-
-  public Map2D<V> copy()
-  {
-    Map2D<V> m = new Map2D<V>(default_value);
-    for(Point p : getAllPoints())
-    { 
-      m.set(p, get(p));
-    }
-    return m;
 
   }
 
