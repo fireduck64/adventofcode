@@ -115,6 +115,10 @@ Insert dick into bear trap.  Thrust through the pain.
 Basically, take some sets of coordinates, permute them in 24 ways and try to map
 them onto each other until all your blood is gone.  No problems.
 
+One trick is that if you start with one sensor and then add other sensors to that map as they match enough,
+you'll have some sensors that can't be added.  Those need to be merged into one glob and then the two globs
+can match up and touch each other.
+
 
 # 2020
 
@@ -345,4 +349,19 @@ Tricks: In the first part, you measure a score, which ends up being zero for the
 because it multiplied by zero (position).  In the second part, you need to count hits (even
 if the score is zero).  Also, the scanner back and forth isn't as simple as it seems.
 Basically the period for each scan is d + (d - 2)
+
+## Day 18 - Duet 
+
+A simple register problem.  Only trick is that I didn't notice that some values where register names
+and some where literals.  You just have to see which as you process them.
+
+For part 2, the easy way is to execute them until they block for input and return number of ops
+it does.  When both are blocked and do zero ops, then you are deadlocked.  Easy as eating pancakes.
+
+
+## Day 19 - Series of Tubes
+
+This one is a really fun ascii rail shooter.
+Trick: use a direction vector to avoid a bunch of stupid special case code:
+Example: starting direction is (x=0, y=1).  You just add that to current location.
 
