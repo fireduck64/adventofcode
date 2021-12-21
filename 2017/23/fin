@@ -1,0 +1,32 @@
+set b 93
+set c b
+jnz a 2 # if real mode, jump
+jnz 1 5 # if test mode, jump
+mul b 100        # real mode setup
+sub b -100000    # real mode setup
+set c b          # real mode setup
+sub c -17000     # real mode setup
+set f 1
+set d 2
+set e 2  # out loop start
+set g d  # Loop start
+mul g e  # g = e * d
+sub g b  # g = e * d - b
+jnz g 2  # if g != 0, jump
+set f 0  # if g == 0, f=0
+sub e -1 
+set g e
+sub g b
+jnz g -8 # if e != b, loop start
+sub d -1
+set g d
+sub g b # if d != b, out loop start
+jnz g -13
+jnz f 2
+sub h -1
+set g b
+sub g c
+jnz g 2
+jnz 1 3
+sub b -17
+jnz 1 -23

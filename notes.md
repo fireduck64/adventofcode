@@ -377,4 +377,9 @@ Example: starting direction is (x=0, y=1).  You just add that to current locatio
 
 A pain in the ass debug the assembly problem.  Grrr.
 
+Anyways, after reading the assmbly, it would counting the number of composit numbers (not prime)
+in a certain range when checking every 17.  The loops I was trying to optimize out were doing
+real work, in that they were checking multiplication values.  Bah.
+
+
 
