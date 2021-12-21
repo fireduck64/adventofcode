@@ -119,6 +119,14 @@ One trick is that if you start with one sensor and then add other sensors to tha
 you'll have some sensors that can't be added.  Those need to be merged into one glob and then the two globs
 can match up and touch each other.
 
+## Day 20 - Trench Map
+
+This first feels like a pretty standard conways sort of thing.  
+
+But the problem is that depending on the inputs the infinite area might
+be 1 rather than zero.  Ha.  So you could do something silly like go X outside of initial area
+and say fuck the noise outside or could determine a default value for things in the new map
+on each iteration.
 
 # 2020
 
@@ -364,4 +372,9 @@ it does.  When both are blocked and do zero ops, then you are deadlocked.  Easy 
 This one is a really fun ascii rail shooter.
 Trick: use a direction vector to avoid a bunch of stupid special case code:
 Example: starting direction is (x=0, y=1).  You just add that to current location.
+
+## Day 23 - Coprocessor Conflagration
+
+A pain in the ass debug the assembly problem.  Grrr.
+
 
