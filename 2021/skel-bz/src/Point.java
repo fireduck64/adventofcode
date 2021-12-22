@@ -1,5 +1,5 @@
 
-public class Point
+public class Point implements Comparable<Point>
 {
   final long x;
   final long y;
@@ -38,6 +38,24 @@ public class Point
   public boolean equals(Object o)
   {
     return toString().equals(o.toString());
+  }
+
+  @Override
+  public int compareTo(Point p)
+  {
+    if (x < p.x) return -1;
+    if (x > p.x) return 1;
+
+    if (y < p.y) return -1;
+    if (y > p.y) return 1;
+
+    if (z < p.z) return -1;
+    if (z > p.z) return 1;
+
+    if (w < p.w) return -1;
+    if (w > p.w) return 1;
+
+    return 0;
   }
 
   public Point add(Point p)
