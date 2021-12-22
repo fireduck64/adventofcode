@@ -62,6 +62,10 @@ public class Point implements Comparable<Point>
   {
     return new Point(x + p.x, y +  p.y, z+p.z, w+p.w);
   }
+  public Point mult(long m)
+  {
+    return new Point(x * m, y * m, z * m, w * m);
+  }
 
   public double getDist(Point p)
   {
