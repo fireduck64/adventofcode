@@ -45,12 +45,12 @@ public class Prob
         lst.get(4),
         lst.get(5));
     }
-    System.out.println(mapo.getCounts());
+    System.out.println("Part 1: " + mapo.getCounts());
     System.out.println(edge_x.size());
     System.out.println(edge_y.size());
     System.out.println(edge_z.size());
 
-    System.out.println(getCount());
+    System.out.println("Part 2: " + getCount());
 
     test();
   }
@@ -151,8 +151,6 @@ public class Prob
       call_list.add(new Callable<String>(){
         public String call()
         {
-          System.out.println("checking " + x);
-
           for(int y_idx = 0; y_idx<ylst.size()-1; y_idx++)
           for(int z_idx = 0; z_idx<zlst.size()-1; z_idx++)
           {
@@ -212,7 +210,7 @@ public class Prob
     for(int y = y1; y<=y2; y++)
     for(int z = z1; z<=z2; z++)
     {
-      //mapo.set(x,y,z,state);
+      mapo.set(x,y,z,state);
 
     }
 
