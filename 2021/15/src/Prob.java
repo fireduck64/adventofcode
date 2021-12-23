@@ -16,6 +16,7 @@ public class Prob
 
   Map2D<Integer> map = new Map2D<Integer>(1000000000);
   public Prob(Scanner scan)
+    throws Exception
   {
     MapLoad.loadMapInt(map, scan);
 
@@ -43,7 +44,7 @@ public class Prob
       }
     }
 
-    SS p2 = (SS)Search.search(new SS(new Point(0,0), 0));
+    SS p2 = (SS)Search.searchPara(new SS(new Point(0,0), 0));
     System.out.println(p2);
     System.out.println("Part 2: " + p2.getCost());
   }

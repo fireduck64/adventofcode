@@ -27,7 +27,8 @@ public class Prob
 
     target.print();
 
-    SS sol = (SS)Search.search(new SS(0, input.copy()));
+    //SS sol = (SS)Search.search(new SS(0, input.copy()));
+    SS sol = (SS)Search.searchPara(new SS(0, input.copy()));
     if (sol == null) System.out.println("No solution");
     System.out.println("Part 1: " + sol.getCost());
 
