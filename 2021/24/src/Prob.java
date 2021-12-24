@@ -66,7 +66,6 @@ public class Prob
       {
         long e = i;
         // Wild guess that the first number has to be 9
-        if (exec_pos < 5) e = 9;
         TreeMap<String, Long> v2= new TreeMap<>();
         v2.putAll(vals);
         v2.put(reg, e);
@@ -112,7 +111,6 @@ public class Prob
     if (line.startsWith("inp"))
     {
       String reg = Tok.en(line, " ").get(1);
-      //for(long i=9; i>0; i--)
       for(long i=1; i<=9; i++)
       {
         long e = i;
