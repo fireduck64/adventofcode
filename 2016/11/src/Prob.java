@@ -20,6 +20,7 @@ public class Prob
   Random rnd=new Random();
 
   public Prob(Scanner scan)
+    throws Exception
   {
     TreeMap<Integer, TreeSet<String> > start_items = new TreeMap<>();
     // Fork reading that input
@@ -40,7 +41,7 @@ public class Prob
     start_items.get(3).add("CR");
     start_items.get(3).add("CL"); //plutonium
 
-    SS fin1 = (SS) Search.search(new SS(0, 1, start_items));
+    SS fin1 = (SS) Search.searchPara(new SS(0, 1, start_items));
     System.out.println("Part 1: " + fin1.getCost());
     System.out.println(fin1);
 
@@ -50,7 +51,7 @@ public class Prob
     start_items.get(1).add("GD");
     start_items.get(1).add("CD");
 
-    SS fin2 = (SS) Search.search(new SS(0, 1, start_items));
+    SS fin2 = (SS) Search.searchPara(new SS(0, 1, start_items));
     System.out.println("Part 1: " + fin1.getCost());
     System.out.println(fin1);
     System.out.println("Part 2: " + fin2.getCost());
