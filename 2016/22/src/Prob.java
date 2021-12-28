@@ -28,7 +28,11 @@ public class Prob
         line = line.replace("%","");
         List<Integer> lst = Tok.ent(line, " ");
         String name = Tok.en(line, " ").get(0);
-        Node n = new Node(name, lst.get(0), lst.get(1));
+
+        String f = name.replace("-"," ").replace("x","").replace("y","");
+        List<Integer> nums = Tok.ent(f, " ");
+        Point loc = new Point(nums.get(0), nums.get(1));
+        Node n = new Node(loc, lst.get(0), lst.get(1));
         if (lst.get(1) + lst.get(2) != lst.get(0)) E.er();
 
         nodes.add(n);
@@ -130,31 +134,26 @@ public class Prob
 
   public class Node
   {
-    final String name;
     final int size;
     final int used;
     final int free;
     final Point loc;
 
-    public Node(String name, int size, int used)
+    public Node(Point loc, int size, int used)
     {
-      this.name = name;
+      this.loc = loc;
       this.size = size;
       this.used = used;
       this.free = size - used;
-      
-      String f = name.replace("-"," ").replace("x","").replace("y","");
-      List<Integer> nums = Tok.ent(f, " ");
-      loc = new Point(nums.get(0), nums.get(1));
     }
     public String toString()
     {
-      return String.format("Node{%s %s s:%d u:%d f:%d}", name, loc, size,used,free);
+      return String.format("Node{%s s:%d u:%d f:%d}", loc, size,used,free);
 
     }
     public Node addData(int s)
     { 
-      return new Node(name, size, used+s);
+      return new Node(loc, size, used+s);
     }
   }
 
