@@ -2,9 +2,13 @@
 import java.util.*;
 
 import com.google.common.collect.TreeMultimap;
+import java.util.concurrent.atomic.AtomicLong;
+import duckutil.MultiAtomicLong;
+import duckutil.PeriodicThread;
 
 public class Search
 {
+  public static final long print_every=10000;
 
   public static class SearchCtx
   {
@@ -13,6 +17,8 @@ public class Search
     private LinkedList<State> terms=new LinkedList<>();
     private double best_term=1e15;
     private volatile boolean has_terms=false;
+    protected volatile State recent_state=null;
+    protected MultiAtomicLong states = new MultiAtomicLong();
 
     public boolean checkVisit(State state, double cost)
     {
@@ -111,8 +117,10 @@ public class Search
         {
           return;
         }
+        ctx.states.add(1L);
         double cost = me.getKey().cost;
         State s = me.getValue();
+        ctx.recent_state=s;
 
 
         if (s.isTerm())
@@ -129,13 +137,46 @@ public class Search
 
           for(State n : s.next())
           {
-            ctx.enqueue(new StateSort(n.getCost() + n.getEstimate(), rnd.nextLong()), n);
+            ctx.enqueue(new StateSort(n.getCost() + n.getEstimate(), n.getLean(), rnd.nextLong()), n);
           }
         }
 
       }
 
 
+  }
+  public static class ParaMetricThread extends PeriodicThread
+  {
+    SearchCtx ctx;
+    private long last_count=0L;
+    public ParaMetricThread(SearchCtx ctx)
+    {
+      super(2000);
+      this.ctx = ctx;
+
+    }
+    public void runPass()
+    {
+      long s = ctx.states.sum();
+      if (s - last_count > print_every)
+      {
+        int queue_size = 0;
+        synchronized(ctx.queue)
+        {
+          queue_size = ctx.queue.size();
+        }
+        System.out.println(getReport(s,queue_size, ctx.recent_state));
+
+        last_count += print_every;
+      }
+
+    }
+
+
+  }
+  public static String getReport(long count, int queue_size, State st)
+  {
+    return String.format("  States: %d {q:%d} {c:%f e:%f l:%f} - %s", count, queue_size, st.getCost(), st.getEstimate(), st.getLean(), st.toString());
   }
   
   public static class ParaSearchThread extends Thread
@@ -164,7 +205,7 @@ public class Search
     throws Exception
   {
     SearchCtx ctx = new SearchCtx();
-    ctx.enqueue(new StateSort(start.getCost(), 0), start);
+    ctx.enqueue(new StateSort(start.getCost(), start.getLean(), 0), start);
     LinkedList<ParaSearchThread> threads = new LinkedList<>();
     for(int i=0; i<64; i++)
     {
@@ -172,10 +213,13 @@ public class Search
       t.start();
       threads.add(t);
     }
+    ParaMetricThread metric = new ParaMetricThread(ctx);
+    metric.start();
     for(ParaSearchThread t : threads)
     {
       t.join();
     }
+    metric.halt();
 
     return ctx.getBestTermVal();
 
@@ -191,7 +235,7 @@ public class Search
     HashSet<String> visited = new HashSet<>();
 
     Random rnd = new Random();
-    queue.put(new StateSort(start.getCost(), sort_idx), start);
+    queue.put(new StateSort(start.getCost(), start.getLean(), sort_idx), start);
     sort_idx++;
 
     int count = 0;
@@ -206,9 +250,9 @@ public class Search
       //I.remove();
       State s = queue.pollFirstEntry().getValue();
 
-      if (count % 10000 == 0)
+      if (count % print_every == 0)
       {
-        System.out.println(String.format("Search %d %f (q:%d) - %s", count, s.getCost(), queue.size(), s));
+        System.out.println(getReport(count, queue.size(), s));
       }
       if (s.isTerm())
       {
@@ -224,7 +268,7 @@ public class Search
 
         for(State n : s.next())
         {
-          queue.put(new StateSort(n.getCost() + n.getEstimate(), sort_idx), n);
+          queue.put(new StateSort(n.getCost() + n.getEstimate(), n.getLean(), sort_idx), n);
           sort_idx++;
           //queue.put(n.getCost() + n.getEstimate() + rnd.nextDouble()/1e6, n);
         }
@@ -239,11 +283,14 @@ public class Search
   public static class StateSort implements Comparable<StateSort>
   {
     private double cost;
+    private double lean;
     private long idx;
 
-    public StateSort(double cost, long idx)
+    
+    public StateSort(double cost, double lean, long idx)
     {
       this.cost = cost;
+      this.lean = lean;
       this.idx = idx;
 
     }
@@ -251,6 +298,8 @@ public class Search
     {
       if (cost < ss.cost) return -1;
       if (cost > ss.cost) return 1;
+      if (lean < ss.lean) return -1;
+      if (lean > ss.lean) return 1;
       if (idx < ss.idx) return -1;
       if (idx > ss.idx) return 1;
 

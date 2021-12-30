@@ -8,7 +8,7 @@ then
   target="$1"
 fi
 
-bazel build :all
+bazel build :all :Prob_deploy.jar
 
 if [ ! -e "$target" ]
 then

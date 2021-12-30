@@ -16,6 +16,7 @@ public class Prob
   ArrayList<Node> nodes = new ArrayList<>();
 
   Map2D<Node> mapo = new Map2D<Node>((Node)null);
+  int action_dist = 1000;
 
   public Prob(Scanner scan)
     throws Exception
@@ -57,11 +58,22 @@ public class Prob
     }
     System.out.println("Part 1: " + pairs);
 
+    //System.out.println(mapo.getPrintOut());
+
     Node target = mapo.get(mapo.high_x, 0);
     System.out.println("Target: " + target);
+    System.out.println("Searching with action dist: " + action_dist);
 
-    SS fin=(SS)Search.searchPara(new SS(mapo, target.loc, 0));
-    System.out.println("Part 2: " + fin.getCost());
+    SS fin=(SS)Search.searchPara(new SS(mapo.copy(), target.loc, 0));
+    if (fin == null)
+    {
+      System.out.println("Part 2 - no results");
+    }
+    else
+    {
+      System.out.println("Part 2: " + fin.getCost());
+      System.out.println(fin);
+    }
     
 
   }
@@ -88,9 +100,25 @@ public class Prob
     {
       return cost;
     }
+
+    @Override
+    public double getLean()
+    {
+      double total = 0.0;
+      for(Point p : map.getAllPoints())
+      {
+        double y=p.y;
+        double used = map.get(p).used;
+        total += y*used;
+      }
+      // The more we have things away from y=0 the higher the value
+      return -total;
+
+    }
+    @Override
     public double getEstimate()
     {
-      return magic_loc.getDistM(new Point(0,0));
+      return magic_loc.getDistM(new Point(0,0)) * 10.0;
     }
     public boolean isTerm()
     {
@@ -103,19 +131,23 @@ public class Prob
 
       for(Point pa : map.getAllPoints())
       {
+      if (pa.getDistM(magic_loc) <= action_dist)
+      {
         for(Point pb : map.getAdj(pa,false))
         {
           if (map.get(pb) != null)
           {
+            if (map.get(pa).used > 0)
             if (map.get(pa).used <= map.get(pb).free)
             {
+              int move = map.get(pa).used;
               Point next_magic = magic_loc;
               if (pa.equals(magic_loc)) 
               {
+                System.out.println("Moving magic "+move +" " + pa + " to " + pb);
                 next_magic=pb;
               }
 
-              int move = map.get(pa).used;
               Map2D<Node> nmap = map.copy();
               nmap.set(pa, map.get(pa).addData(-move));
               nmap.set(pb, map.get(pb).addData( move));
@@ -125,6 +157,7 @@ public class Prob
             }
           }
         }
+      }
       }
 
       return lst;
@@ -148,13 +181,42 @@ public class Prob
     }
     public String toString()
     {
-      return String.format("Node{%s s:%d u:%d f:%d}", loc, size,used,free);
+      return "" + used;
+      //return String.format("{s:%d u:%d f:%d}", size,used, free);
+      //return String.format("Node{%s s:%d u:%d f:%d}", loc, size,used,free);
 
     }
     public Node addData(int s)
     { 
       return new Node(loc, size, used+s);
     }
+  }
+
+  public TreeSet<Point> floodOut(Point start)
+  {
+    TreeSet<Point> accessible=new TreeSet<>();
+
+    LinkedList<Point> queue = new LinkedList<Point>();
+    TreeSet<Point> visit = new TreeSet<>();
+
+    while(queue.size() > 0)
+    {
+      Point p = queue.pollFirst();
+      for(Point q : mapo.getAdj(p, false))
+      {
+        if (mapo.get(q) != null)
+        {
+
+        }
+
+      }
+
+    }
+
+    return accessible;
+
+
+
   }
 
 }

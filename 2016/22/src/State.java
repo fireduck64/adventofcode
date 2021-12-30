@@ -26,6 +26,14 @@ public abstract class State implements Comparable<State>
     return 0.0;
   }
 
+  /**
+   * Acts as a tie breaker for a bunch of states that have equal cost and estimate
+   */ 
+  public double getLean()
+  {
+    return 0.0;
+  }
+
   @Override
   public int compareTo(State o)
   {
