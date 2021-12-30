@@ -64,7 +64,7 @@ public class Prob
     System.out.println("Target: " + target);
     System.out.println("Searching with action dist: " + action_dist);
 
-    SS fin=(SS)Search.searchPara(new SS(mapo.copy(), target.loc, 0));
+    SS fin=(SS)Search.search(new SS(mapo.copy(), target.loc, 0));
     if (fin == null)
     {
       System.out.println("Part 2 - no results");
@@ -118,7 +118,7 @@ public class Prob
     @Override
     public double getEstimate()
     {
-      return magic_loc.getDistM(new Point(0,0)) * 10.0;
+      return magic_loc.getDistM(new Point(0,0)) * 1.0;
     }
     public boolean isTerm()
     {
@@ -126,41 +126,101 @@ public class Prob
     }
     public List<State> next()
     {
-      //System.out.println(this);
       LinkedList<State> lst = new LinkedList<>();
 
-      for(Point pa : map.getAllPoints())
+
+      /*for(Point pa : map.getAllPoints())
       {
-      if (pa.getDistM(magic_loc) <= action_dist)
-      {
-        for(Point pb : map.getAdj(pa,false))
+        if (pa.getDistM(magic_loc) <= action_dist)
         {
-          if (map.get(pb) != null)
+          for(Point pb : map.getAdj(pa,false))
           {
-            if (map.get(pa).used > 0)
-            if (map.get(pa).used <= map.get(pb).free)
+            if (map.get(pb) != null)
             {
-              int move = map.get(pa).used;
-              Point next_magic = magic_loc;
-              if (pa.equals(magic_loc)) 
+              if (map.get(pa).used > 0)
+              if (map.get(pa).used <= map.get(pb).free)
               {
-                System.out.println("Moving magic "+move +" " + pa + " to " + pb);
-                next_magic=pb;
+                int move = map.get(pa).used;
+                Point next_magic = magic_loc;
+                if (pa.equals(magic_loc)) 
+                {
+                  System.out.println("Moving magic "+move +" " + pa + " to " + pb);
+                  next_magic=pb;
+                }
+
+                Map2D<Node> nmap = map.copy();
+                nmap.set(pa, map.get(pa).addData(-move));
+                nmap.set(pb, map.get(pb).addData( move));
+
+                lst.add(new SS(nmap, next_magic, cost+1));
+
               }
-
-              Map2D<Node> nmap = map.copy();
-              nmap.set(pa, map.get(pa).addData(-move));
-              nmap.set(pb, map.get(pb).addData( move));
-
-              lst.add(new SS(nmap, next_magic, cost+1));
-
             }
           }
         }
+      }*/
+
+      for(Point n : map.getAdj(magic_loc, false))
+      {
+        Map2D<Integer> deltas = new Map2D<Integer>(-10000);
+        deltas.set(magic_loc, -map.get(magic_loc).used);
+        deltas.set(n, map.get(magic_loc).used);
+        lst.addAll( pushPop( deltas, n, n) );
       }
-      }
+      System.out.println("Magic moves: " + lst.size());
 
       return lst;
+    }
+
+    HashSet<String> rec_visit=new HashSet<>();
+
+    private List<State> pushPop(Map2D<Integer> deltas, Point loc, Point next_magic)
+    {
+      //System.out.println(deltas.getAllPoints().size());
+      LinkedList<State> lst = new LinkedList<>();
+      if (map.get(loc) == null) return lst;
+      if (deltas.getAllPoints().size() > 50) return lst;
+      if (map.get(loc).free >= deltas.get(loc))
+      {  // We can fit what we need there already
+        // Generate new state
+        int cost_add = 0;
+        Map2D<Node> nmap = map.copy();
+        for(Point p : deltas.getAllPoints())
+        {
+          cost_add++;
+          nmap.set(p, map.get(p).addData( deltas.get(p) ) );
+        }
+        lst.add(new SS(nmap, next_magic, cost+cost_add-1));
+        System.out.println("Found one path: " + deltas.getAllPoints().size());
+
+        return lst;
+      }
+      String key = deltas.getAllPoints() + "/" + loc.toString() + "/" + next_magic.toString();
+      if (rec_visit.contains(key))
+      {
+        return lst;
+      }
+      rec_visit.add(key);
+      int shift = map.get(loc).used;
+
+      for(Point n : map.getAdj(loc, false))
+      {
+        if (deltas.get(n) == -10000) // not on the list yet
+        if (map.get(n) != null)
+        if (map.get(n).size >= shift)
+        {
+          Map2D<Integer> nd = deltas.copy();
+          // Crap from current node need to be pushed into next
+          nd.set(loc, nd.get(loc) - shift);
+          nd.set(n, shift);
+          lst.addAll( pushPop(nd, n, next_magic) );
+        }
+
+      }
+
+
+      return lst;
+
     }
 
   }
