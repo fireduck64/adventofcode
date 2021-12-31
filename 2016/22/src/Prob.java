@@ -78,6 +78,86 @@ public class Prob
 
   }
 
+  /** To find a path from a point to move the magic data */
+  public class SSub extends State
+  {
+    SS ctx;
+    Point loc;
+    TreeMap<Point,Integer> deltas; // change of used.
+    List<Point> path;
+
+    public SSub(SS ctx, Point loc, TreeMap<Point, Integer> deltas, List<Point> path)
+    {
+      this.ctx = ctx;
+      this.loc = loc;
+      this.deltas = deltas;
+      this.path = path;
+    }
+
+    public boolean isTerm()
+    {
+      return (loc.equals(ctx.magic_loc));
+    }
+    public String toString()
+    {
+      //return "ssub: " + loc +"/" + deltas.toString();
+      //return "ssub: " + loc +"/" + deltas.keySet().toString();
+      int d = 0;
+      if (deltas.containsKey(loc)) d = deltas.get(loc);
+      return "ssub: " + loc + "/" + d;
+    }
+    public double getCost()
+    {
+      return path.size()-1;
+    }
+    public double getEstimate()
+    {
+      return loc.getDistM(ctx.magic_loc);
+    }
+    public List<State> next()
+    {
+      List<State> lst = new LinkedList<State>();
+
+      int cap = ctx.map.get(loc).free;
+      if (deltas.containsKey(loc)) cap -= deltas.get(loc);
+
+      for(Point n : ctx.map.getAdj(loc, false))
+      {
+        if (ctx.map.get(n) != null)
+        if (!deltas.containsKey(n))
+        if (ctx.map.get(n).used <= cap)
+        {
+          // moving n to loc
+          TreeMap<Point, Integer> nd = new TreeMap<Point, Integer>();
+          nd.putAll(deltas);
+          int shift = ctx.map.get(n).used;
+          nd.put(n, -shift);
+
+          int loc_delta = 0;
+          if (nd.containsKey(loc)) loc_delta = nd.get(loc);
+          nd.put(loc, loc_delta + shift);
+          ArrayList<Point> np = new ArrayList<Point>();
+          np.addAll(path);
+          np.add(n);
+          lst.add(new SSub(ctx, n, nd, np));
+        }
+      }
+
+      return lst;
+    }
+    private void apply(Map2D<Node> map)
+    {
+      for(Point p : deltas.keySet())
+      {
+        int d = deltas.get(p);
+        map.set(p, map.get(p).addData(d));
+
+      }
+
+    }
+
+  }
+
   public class SS extends State
   {
     Map2D<Node> map;
@@ -160,14 +240,45 @@ public class Prob
         }
       }*/
 
-      for(Point n : map.getAdj(magic_loc, false))
+      /*for(Point n : map.getAdj(magic_loc, false))
       {
         Map2D<Integer> deltas = new Map2D<Integer>(-10000);
         deltas.set(magic_loc, -map.get(magic_loc).used);
         deltas.set(n, map.get(magic_loc).used);
         lst.addAll( pushPop( deltas, n, n) );
+      }*/
+
+      List<State> sub_start=new LinkedList<>();
+      for(Point n : map.getAllPoints())
+      {
+        if (!n.equals(magic_loc))
+        {
+          sub_start.add(new SSub(this, n, new TreeMap<Point, Integer>(),ImmutableList.of(n)));
+        }
       }
-      System.out.println("Magic moves: " + lst.size());
+
+      List<State> res_lst = Search.searchMulti( sub_start, 8);
+      for(State s : res_lst)
+      {
+        SSub res = (SSub)s;
+        if (res != null)
+        {
+          Map2D<Node> nm = map.copy();
+          int nc = cost + (int)Math.round(res.getCost());
+          res.apply(nm);
+
+          //System.out.println("Magic: " + magic_loc);
+          //System.out.println("Path: " + res.path);
+
+          Point next_magic = res.path.get(res.path.size() - 2);
+          if (magic_loc.getDistM(res.path.get(res.path.size() -1))!=0) E.er("Not magic");
+          if (next_magic.getDistM(magic_loc) != 1) E.er("not adj");
+          lst.add(new SS(nm, next_magic, nc));
+        }
+      }
+    
+
+      //System.out.println("Magic moves: " + lst.size());
 
       return lst;
     }
@@ -191,7 +302,7 @@ public class Prob
           nmap.set(p, map.get(p).addData( deltas.get(p) ) );
         }
         lst.add(new SS(nmap, next_magic, cost+cost_add-1));
-        System.out.println("Found one path: " + deltas.getAllPoints().size());
+        //System.out.println("Found one path: " + deltas.getAllPoints().size());
 
         return lst;
       }
@@ -244,7 +355,6 @@ public class Prob
       return "" + used;
       //return String.format("{s:%d u:%d f:%d}", size,used, free);
       //return String.format("Node{%s s:%d u:%d f:%d}", loc, size,used,free);
-
     }
     public Node addData(int s)
     { 

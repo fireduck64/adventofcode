@@ -225,6 +225,68 @@ public class Search
 
   }
 
+  public static List<State> searchMulti(List<State> start_list, int max)
+  {
+    //TreeMultimap<Double, State> queue = TreeMultimap.create();
+    TreeMap<StateSort, State> queue = new TreeMap<>();
+    long sort_idx = 0;
+
+    HashSet<String> visited = new HashSet<>();
+
+    Random rnd = new Random();
+    for(State start : start_list)
+    {
+      queue.put(new StateSort(start.getCost(), start.getLean(), sort_idx), start);
+      sort_idx++;
+    }
+    LinkedList<State> final_list = new LinkedList<>();
+
+    int count = 0;
+    while(!queue.isEmpty())
+    {
+      count++;
+      
+      //Map.Entry<Double, Collection<State> > me =  queue.asMap().firstEntry();
+
+      //Iterator<State> I = me.getValue().iterator();
+      //State s = I.next();
+      //I.remove();
+      State s = queue.pollFirstEntry().getValue();
+
+      if (count % print_every == 0)
+      {
+        System.out.println(getReport(count, queue.size(), s));
+      }
+      if (s.isTerm())
+      {
+        //System.out.println("Search solution: " + s);
+        final_list.add(s);
+        if (final_list.size() >= max) return final_list;
+
+        continue; // Don't expand after term
+      }
+
+      String hash = s.getHash();
+
+      if (!visited.contains(hash))
+      {
+        visited.add(hash);
+
+        for(State n : s.next())
+        {
+          queue.put(new StateSort(n.getCost() + n.getEstimate(), n.getLean(), sort_idx), n);
+          sort_idx++;
+          //queue.put(n.getCost() + n.getEstimate() + rnd.nextDouble()/1e6, n);
+        }
+      }
+
+    }
+
+    return final_list;
+
+  }
+
+
 
   public static State search(State start)
   {
