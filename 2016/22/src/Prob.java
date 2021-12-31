@@ -64,7 +64,7 @@ public class Prob
     System.out.println("Target: " + target);
     System.out.println("Searching with action dist: " + action_dist);
 
-    SS fin=(SS)Search.search(new SS(mapo.copy(), target.loc, 0));
+    SS fin=(SS)Search.searchPara(new SS(mapo.copy(), target.loc, 0));
     if (fin == null)
     {
       System.out.println("Part 2 - no results");
