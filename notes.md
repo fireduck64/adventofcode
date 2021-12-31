@@ -381,5 +381,21 @@ Anyways, after reading the assmbly, it would counting the number of composit num
 in a certain range when checking every 17.  The loops I was trying to optimize out were doing
 real work, in that they were checking multiplication values.  Bah.
 
+# 2016
 
+## Day 22 - Grid Computing
+
+What the fuck.  I tried to do this with a regular A-star.  Branching factor was way way too big.
+I tried to get clever with some recursive solution to finding good next states.  Way too much branching.
+
+I tried to use A-star to solve the sub-problem of finding a way to move the actual magic data.
+Way too much branching as well.
+
+Then I started fucking up the A-star visited state data.  Rather than location + path or location + map data,
+I trimmed to just location.  I'm sure there are some inputs this won't work for.
+Basically, the first time we move the magic data to some location, we assume that is good regardless of what
+madness we might have done to the rest of the nodes.  If there is some solution that involves leaving some
+intermediate node alone to use it later, my solution would probably clobber that and be wrong.
+
+Maybe.  Whatever, gold star, good enough.
 
