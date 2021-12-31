@@ -174,7 +174,9 @@ public class Prob
 
     public String toString()
     {
-      return map.getHashState() + "/" + magic_loc; 
+      //`return map.getHashState() + "/" + magic_loc; 
+      // What! How can this work?
+      return  magic_loc.toString(); 
     }
     public double getCost()
     {
