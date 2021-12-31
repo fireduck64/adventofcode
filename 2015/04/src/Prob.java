@@ -28,6 +28,17 @@ public class Prob
       }
       v++;
     }
+    while(true)
+    {
+      String hash = HUtil.getHash(input + v);
+      if (hash.startsWith("000000"))
+      {
+        System.out.println("Part 2: " + v);
+        break;
+      }
+      v++;
+    }
+
 
   }
 
