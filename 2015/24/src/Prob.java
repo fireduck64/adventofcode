@@ -41,6 +41,25 @@ public class Prob
 
   HashSet<String> visit = new HashSet<>(8192, 0.5f);
 
+  public List<Integer> sort(List<Integer> grps)
+  {
+    int first = grps.get(0);
+    ArrayList<Integer> o=new ArrayList<>();
+    for(int i=1; i<grps.size(); i++)
+    {
+      o.add(grps.get(i));
+
+    }
+    Collections.sort(o);
+
+    ArrayList<Integer> lst = new ArrayList<>();
+    lst.add(first);
+    lst.addAll(o);
+    return lst;
+
+  }
+
+
   public void rec(int pos, List<Integer> grps, long qe, int g1count)
   {
     if (best_count < 1000)
@@ -51,8 +70,9 @@ public class Prob
     for(int i=0; i<grps.size(); i++)
     {
       if (grps.get(i) > tower_size) return;
-
     }
+
+    grps = sort(grps);
 
     String key = "" + pos + "/" + grps.toString() + "/" + qe + "/" + g1count;
     if (pos == boxes.size())
@@ -61,7 +81,7 @@ public class Prob
       {
         if (grps.get(i) != tower_size) return;
       }
-        System.out.println("Sol: " + key);
+        //System.out.println("Sol: " + key);
         if (g1count < best_count)
         {
           best_qe = qe;
