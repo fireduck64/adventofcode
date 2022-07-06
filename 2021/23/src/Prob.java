@@ -20,17 +20,37 @@ public class Prob
   public Prob(Scanner scan)
     throws Exception
   {
-    MapLoad.loadMap(input, scan);
-    input.print();
 
-    MapLoad.loadMap(target, new Scanner(new FileInputStream("target2")));
+    {
+      MapLoad.loadMap(input, new Scanner(new FileInputStream("input")));
+      //input.print();
 
-    target.print();
+      MapLoad.loadMap(target, new Scanner(new FileInputStream("target")));
 
-    //SS sol = (SS)Search.search(new SS(0, input.copy()));
-    SS sol = (SS)Search.searchPara(new SS(0, input.copy()));
-    if (sol == null) System.out.println("No solution");
-    System.out.println("Part 1: " + sol.getCost());
+      //target.print();
+
+      //SS sol = (SS)Search.search(new SS(0, input.copy()));
+      SS sol = (SS)Search.searchPara(new SS(0, input.copy()));
+      if (sol == null) System.out.println("No solution");
+      System.out.println("Part 1: " + sol.getCost());
+    }
+    {
+      input = new Map2D<Character>('#');
+      target = new Map2D<Character>('#');
+      MapLoad.loadMap(input, new Scanner(new FileInputStream("input2")));
+      //input.print();
+
+      MapLoad.loadMap(target, new Scanner(new FileInputStream("target2")));
+
+      //target.print();
+
+      //SS sol = (SS)Search.search(new SS(0, input.copy()));
+      SS sol = (SS)Search.searchPara(new SS(0, input.copy()));
+      if (sol == null) System.out.println("No solution");
+      System.out.println("Part 2: " + sol.getCost());
+
+
+    }
 
   }
 
