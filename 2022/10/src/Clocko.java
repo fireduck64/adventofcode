@@ -11,7 +11,6 @@ public class Clocko
 
   Map<Integer, Integer> vals = new TreeMap<>();
 
-
   public Clocko(List<String> lines)
   {
     this.lines = lines;
@@ -20,23 +19,20 @@ public class Clocko
 
   private void draw()
   {
-      int crt_pos_x = cycle % 40;
-      int crt_pos_y = cycle / 40;
-      int dist = Math.abs( x - crt_pos_x);
+    int crt_pos_x = cycle % 40;
+    int crt_pos_y = cycle / 40;
+    int dist = Math.abs( x - crt_pos_x);
 
-      //System.out.println(String.format("%d %d %d %d %d", cycle, crt_pos_x, crt_pos_y, low, x));
+    //System.out.println(String.format("%d %d %d %d %d", cycle, crt_pos_x, crt_pos_y, low, x));
 
-      if (dist <= 1)
-      {
-        map.set(crt_pos_x, crt_pos_y, '#');
-      }
-      else
-      {
-        map.set(crt_pos_x, crt_pos_y, ' ');
-
-      }
-
-
+    if (dist <= 1)
+    {
+      map.set(crt_pos_x, crt_pos_y, '#');
+    }
+    else
+    {
+      map.set(crt_pos_x, crt_pos_y, ' ');
+    }
   }
 
   public void run()
@@ -51,8 +47,8 @@ public class Clocko
       if (line.startsWith("noop"))
       {
         cycle++;
-        draw();
         vals.put(cycle, x);
+        draw();
         
       }
       else if (line.startsWith("addx"))
@@ -62,6 +58,7 @@ public class Clocko
         cycle+=1;
         vals.put(cycle, x);
         draw();
+
         cycle+=1;
         vals.put(cycle, x);
         x+=val;
