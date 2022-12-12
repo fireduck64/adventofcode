@@ -8,7 +8,7 @@ import duckutil.PeriodicThread;
 
 public class Search
 {
-  public static final long print_every=100;
+  public static final long print_every=10000;
 
   public static class SearchCtx
   {
