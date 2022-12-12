@@ -12,4 +12,15 @@ public class In
     return lines;
   }
 
+  public static Scanner newScan(List<String> lines)
+  {
+    StringBuilder sb =new StringBuilder();
+    for(String l  :lines)
+    {
+      sb.append(l);
+      sb.append('\n');
+    }
+    return new Scanner(sb.toString());
+  }
+
 }
