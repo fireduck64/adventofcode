@@ -30,12 +30,12 @@ public class Prob
     }
 
     SS ss = (SS)Search.search(new SS(start, 0));
-    System.out.println(ss.steps);
+    System.out.println("Part 1: " + ss.steps);
 
     System.out.println("Starts: " + starts.size());
 
     ss = (SS)Search.searchM(starts);
-    System.out.println(ss.steps);
+    System.out.println("Part 2: " + ss.steps);
 
   }
 

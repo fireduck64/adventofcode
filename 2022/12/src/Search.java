@@ -2,6 +2,7 @@
 import java.util.*;
 
 import com.google.common.collect.TreeMultimap;
+import com.google.common.collect.ImmutableList;
 import java.util.concurrent.atomic.AtomicLong;
 import duckutil.MultiAtomicLong;
 import duckutil.PeriodicThread;
@@ -285,56 +286,7 @@ public class Search
 
   public static State search(State start)
   {
-    //TreeMultimap<Double, State> queue = TreeMultimap.create();
-    TreeMap<StateSort, State> queue = new TreeMap<>();
-    long sort_idx = 0;
-
-    HashSet<String> visited = new HashSet<>();
-
-    Random rnd = new Random();
-    queue.put(new StateSort(start.getCost(), start.getLean(), sort_idx), start);
-    sort_idx++;
-
-    int count = 0;
-    while(!queue.isEmpty())
-    {
-      count++;
-      
-      //Map.Entry<Double, Collection<State> > me =  queue.asMap().firstEntry();
-
-      //Iterator<State> I = me.getValue().iterator();
-      //State s = I.next();
-      //I.remove();
-      State s = queue.pollFirstEntry().getValue();
-
-      if (count % print_every == 0)
-      {
-        System.out.println(getReport(count, queue.size(), s));
-      }
-      if (s.isTerm())
-      {
-        System.out.println("Search solution: " + s);
-        return s;
-      }
-
-      String hash = s.getHash();
-
-      if (!visited.contains(hash))
-      {
-        visited.add(hash);
-
-        for(State n : s.next())
-        {
-          queue.put(new StateSort(n.getCost() + n.getEstimate(), n.getLean(), sort_idx), n);
-          sort_idx++;
-          //queue.put(n.getCost() + n.getEstimate() + rnd.nextDouble()/1e6, n);
-        }
-      }
-
-    }
-
-    return null;
-
+    return searchM(ImmutableList.of(start));
   }
 
   public static class StateSort implements Comparable<StateSort>
