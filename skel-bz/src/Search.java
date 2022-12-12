@@ -8,7 +8,7 @@ import duckutil.PeriodicThread;
 
 public class Search
 {
-  public static final long print_every=10000;
+  public static final long print_every=100;
 
   public static class SearchCtx
   {
@@ -222,6 +222,63 @@ public class Search
     metric.halt();
 
     return ctx.getBestTermVal();
+
+  }
+
+  public static State searchM(List<State> starts)
+  {
+    //TreeMultimap<Double, State> queue = TreeMultimap.create();
+    TreeMap<StateSort, State> queue = new TreeMap<>();
+    long sort_idx = 0;
+
+    HashSet<String> visited = new HashSet<>();
+
+    Random rnd = new Random();
+    for(State s : starts)
+    {
+      queue.put(new StateSort(s.getCost(), s.getLean(), sort_idx), s);
+      sort_idx++;
+    }
+
+    int count = 0;
+    while(!queue.isEmpty())
+    {
+      count++;
+      
+      //Map.Entry<Double, Collection<State> > me =  queue.asMap().firstEntry();
+
+      //Iterator<State> I = me.getValue().iterator();
+      //State s = I.next();
+      //I.remove();
+      State s = queue.pollFirstEntry().getValue();
+
+      if (count % print_every == 0)
+      {
+        System.out.println(getReport(count, queue.size(), s));
+      }
+      if (s.isTerm())
+      {
+        System.out.println("Search solution: " + s);
+        return s;
+      }
+
+      String hash = s.getHash();
+
+      if (!visited.contains(hash))
+      {
+        visited.add(hash);
+
+        for(State n : s.next())
+        {
+          queue.put(new StateSort(n.getCost() + n.getEstimate(), n.getLean(), sort_idx), n);
+          sort_idx++;
+          //queue.put(n.getCost() + n.getEstimate() + rnd.nextDouble()/1e6, n);
+        }
+      }
+
+    }
+
+    return null;
 
   }
 
