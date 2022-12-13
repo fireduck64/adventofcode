@@ -67,7 +67,7 @@ public class Prob
       {
         char z = map.get(n);
         boolean allow = false;
-        if (z=='E') allow=true;
+        if ((z=='E') && (map.get(loc) >= 'y'))allow=true;
         if (map.get(loc)=='S') allow=true;
         if ((z>='a') && (z<= map.get(loc))) allow=true;
         if ((z>='a') && (z-1 <= map.get(loc))) allow=true;
