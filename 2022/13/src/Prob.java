@@ -33,10 +33,12 @@ public class Prob
       if (scan.hasNextLine()) scan.nextLine();
 
     }
-    System.out.println(p1);
+    System.out.println("Part 1: " + p1);
 
-    Element e1=train.get(0);
-    Element e2=train.get(1);
+    process(idx+1, "[[2]]", "[[6]]");
+
+    Element e1=train.get(train.size()-1);
+    Element e2=train.get(train.size()-2);
 
     Collections.sort(train);
 
@@ -45,10 +47,12 @@ public class Prob
     {
       if (train.get(i) == e1) p2*=(i+1);
       if (train.get(i) == e2) p2*=(i+1);
-      System.out.println(train.get(i));
+      //System.out.println(train.get(i));
 
     }
-    System.out.println(p2);
+    System.out.println("Part 2: " + p2);
+
+    Tok.demo();
     
 
   }
@@ -57,8 +61,8 @@ public class Prob
   public void process(int idx, String a, String b)
     throws Exception
   {
-    Element ea = new Element(CharBuffer.wrap(a));
-    Element eb = new Element(CharBuffer.wrap(b));
+    Element ea = new Element(Tok.smart(a));
+    Element eb = new Element(Tok.smart(b));
 
     train.add(ea);
     train.add(eb);
@@ -121,50 +125,25 @@ public class Prob
     {
       return -inOrder(this, o);
     }
-    public Element(CharBuffer in)
-      throws Exception
+    public Element(LinkedList<String> in)
     {
-      char n = in.get();
-      if (n=='[')
+      String n = in.poll();
+      if (n.equals("["))
       {  // read list
         list = new ArrayList<>();
 
-        try
+        if (!in.peek().equals("]"))
+          list.add(new Element(in));
+
+        while(in.poll().equals(","))
         {
           list.add(new Element(in));
         }
-        catch(IOException e)
-        {
-          //System.out.println("Empty list: " + e);
-          return;
-
-        }
-
-        while(in.get()==',')
-        {
-          list.add(new Element(in));
-        }
-
-
       }
-      else if ((n>='0') && (n<='9'))
+      else 
       {
-        num = Integer.parseInt("" + n);
-        while((in.charAt(0) >= '0') && (in.charAt(0) <='9')) 
-        {
-          num *= 10;
-          num += Integer.parseInt("" + in.get());
-        }
+        num = Integer.parseInt(n);
       }
-      else if (n==']')
-      {
-        throw new IOException("End of list");
-      }
-      else
-      {
-        E.er("Unexpected " + n);
-      }
-
 
     }
 
