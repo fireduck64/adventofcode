@@ -41,7 +41,7 @@ public class Prob
 
     }
 
-    /*long p1=0;
+    long p1=0;
     for(long x = low_x - 10000000; x<=high_x+10000000; x++)
     {
       Point p = new Point(x, 2000000L);
@@ -66,7 +66,7 @@ public class Prob
 
 
     }
-    System.out.println(p1);*/
+    System.out.println("Part 1: " + p1);
 
     for(Map.Entry<Point, Point> me : sensors.entrySet())
     {
@@ -98,6 +98,8 @@ public class Prob
       if (!pointImpossible(cur))
       {
         System.out.println(cur);
+        long n = cur.x * 4000000 + cur.y;
+        System.out.println("Part 2: " + n);
       }
     }
 
