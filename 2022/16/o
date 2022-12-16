@@ -1,0 +1,5898 @@
+Running sample
+AA 0 [BB, DD, II]
+BB 13 [AA, CC]
+CC 2 [BB, DD]
+DD 20 [AA, CC, EE]
+EE 3 [DD, FF]
+FF 0 [EE, GG]
+GG 0 [FF, HH]
+HH 22 [GG]
+II 0 [AA, JJ]
+JJ 21 [II]
+  States: 10000 {q:1745} {c:16.999901 e:0.000000 l:0.000000} - 17 AA [BB, CC, DD, EE]
+  States: 20000 {q:2099} {c:21.999909 e:0.000000 l:0.000000} - 22 BB [BB, CC, JJ]
+  States: 30000 {q:2108} {c:26.999885 e:0.000000 l:0.000000} - 27 AA [CC, DD, EE, HH]
+Search solution: 30 CC [BB, CC, DD, EE, HH, JJ]
+1651
+Making travel map
+Cost map: AA {AA=0, BB=1, CC=2, DD=1, EE=2, FF=3, GG=4, HH=5, II=1, JJ=2}
+Cost map: BB {AA=1, BB=0, CC=1, DD=2, EE=3, FF=4, GG=5, HH=6, II=2, JJ=3}
+Cost map: CC {AA=2, BB=1, CC=0, DD=1, EE=2, FF=3, GG=4, HH=5, II=3, JJ=4}
+Cost map: DD {AA=1, BB=2, CC=1, DD=0, EE=1, FF=2, GG=3, HH=4, II=2, JJ=3}
+Cost map: EE {AA=2, BB=3, CC=2, DD=1, EE=0, FF=1, GG=2, HH=3, II=3, JJ=4}
+Cost map: FF {AA=3, BB=4, CC=3, DD=2, EE=1, FF=0, GG=1, HH=2, II=4, JJ=5}
+Cost map: GG {AA=4, BB=5, CC=4, DD=3, EE=2, FF=1, GG=0, HH=1, II=5, JJ=6}
+Cost map: HH {AA=5, BB=6, CC=5, DD=4, EE=3, FF=2, GG=1, HH=0, II=6, JJ=7}
+Cost map: II {AA=1, BB=2, CC=3, DD=2, EE=3, FF=4, GG=5, HH=6, II=0, JJ=1}
+Cost map: JJ {AA=2, BB=3, CC=4, DD=3, EE=4, FF=5, GG=6, HH=7, II=1, JJ=0}
+1 0 0 AA []
+2 4 0 AA []
+Walking from AA to BB cost 2
+1 2 364 BB [BB]
+2 4 364 AA [BB]
+Walking from BB to CC cost 2
+1 4 420 CC [BB, CC]
+2 4 420 AA [BB, CC]
+Walking from CC to DD cost 2
+1 6 980 DD [BB, CC, DD]
+2 4 980 AA [BB, CC, DD]
+Walking from DD to EE cost 2
+1 8 1064 EE [BB, CC, DD, EE]
+2 4 1064 AA [BB, CC, DD, EE]
+Walking from EE to HH cost 4
+1 12 1636 HH [BB, CC, DD, EE, HH]
+2 4 1636 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 20 2098 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2098 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 13 1589 JJ [BB, CC, DD, EE, JJ]
+2 4 1589 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 21 2073 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 11 1530 HH [BB, CC, DD, HH]
+2 4 1530 AA [BB, CC, DD, HH]
+Walking from HH to EE cost 4
+1 15 1608 EE [BB, CC, DD, EE, HH]
+2 4 1608 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 20 2133 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2133 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 19 1992 JJ [BB, CC, DD, HH, JJ]
+2 4 1992 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 24 2067 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 10 1526 JJ [BB, CC, DD, JJ]
+2 4 1526 AA [BB, CC, DD, JJ]
+Walking from JJ to EE cost 5
+1 15 1601 EE [BB, CC, DD, EE, JJ]
+2 4 1601 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2173 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2173 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 18 2010 HH [BB, CC, DD, HH, JJ]
+2 4 2010 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2088 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2088 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 7 501 EE [BB, CC, EE]
+2 4 501 AA [BB, CC, EE]
+Walking from EE to DD cost 2
+1 9 1061 DD [BB, CC, DD, EE]
+2 4 1061 AA [BB, CC, DD, EE]
+Walking from DD to HH cost 5
+1 14 1611 HH [BB, CC, DD, EE, HH]
+2 4 1611 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 22 2073 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 13 1607 JJ [BB, CC, DD, EE, JJ]
+2 4 1607 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 21 2091 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 11 1073 HH [BB, CC, EE, HH]
+2 4 1073 AA [BB, CC, EE, HH]
+Walking from HH to DD cost 5
+1 16 1573 DD [BB, CC, DD, EE, HH]
+2 4 1573 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 20 2119 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2119 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 19 1535 JJ [BB, CC, EE, HH, JJ]
+2 4 1535 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 23 2055 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2055 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 12 1026 JJ [BB, CC, EE, JJ]
+2 4 1026 AA [BB, CC, EE, JJ]
+Walking from JJ to DD cost 4
+1 16 1546 DD [BB, CC, DD, EE, JJ]
+2 4 1546 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2096 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2096 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1510 HH [BB, CC, EE, HH, JJ]
+2 4 1510 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 25 2010 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2010 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 10 948 HH [BB, CC, HH]
+2 4 948 AA [BB, CC, HH]
+Walking from HH to DD cost 5
+1 15 1448 DD [BB, CC, DD, HH]
+2 4 1448 AA [BB, CC, DD, HH]
+Walking from DD to EE cost 2
+1 17 1532 EE [BB, CC, DD, EE, HH]
+2 4 1532 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 22 2057 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2057 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 19 1994 JJ [BB, CC, DD, HH, JJ]
+2 4 1994 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 24 2069 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2069 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 14 1026 EE [BB, CC, EE, HH]
+2 4 1026 AA [BB, CC, EE, HH]
+Walking from EE to DD cost 2
+1 16 1586 DD [BB, CC, DD, EE, HH]
+2 4 1586 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 20 2132 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2132 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 19 1551 JJ [BB, CC, EE, HH, JJ]
+2 4 1551 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 23 2071 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 18 1410 JJ [BB, CC, HH, JJ]
+2 4 1410 AA [BB, CC, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 1930 DD [BB, CC, DD, HH, JJ]
+2 4 1930 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2014 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2014 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1485 EE [BB, CC, EE, HH, JJ]
+2 4 1485 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 25 2045 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 9 945 JJ [BB, CC, JJ]
+2 4 945 AA [BB, CC, JJ]
+Walking from JJ to DD cost 4
+1 13 1465 DD [BB, CC, DD, JJ]
+2 4 1465 AA [BB, CC, DD, JJ]
+Walking from DD to EE cost 2
+1 15 1549 EE [BB, CC, DD, EE, JJ]
+2 4 1549 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2121 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2121 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 18 2015 HH [BB, CC, DD, HH, JJ]
+2 4 2015 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2093 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2093 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 14 1020 EE [BB, CC, EE, JJ]
+2 4 1020 AA [BB, CC, EE, JJ]
+Walking from EE to DD cost 2
+1 16 1580 DD [BB, CC, DD, EE, JJ]
+2 4 1580 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2130 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2130 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 1592 HH [BB, CC, EE, HH, JJ]
+2 4 1592 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 23 2092 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2092 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 17 1429 HH [BB, CC, HH, JJ]
+2 4 1429 AA [BB, CC, HH, JJ]
+Walking from HH to DD cost 5
+1 22 1929 DD [BB, CC, DD, HH, JJ]
+2 4 1929 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2013 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2013 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 1507 EE [BB, CC, EE, HH, JJ]
+2 4 1507 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 23 2067 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 5 904 DD [BB, DD]
+2 4 904 AA [BB, DD]
+Walking from DD to CC cost 2
+1 7 960 CC [BB, CC, DD]
+2 4 960 AA [BB, CC, DD]
+Walking from CC to EE cost 3
+1 10 1041 EE [BB, CC, DD, EE]
+2 4 1041 AA [BB, CC, DD, EE]
+Walking from EE to HH cost 4
+1 14 1613 HH [BB, CC, DD, EE, HH]
+2 4 1613 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 22 2075 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2075 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 15 1566 JJ [BB, CC, DD, EE, JJ]
+2 4 1566 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2050 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2050 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 13 1488 HH [BB, CC, DD, HH]
+2 4 1488 AA [BB, CC, DD, HH]
+Walking from HH to EE cost 4
+1 17 1566 EE [BB, CC, DD, EE, HH]
+2 4 1566 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 22 2091 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1950 JJ [BB, CC, DD, HH, JJ]
+2 4 1950 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2025 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2025 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 12 1485 JJ [BB, CC, DD, JJ]
+2 4 1485 AA [BB, CC, DD, JJ]
+Walking from JJ to EE cost 5
+1 17 1560 EE [BB, CC, DD, EE, JJ]
+2 4 1560 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2132 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2132 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1969 HH [BB, CC, DD, HH, JJ]
+2 4 1969 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2047 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 7 988 EE [BB, DD, EE]
+2 4 988 AA [BB, DD, EE]
+Walking from EE to CC cost 3
+1 10 1042 CC [BB, CC, DD, EE]
+2 4 1042 AA [BB, CC, DD, EE]
+Walking from CC to HH cost 6
+1 16 1570 HH [BB, CC, DD, EE, HH]
+2 4 1570 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2032 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2032 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 15 1567 JJ [BB, CC, DD, EE, JJ]
+2 4 1567 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2051 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2051 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 11 1560 HH [BB, DD, EE, HH]
+2 4 1560 AA [BB, DD, EE, HH]
+Walking from HH to CC cost 6
+1 17 1608 CC [BB, CC, DD, EE, HH]
+2 4 1608 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 22 2133 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2133 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 19 2022 JJ [BB, DD, EE, HH, JJ]
+2 4 2022 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 24 2072 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2072 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 12 1513 JJ [BB, DD, EE, JJ]
+2 4 1513 AA [BB, DD, EE, JJ]
+Walking from JJ to CC cost 5
+1 17 1563 CC [BB, CC, DD, EE, JJ]
+2 4 1563 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2091 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1997 HH [BB, DD, EE, HH, JJ]
+2 4 1997 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2045 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 10 1454 HH [BB, DD, HH]
+2 4 1454 AA [BB, DD, HH]
+Walking from HH to CC cost 6
+1 16 1502 CC [BB, CC, DD, HH]
+2 4 1502 AA [BB, CC, DD, HH]
+Walking from CC to EE cost 3
+1 19 1583 EE [BB, CC, DD, EE, HH]
+2 4 1583 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2108 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2108 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 2027 JJ [BB, CC, DD, HH, JJ]
+2 4 2027 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2102 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2102 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 14 1532 EE [BB, DD, EE, HH]
+2 4 1532 AA [BB, DD, EE, HH]
+Walking from EE to CC cost 3
+1 17 1586 CC [BB, CC, DD, EE, HH]
+2 4 1586 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 22 2111 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2111 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 19 2057 JJ [BB, DD, EE, HH, JJ]
+2 4 2057 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 24 2107 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 18 1916 JJ [BB, DD, HH, JJ]
+2 4 1916 AA [BB, DD, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1966 CC [BB, CC, DD, HH, JJ]
+2 4 1966 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2047 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1991 EE [BB, DD, EE, HH, JJ]
+2 4 1991 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2045 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 9 1450 JJ [BB, DD, JJ]
+2 4 1450 AA [BB, DD, JJ]
+Walking from JJ to CC cost 5
+1 14 1500 CC [BB, CC, DD, JJ]
+2 4 1500 AA [BB, CC, DD, JJ]
+Walking from CC to EE cost 3
+1 17 1581 EE [BB, CC, DD, EE, JJ]
+2 4 1581 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2153 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2153 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 2028 HH [BB, CC, DD, HH, JJ]
+2 4 2028 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2106 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2106 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 14 1525 EE [BB, DD, EE, JJ]
+2 4 1525 AA [BB, DD, EE, JJ]
+Walking from EE to CC cost 3
+1 17 1579 CC [BB, CC, DD, EE, JJ]
+2 4 1579 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2107 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 2097 HH [BB, DD, EE, HH, JJ]
+2 4 2097 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 24 2145 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2145 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 17 1934 HH [BB, DD, HH, JJ]
+2 4 1934 AA [BB, DD, HH, JJ]
+Walking from HH to CC cost 6
+1 23 1982 CC [BB, CC, DD, HH, JJ]
+2 4 1982 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2063 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 2012 EE [BB, DD, EE, HH, JJ]
+2 4 2012 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 24 2066 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 6 442 EE [BB, EE]
+2 4 442 AA [BB, EE]
+Walking from EE to CC cost 3
+1 9 496 CC [BB, CC, EE]
+2 4 496 AA [BB, CC, EE]
+Walking from CC to DD cost 2
+1 11 1056 DD [BB, CC, DD, EE]
+2 4 1056 AA [BB, CC, DD, EE]
+Walking from DD to HH cost 5
+1 16 1606 HH [BB, CC, DD, EE, HH]
+2 4 1606 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2068 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2068 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 15 1602 JJ [BB, CC, DD, EE, JJ]
+2 4 1602 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2086 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 15 1024 HH [BB, CC, EE, HH]
+2 4 1024 AA [BB, CC, EE, HH]
+Walking from HH to DD cost 5
+1 20 1524 DD [BB, CC, DD, EE, HH]
+2 4 1524 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 24 2070 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2070 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 23 1486 JJ [BB, CC, EE, HH, JJ]
+2 4 1486 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 27 2006 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2006 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 14 1021 JJ [BB, CC, EE, JJ]
+2 4 1021 AA [BB, CC, EE, JJ]
+Walking from JJ to DD cost 4
+1 18 1541 DD [BB, CC, DD, EE, JJ]
+2 4 1541 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2091 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 22 1505 HH [BB, CC, EE, HH, JJ]
+2 4 1505 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2005 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2005 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 8 1002 DD [BB, DD, EE]
+2 4 1002 AA [BB, DD, EE]
+Walking from DD to CC cost 2
+1 10 1058 CC [BB, CC, DD, EE]
+2 4 1058 AA [BB, CC, DD, EE]
+Walking from CC to HH cost 6
+1 16 1586 HH [BB, CC, DD, EE, HH]
+2 4 1586 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2048 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2048 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 15 1583 JJ [BB, CC, DD, EE, JJ]
+2 4 1583 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2067 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 13 1552 HH [BB, DD, EE, HH]
+2 4 1552 AA [BB, DD, EE, HH]
+Walking from HH to CC cost 6
+1 19 1600 CC [BB, CC, DD, EE, HH]
+2 4 1600 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 24 2125 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2125 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 2014 JJ [BB, DD, EE, HH, JJ]
+2 4 2014 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 26 2064 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 12 1548 JJ [BB, DD, EE, JJ]
+2 4 1548 AA [BB, DD, EE, JJ]
+Walking from JJ to CC cost 5
+1 17 1598 CC [BB, CC, DD, EE, JJ]
+2 4 1598 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2126 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2126 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 2032 HH [BB, DD, EE, HH, JJ]
+2 4 2032 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2080 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2080 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 10 1014 HH [BB, EE, HH]
+2 4 1014 AA [BB, EE, HH]
+Walking from HH to CC cost 6
+1 16 1062 CC [BB, CC, EE, HH]
+2 4 1062 AA [BB, CC, EE, HH]
+Walking from CC to DD cost 2
+1 18 1622 DD [BB, CC, DD, EE, HH]
+2 4 1622 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 22 2168 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2168 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1587 JJ [BB, CC, EE, HH, JJ]
+2 4 1587 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 25 2107 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 15 1514 DD [BB, DD, EE, HH]
+2 4 1514 AA [BB, DD, EE, HH]
+Walking from DD to CC cost 2
+1 17 1570 CC [BB, CC, DD, EE, HH]
+2 4 1570 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 22 2095 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2095 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 19 2060 JJ [BB, DD, EE, HH, JJ]
+2 4 2060 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 24 2110 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2110 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 18 1476 JJ [BB, EE, HH, JJ]
+2 4 1476 AA [BB, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1526 CC [BB, CC, EE, HH, JJ]
+2 4 1526 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 25 2086 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 1996 DD [BB, DD, EE, HH, JJ]
+2 4 1996 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 24 2052 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2052 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 11 967 JJ [BB, EE, JJ]
+2 4 967 AA [BB, EE, JJ]
+Walking from JJ to CC cost 5
+1 16 1017 CC [BB, CC, EE, JJ]
+2 4 1017 AA [BB, CC, EE, JJ]
+Walking from CC to DD cost 2
+1 18 1577 DD [BB, CC, DD, EE, JJ]
+2 4 1577 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2127 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2127 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 22 1545 HH [BB, CC, EE, HH, JJ]
+2 4 1545 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2045 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 15 1487 DD [BB, DD, EE, JJ]
+2 4 1487 AA [BB, DD, EE, JJ]
+Walking from DD to CC cost 2
+1 17 1543 CC [BB, CC, DD, EE, JJ]
+2 4 1543 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2071 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 2037 HH [BB, DD, EE, HH, JJ]
+2 4 2037 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2085 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 19 1451 HH [BB, EE, HH, JJ]
+2 4 1451 AA [BB, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 25 1499 CC [BB, CC, EE, HH, JJ]
+2 4 1499 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2059 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2059 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 24 1951 DD [BB, DD, EE, HH, JJ]
+2 4 1951 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 26 2007 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2007 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 9 870 HH [BB, HH]
+2 4 870 AA [BB, HH]
+Walking from HH to CC cost 6
+1 15 918 CC [BB, CC, HH]
+2 4 918 AA [BB, CC, HH]
+Walking from CC to DD cost 2
+1 17 1478 DD [BB, CC, DD, HH]
+2 4 1478 AA [BB, CC, DD, HH]
+Walking from DD to EE cost 2
+1 19 1562 EE [BB, CC, DD, EE, HH]
+2 4 1562 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2087 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2087 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 21 2024 JJ [BB, CC, DD, HH, JJ]
+2 4 2024 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2099 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2099 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 18 999 EE [BB, CC, EE, HH]
+2 4 999 AA [BB, CC, EE, HH]
+Walking from EE to DD cost 2
+1 20 1559 DD [BB, CC, DD, EE, HH]
+2 4 1559 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 24 2105 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2105 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 23 1524 JJ [BB, CC, EE, HH, JJ]
+2 4 1524 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 27 2044 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2044 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 20 1443 JJ [BB, CC, HH, JJ]
+2 4 1443 AA [BB, CC, HH, JJ]
+Walking from JJ to DD cost 4
+1 24 1963 DD [BB, CC, DD, HH, JJ]
+2 4 1963 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2047 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 25 1518 EE [BB, CC, EE, HH, JJ]
+2 4 1518 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2078 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2078 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 14 1370 DD [BB, DD, HH]
+2 4 1370 AA [BB, DD, HH]
+Walking from DD to CC cost 2
+1 16 1426 CC [BB, CC, DD, HH]
+2 4 1426 AA [BB, CC, DD, HH]
+Walking from CC to EE cost 3
+1 19 1507 EE [BB, CC, DD, EE, HH]
+2 4 1507 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2032 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2032 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1951 JJ [BB, CC, DD, HH, JJ]
+2 4 1951 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2026 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 16 1454 EE [BB, DD, EE, HH]
+2 4 1454 AA [BB, DD, EE, HH]
+Walking from EE to CC cost 3
+1 19 1508 CC [BB, CC, DD, EE, HH]
+2 4 1508 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 24 2033 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2033 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 21 1979 JJ [BB, DD, EE, HH, JJ]
+2 4 1979 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 26 2029 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 18 1916 JJ [BB, DD, HH, JJ]
+2 4 1916 AA [BB, DD, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1966 CC [BB, CC, DD, HH, JJ]
+2 4 1966 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2047 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1991 EE [BB, DD, EE, HH, JJ]
+2 4 1991 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2045 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 13 948 EE [BB, EE, HH]
+2 4 948 AA [BB, EE, HH]
+Walking from EE to CC cost 3
+1 16 1002 CC [BB, CC, EE, HH]
+2 4 1002 AA [BB, CC, EE, HH]
+Walking from CC to DD cost 2
+1 18 1562 DD [BB, CC, DD, EE, HH]
+2 4 1562 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 22 2108 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2108 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1527 JJ [BB, CC, EE, HH, JJ]
+2 4 1527 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 25 2047 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 15 1508 DD [BB, DD, EE, HH]
+2 4 1508 AA [BB, DD, EE, HH]
+Walking from DD to CC cost 2
+1 17 1564 CC [BB, CC, DD, EE, HH]
+2 4 1564 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 22 2089 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2089 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 19 2054 JJ [BB, DD, EE, HH, JJ]
+2 4 2054 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 24 2104 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 18 1473 JJ [BB, EE, HH, JJ]
+2 4 1473 AA [BB, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1523 CC [BB, CC, EE, HH, JJ]
+2 4 1523 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 25 2083 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2083 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 1993 DD [BB, DD, EE, HH, JJ]
+2 4 1993 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 24 2049 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2049 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 17 1332 JJ [BB, HH, JJ]
+2 4 1332 AA [BB, HH, JJ]
+Walking from JJ to CC cost 5
+1 22 1382 CC [BB, CC, HH, JJ]
+2 4 1382 AA [BB, CC, HH, JJ]
+Walking from CC to DD cost 2
+1 24 1942 DD [BB, CC, DD, HH, JJ]
+2 4 1942 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2026 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 25 1463 EE [BB, CC, EE, HH, JJ]
+2 4 1463 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2023 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2023 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 21 1852 DD [BB, DD, HH, JJ]
+2 4 1852 AA [BB, DD, HH, JJ]
+Walking from DD to CC cost 2
+1 23 1908 CC [BB, CC, DD, HH, JJ]
+2 4 1908 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 1989 EE [BB, CC, DD, EE, HH, JJ]
+2 4 1989 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 23 1936 EE [BB, DD, EE, HH, JJ]
+2 4 1936 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 1990 CC [BB, CC, DD, EE, HH, JJ]
+2 4 1990 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 22 1407 EE [BB, EE, HH, JJ]
+2 4 1407 AA [BB, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 25 1461 CC [BB, CC, EE, HH, JJ]
+2 4 1461 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2021 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2021 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 24 1967 DD [BB, DD, EE, HH, JJ]
+2 4 1967 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 26 2023 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2023 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 6 910 JJ [BB, JJ]
+2 4 910 AA [BB, JJ]
+Walking from JJ to CC cost 5
+1 11 960 CC [BB, CC, JJ]
+2 4 960 AA [BB, CC, JJ]
+Walking from CC to DD cost 2
+1 13 1520 DD [BB, CC, DD, JJ]
+2 4 1520 AA [BB, CC, DD, JJ]
+Walking from DD to EE cost 2
+1 15 1604 EE [BB, CC, DD, EE, JJ]
+2 4 1604 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2176 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2176 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 18 2070 HH [BB, CC, DD, HH, JJ]
+2 4 2070 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2148 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2148 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 14 1041 EE [BB, CC, EE, JJ]
+2 4 1041 AA [BB, CC, EE, JJ]
+Walking from EE to DD cost 2
+1 16 1601 DD [BB, CC, DD, EE, JJ]
+2 4 1601 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2151 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2151 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 1613 HH [BB, CC, EE, HH, JJ]
+2 4 1613 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 23 2113 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2113 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 17 1488 HH [BB, CC, HH, JJ]
+2 4 1488 AA [BB, CC, HH, JJ]
+Walking from HH to DD cost 5
+1 22 1988 DD [BB, CC, DD, HH, JJ]
+2 4 1988 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2072 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2072 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 1566 EE [BB, CC, EE, HH, JJ]
+2 4 1566 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 23 2126 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2126 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 10 1430 DD [BB, DD, JJ]
+2 4 1430 AA [BB, DD, JJ]
+Walking from DD to CC cost 2
+1 12 1486 CC [BB, CC, DD, JJ]
+2 4 1486 AA [BB, CC, DD, JJ]
+Walking from CC to EE cost 3
+1 15 1567 EE [BB, CC, DD, EE, JJ]
+2 4 1567 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2139 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2139 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 18 2014 HH [BB, CC, DD, HH, JJ]
+2 4 2014 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2092 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2092 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 12 1514 EE [BB, DD, EE, JJ]
+2 4 1514 AA [BB, DD, EE, JJ]
+Walking from EE to CC cost 3
+1 15 1568 CC [BB, CC, DD, EE, JJ]
+2 4 1568 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 21 2096 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2096 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 16 2086 HH [BB, DD, EE, HH, JJ]
+2 4 2086 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 22 2134 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2134 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 15 1980 HH [BB, DD, HH, JJ]
+2 4 1980 AA [BB, DD, HH, JJ]
+Walking from HH to CC cost 6
+1 21 2028 CC [BB, CC, DD, HH, JJ]
+2 4 2028 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 24 2109 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2109 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 19 2058 EE [BB, DD, EE, HH, JJ]
+2 4 2058 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 22 2112 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2112 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 11 985 EE [BB, EE, JJ]
+2 4 985 AA [BB, EE, JJ]
+Walking from EE to CC cost 3
+1 14 1039 CC [BB, CC, EE, JJ]
+2 4 1039 AA [BB, CC, EE, JJ]
+Walking from CC to DD cost 2
+1 16 1599 DD [BB, CC, DD, EE, JJ]
+2 4 1599 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2149 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2149 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 1567 HH [BB, CC, EE, HH, JJ]
+2 4 1567 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 25 2067 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 13 1545 DD [BB, DD, EE, JJ]
+2 4 1545 AA [BB, DD, EE, JJ]
+Walking from DD to CC cost 2
+1 15 1601 CC [BB, CC, DD, EE, JJ]
+2 4 1601 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 21 2129 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2129 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 18 2095 HH [BB, DD, EE, HH, JJ]
+2 4 2095 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 24 2143 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2143 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 15 1557 HH [BB, EE, HH, JJ]
+2 4 1557 AA [BB, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 21 1605 CC [BB, CC, EE, HH, JJ]
+2 4 1605 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 23 2165 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2165 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 20 2057 DD [BB, DD, EE, HH, JJ]
+2 4 2057 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 22 2113 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2113 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 14 1394 HH [BB, HH, JJ]
+2 4 1394 AA [BB, HH, JJ]
+Walking from HH to CC cost 6
+1 20 1442 CC [BB, CC, HH, JJ]
+2 4 1442 AA [BB, CC, HH, JJ]
+Walking from CC to DD cost 2
+1 22 2002 DD [BB, CC, DD, HH, JJ]
+2 4 2002 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2086 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 23 1523 EE [BB, CC, EE, HH, JJ]
+2 4 1523 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 25 2083 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2083 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 19 1894 DD [BB, DD, HH, JJ]
+2 4 1894 AA [BB, DD, HH, JJ]
+Walking from DD to CC cost 2
+1 21 1950 CC [BB, CC, DD, HH, JJ]
+2 4 1950 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 24 2031 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2031 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 21 1978 EE [BB, DD, EE, HH, JJ]
+2 4 1978 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 24 2032 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2032 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 18 1472 EE [BB, EE, HH, JJ]
+2 4 1472 AA [BB, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 21 1526 CC [BB, CC, EE, HH, JJ]
+2 4 1526 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 23 2086 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 20 2032 DD [BB, DD, EE, HH, JJ]
+2 4 2032 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 22 2088 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2088 AA [BB, CC, DD, EE, HH, JJ]
+Walking from AA to CC cost 3
+1 3 54 CC [CC]
+2 4 54 AA [CC]
+Walking from CC to BB cost 2
+1 5 418 BB [BB, CC]
+2 4 418 AA [BB, CC]
+Walking from BB to DD cost 3
+1 8 958 DD [BB, CC, DD]
+2 4 958 AA [BB, CC, DD]
+Walking from DD to EE cost 2
+1 10 1042 EE [BB, CC, DD, EE]
+2 4 1042 AA [BB, CC, DD, EE]
+Walking from EE to HH cost 4
+1 14 1614 HH [BB, CC, DD, EE, HH]
+2 4 1614 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 22 2076 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2076 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 15 1567 JJ [BB, CC, DD, EE, JJ]
+2 4 1567 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2051 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2051 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 13 1508 HH [BB, CC, DD, HH]
+2 4 1508 AA [BB, CC, DD, HH]
+Walking from HH to EE cost 4
+1 17 1586 EE [BB, CC, DD, EE, HH]
+2 4 1586 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 22 2111 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2111 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1970 JJ [BB, CC, DD, HH, JJ]
+2 4 1970 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2045 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 12 1504 JJ [BB, CC, DD, JJ]
+2 4 1504 AA [BB, CC, DD, JJ]
+Walking from JJ to EE cost 5
+1 17 1579 EE [BB, CC, DD, EE, JJ]
+2 4 1579 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2151 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2151 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1988 HH [BB, CC, DD, HH, JJ]
+2 4 1988 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2066 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 9 496 EE [BB, CC, EE]
+2 4 496 AA [BB, CC, EE]
+Walking from EE to DD cost 2
+1 11 1056 DD [BB, CC, DD, EE]
+2 4 1056 AA [BB, CC, DD, EE]
+Walking from DD to HH cost 5
+1 16 1606 HH [BB, CC, DD, EE, HH]
+2 4 1606 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2068 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2068 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 15 1602 JJ [BB, CC, DD, EE, JJ]
+2 4 1602 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2086 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 13 1068 HH [BB, CC, EE, HH]
+2 4 1068 AA [BB, CC, EE, HH]
+Walking from HH to DD cost 5
+1 18 1568 DD [BB, CC, DD, EE, HH]
+2 4 1568 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 22 2114 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2114 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1530 JJ [BB, CC, EE, HH, JJ]
+2 4 1530 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 25 2050 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2050 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 14 1021 JJ [BB, CC, EE, JJ]
+2 4 1021 AA [BB, CC, EE, JJ]
+Walking from JJ to DD cost 4
+1 18 1541 DD [BB, CC, DD, EE, JJ]
+2 4 1541 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2091 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 22 1505 HH [BB, CC, EE, HH, JJ]
+2 4 1505 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2005 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2005 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 12 924 HH [BB, CC, HH]
+2 4 924 AA [BB, CC, HH]
+Walking from HH to DD cost 5
+1 17 1424 DD [BB, CC, DD, HH]
+2 4 1424 AA [BB, CC, DD, HH]
+Walking from DD to EE cost 2
+1 19 1508 EE [BB, CC, DD, EE, HH]
+2 4 1508 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2033 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2033 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 21 1970 JJ [BB, CC, DD, HH, JJ]
+2 4 1970 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2045 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 16 1002 EE [BB, CC, EE, HH]
+2 4 1002 AA [BB, CC, EE, HH]
+Walking from EE to DD cost 2
+1 18 1562 DD [BB, CC, DD, EE, HH]
+2 4 1562 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 22 2108 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2108 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 21 1527 JJ [BB, CC, EE, HH, JJ]
+2 4 1527 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 25 2047 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 20 1386 JJ [BB, CC, HH, JJ]
+2 4 1386 AA [BB, CC, HH, JJ]
+Walking from JJ to DD cost 4
+1 24 1906 DD [BB, CC, DD, HH, JJ]
+2 4 1906 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 1990 EE [BB, CC, DD, EE, HH, JJ]
+2 4 1990 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 25 1461 EE [BB, CC, EE, HH, JJ]
+2 4 1461 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2021 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2021 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 9 964 JJ [BB, CC, JJ]
+2 4 964 AA [BB, CC, JJ]
+Walking from JJ to DD cost 4
+1 13 1484 DD [BB, CC, DD, JJ]
+2 4 1484 AA [BB, CC, DD, JJ]
+Walking from DD to EE cost 2
+1 15 1568 EE [BB, CC, DD, EE, JJ]
+2 4 1568 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2140 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2140 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 18 2034 HH [BB, CC, DD, HH, JJ]
+2 4 2034 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2112 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2112 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 14 1039 EE [BB, CC, EE, JJ]
+2 4 1039 AA [BB, CC, EE, JJ]
+Walking from EE to DD cost 2
+1 16 1599 DD [BB, CC, DD, EE, JJ]
+2 4 1599 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2149 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2149 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 1611 HH [BB, CC, EE, HH, JJ]
+2 4 1611 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 23 2111 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2111 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 17 1448 HH [BB, CC, HH, JJ]
+2 4 1448 AA [BB, CC, HH, JJ]
+Walking from HH to DD cost 5
+1 22 1948 DD [BB, CC, DD, HH, JJ]
+2 4 1948 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2032 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2032 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 1526 EE [BB, CC, EE, HH, JJ]
+2 4 1526 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 23 2086 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 5 614 DD [CC, DD]
+2 4 614 AA [CC, DD]
+Walking from DD to BB cost 3
+1 8 965 BB [BB, CC, DD]
+2 4 965 AA [BB, CC, DD]
+Walking from BB to EE cost 4
+1 12 1043 EE [BB, CC, DD, EE]
+2 4 1043 AA [BB, CC, DD, EE]
+Walking from EE to HH cost 4
+1 16 1615 HH [BB, CC, DD, EE, HH]
+2 4 1615 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2077 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2077 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 17 1568 JJ [BB, CC, DD, EE, JJ]
+2 4 1568 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 25 2052 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2052 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 15 1471 HH [BB, CC, DD, HH]
+2 4 1471 AA [BB, CC, DD, HH]
+Walking from HH to EE cost 4
+1 19 1549 EE [BB, CC, DD, EE, HH]
+2 4 1549 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2074 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2074 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 23 1933 JJ [BB, CC, DD, HH, JJ]
+2 4 1933 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 28 2008 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2008 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 12 1511 JJ [BB, CC, DD, JJ]
+2 4 1511 AA [BB, CC, DD, JJ]
+Walking from JJ to EE cost 5
+1 17 1586 EE [BB, CC, DD, EE, JJ]
+2 4 1586 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2158 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2158 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1995 HH [BB, CC, DD, HH, JJ]
+2 4 1995 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2073 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 7 698 EE [CC, DD, EE]
+2 4 698 AA [CC, DD, EE]
+Walking from EE to BB cost 4
+1 11 1036 BB [BB, CC, DD, EE]
+2 4 1036 AA [BB, CC, DD, EE]
+Walking from BB to HH cost 7
+1 18 1542 HH [BB, CC, DD, EE, HH]
+2 4 1542 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 26 2004 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2004 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 15 1582 JJ [BB, CC, DD, EE, JJ]
+2 4 1582 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2066 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 11 1270 HH [CC, DD, EE, HH]
+2 4 1270 AA [CC, DD, EE, HH]
+Walking from HH to BB cost 7
+1 18 1569 BB [BB, CC, DD, EE, HH]
+2 4 1569 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2115 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2115 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 19 1732 JJ [CC, DD, EE, HH, JJ]
+2 4 1732 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2070 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2070 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 12 1223 JJ [CC, DD, EE, JJ]
+2 4 1223 AA [CC, DD, EE, JJ]
+Walking from JJ to BB cost 4
+1 16 1561 BB [BB, CC, DD, EE, JJ]
+2 4 1561 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2067 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1707 HH [CC, DD, EE, HH, JJ]
+2 4 1707 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2006 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2006 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 10 1164 HH [CC, DD, HH]
+2 4 1164 AA [CC, DD, HH]
+Walking from HH to BB cost 7
+1 17 1463 BB [BB, CC, DD, HH]
+2 4 1463 AA [BB, CC, DD, HH]
+Walking from BB to EE cost 4
+1 21 1541 EE [BB, CC, DD, EE, HH]
+2 4 1541 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 26 2066 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 21 2009 JJ [BB, CC, DD, HH, JJ]
+2 4 2009 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2084 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2084 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 14 1242 EE [CC, DD, EE, HH]
+2 4 1242 AA [CC, DD, EE, HH]
+Walking from EE to BB cost 4
+1 18 1580 BB [BB, CC, DD, EE, HH]
+2 4 1580 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2126 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2126 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 19 1767 JJ [CC, DD, EE, HH, JJ]
+2 4 1767 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2105 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2105 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 18 1626 JJ [CC, DD, HH, JJ]
+2 4 1626 AA [CC, DD, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1964 BB [BB, CC, DD, HH, JJ]
+2 4 1964 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2042 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1701 EE [CC, DD, EE, HH, JJ]
+2 4 1701 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2039 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2039 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 9 1160 JJ [CC, DD, JJ]
+2 4 1160 AA [CC, DD, JJ]
+Walking from JJ to BB cost 4
+1 13 1498 BB [BB, CC, DD, JJ]
+2 4 1498 AA [BB, CC, DD, JJ]
+Walking from BB to EE cost 4
+1 17 1576 EE [BB, CC, DD, EE, JJ]
+2 4 1576 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2148 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2148 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 2004 HH [BB, CC, DD, HH, JJ]
+2 4 2004 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2082 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2082 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 14 1235 EE [CC, DD, EE, JJ]
+2 4 1235 AA [CC, DD, EE, JJ]
+Walking from EE to BB cost 4
+1 18 1573 BB [BB, CC, DD, EE, JJ]
+2 4 1573 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 25 2079 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2079 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 1807 HH [CC, DD, EE, HH, JJ]
+2 4 1807 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 25 2106 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2106 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 17 1644 HH [CC, DD, HH, JJ]
+2 4 1644 AA [CC, DD, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1943 BB [BB, CC, DD, HH, JJ]
+2 4 1943 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 28 2021 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2021 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 1722 EE [CC, DD, EE, HH, JJ]
+2 4 1722 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 25 2060 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2060 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 6 135 EE [CC, EE]
+2 4 135 AA [CC, EE]
+Walking from EE to BB cost 4
+1 10 473 BB [BB, CC, EE]
+2 4 473 AA [BB, CC, EE]
+Walking from BB to DD cost 3
+1 13 1013 DD [BB, CC, DD, EE]
+2 4 1013 AA [BB, CC, DD, EE]
+Walking from DD to HH cost 5
+1 18 1563 HH [BB, CC, DD, EE, HH]
+2 4 1563 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 26 2025 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2025 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 17 1559 JJ [BB, CC, DD, EE, JJ]
+2 4 1559 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 25 2043 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2043 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 17 979 HH [BB, CC, EE, HH]
+2 4 979 AA [BB, CC, EE, HH]
+Walking from HH to DD cost 5
+1 22 1479 DD [BB, CC, DD, EE, HH]
+2 4 1479 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 26 2025 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2025 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 25 1441 JJ [BB, CC, EE, HH, JJ]
+2 4 1441 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 29 1961 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1961 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 14 1019 JJ [BB, CC, EE, JJ]
+2 4 1019 AA [BB, CC, EE, JJ]
+Walking from JJ to DD cost 4
+1 18 1539 DD [BB, CC, DD, EE, JJ]
+2 4 1539 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2089 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2089 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 22 1503 HH [BB, CC, EE, HH, JJ]
+2 4 1503 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2003 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2003 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 8 695 DD [CC, DD, EE]
+2 4 695 AA [CC, DD, EE]
+Walking from DD to BB cost 3
+1 11 1046 BB [BB, CC, DD, EE]
+2 4 1046 AA [BB, CC, DD, EE]
+Walking from BB to HH cost 7
+1 18 1552 HH [BB, CC, DD, EE, HH]
+2 4 1552 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 26 2014 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2014 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 15 1592 JJ [BB, CC, DD, EE, JJ]
+2 4 1592 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2076 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2076 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 13 1245 HH [CC, DD, EE, HH]
+2 4 1245 AA [CC, DD, EE, HH]
+Walking from HH to BB cost 7
+1 20 1544 BB [BB, CC, DD, EE, HH]
+2 4 1544 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2090 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2090 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1707 JJ [CC, DD, EE, HH, JJ]
+2 4 1707 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2045 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 12 1241 JJ [CC, DD, EE, JJ]
+2 4 1241 AA [CC, DD, EE, JJ]
+Walking from JJ to BB cost 4
+1 16 1579 BB [BB, CC, DD, EE, JJ]
+2 4 1579 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2085 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1725 HH [CC, DD, EE, HH, JJ]
+2 4 1725 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2024 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2024 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 10 707 HH [CC, EE, HH]
+2 4 707 AA [CC, EE, HH]
+Walking from HH to BB cost 7
+1 17 1006 BB [BB, CC, EE, HH]
+2 4 1006 AA [BB, CC, EE, HH]
+Walking from BB to DD cost 3
+1 20 1546 DD [BB, CC, DD, EE, HH]
+2 4 1546 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 24 2092 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2092 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 21 1552 JJ [BB, CC, EE, HH, JJ]
+2 4 1552 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 25 2072 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2072 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 15 1207 DD [CC, DD, EE, HH]
+2 4 1207 AA [CC, DD, EE, HH]
+Walking from DD to BB cost 3
+1 18 1558 BB [BB, CC, DD, EE, HH]
+2 4 1558 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2104 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 19 1753 JJ [CC, DD, EE, HH, JJ]
+2 4 1753 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2091 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 18 1169 JJ [CC, EE, HH, JJ]
+2 4 1169 AA [CC, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1507 BB [BB, CC, EE, HH, JJ]
+2 4 1507 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 25 2047 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 1689 DD [CC, DD, EE, HH, JJ]
+2 4 1689 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2040 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2040 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 11 660 JJ [CC, EE, JJ]
+2 4 660 AA [CC, EE, JJ]
+Walking from JJ to BB cost 4
+1 15 998 BB [BB, CC, EE, JJ]
+2 4 998 AA [BB, CC, EE, JJ]
+Walking from BB to DD cost 3
+1 18 1538 DD [BB, CC, DD, EE, JJ]
+2 4 1538 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2088 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2088 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 22 1504 HH [BB, CC, EE, HH, JJ]
+2 4 1504 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2004 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2004 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 15 1180 DD [CC, DD, EE, JJ]
+2 4 1180 AA [CC, DD, EE, JJ]
+Walking from DD to BB cost 3
+1 18 1531 BB [BB, CC, DD, EE, JJ]
+2 4 1531 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 25 2037 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2037 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 1730 HH [CC, DD, EE, HH, JJ]
+2 4 1730 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2029 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 19 1144 HH [CC, EE, HH, JJ]
+2 4 1144 AA [CC, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 26 1443 BB [BB, CC, EE, HH, JJ]
+2 4 1443 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 29 1983 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1983 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 24 1644 DD [CC, DD, EE, HH, JJ]
+2 4 1644 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 1995 BB [BB, CC, DD, EE, HH, JJ]
+2 4 1995 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 9 582 HH [CC, HH]
+2 4 582 AA [CC, HH]
+Walking from HH to BB cost 7
+1 16 881 BB [BB, CC, HH]
+2 4 881 AA [BB, CC, HH]
+Walking from BB to DD cost 3
+1 19 1421 DD [BB, CC, DD, HH]
+2 4 1421 AA [BB, CC, DD, HH]
+Walking from DD to EE cost 2
+1 21 1505 EE [BB, CC, DD, EE, HH]
+2 4 1505 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 26 2030 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2030 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 23 1967 JJ [BB, CC, DD, HH, JJ]
+2 4 1967 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 28 2042 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 20 959 EE [BB, CC, EE, HH]
+2 4 959 AA [BB, CC, EE, HH]
+Walking from EE to DD cost 2
+1 22 1519 DD [BB, CC, DD, EE, HH]
+2 4 1519 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 26 2065 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 25 1484 JJ [BB, CC, EE, HH, JJ]
+2 4 1484 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 29 2004 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2004 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 20 1427 JJ [BB, CC, HH, JJ]
+2 4 1427 AA [BB, CC, HH, JJ]
+Walking from JJ to DD cost 4
+1 24 1947 DD [BB, CC, DD, HH, JJ]
+2 4 1947 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2031 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2031 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 25 1502 EE [BB, CC, EE, HH, JJ]
+2 4 1502 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2062 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2062 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 14 1082 DD [CC, DD, HH]
+2 4 1082 AA [CC, DD, HH]
+Walking from DD to BB cost 3
+1 17 1433 BB [BB, CC, DD, HH]
+2 4 1433 AA [BB, CC, DD, HH]
+Walking from BB to EE cost 4
+1 21 1511 EE [BB, CC, DD, EE, HH]
+2 4 1511 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 26 2036 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2036 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 21 1979 JJ [BB, CC, DD, HH, JJ]
+2 4 1979 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2054 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2054 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 16 1166 EE [CC, DD, EE, HH]
+2 4 1166 AA [CC, DD, EE, HH]
+Walking from EE to BB cost 4
+1 20 1504 BB [BB, CC, DD, EE, HH]
+2 4 1504 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2050 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2050 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 21 1691 JJ [CC, DD, EE, HH, JJ]
+2 4 1691 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2029 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 18 1628 JJ [CC, DD, HH, JJ]
+2 4 1628 AA [CC, DD, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1966 BB [BB, CC, DD, HH, JJ]
+2 4 1966 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2044 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2044 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1703 EE [CC, DD, EE, HH, JJ]
+2 4 1703 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2041 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2041 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 13 660 EE [CC, EE, HH]
+2 4 660 AA [CC, EE, HH]
+Walking from EE to BB cost 4
+1 17 998 BB [BB, CC, EE, HH]
+2 4 998 AA [BB, CC, EE, HH]
+Walking from BB to DD cost 3
+1 20 1538 DD [BB, CC, DD, EE, HH]
+2 4 1538 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 24 2084 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2084 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 21 1544 JJ [BB, CC, EE, HH, JJ]
+2 4 1544 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 25 2064 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 15 1220 DD [CC, DD, EE, HH]
+2 4 1220 AA [CC, DD, EE, HH]
+Walking from DD to BB cost 3
+1 18 1571 BB [BB, CC, DD, EE, HH]
+2 4 1571 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2117 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2117 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 19 1766 JJ [CC, DD, EE, HH, JJ]
+2 4 1766 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2104 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 18 1185 JJ [CC, EE, HH, JJ]
+2 4 1185 AA [CC, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1523 BB [BB, CC, EE, HH, JJ]
+2 4 1523 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 25 2063 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 1705 DD [CC, DD, EE, HH, JJ]
+2 4 1705 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2056 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2056 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 17 1044 JJ [CC, HH, JJ]
+2 4 1044 AA [CC, HH, JJ]
+Walking from JJ to BB cost 4
+1 21 1382 BB [BB, CC, HH, JJ]
+2 4 1382 AA [BB, CC, HH, JJ]
+Walking from BB to DD cost 3
+1 24 1922 DD [BB, CC, DD, HH, JJ]
+2 4 1922 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2006 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2006 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 25 1460 EE [BB, CC, EE, HH, JJ]
+2 4 1460 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2020 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2020 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 21 1564 DD [CC, DD, HH, JJ]
+2 4 1564 AA [CC, DD, HH, JJ]
+Walking from DD to BB cost 3
+1 24 1915 BB [BB, CC, DD, HH, JJ]
+2 4 1915 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 28 1993 EE [BB, CC, DD, EE, HH, JJ]
+2 4 1993 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 23 1648 EE [CC, DD, EE, HH, JJ]
+2 4 1648 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 1986 BB [BB, CC, DD, EE, HH, JJ]
+2 4 1986 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 22 1119 EE [CC, EE, HH, JJ]
+2 4 1119 AA [CC, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 26 1457 BB [BB, CC, EE, HH, JJ]
+2 4 1457 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 29 1997 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1997 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 24 1679 DD [CC, DD, EE, HH, JJ]
+2 4 1679 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 2030 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2030 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 8 579 JJ [CC, JJ]
+2 4 579 AA [CC, JJ]
+Walking from JJ to BB cost 4
+1 12 917 BB [BB, CC, JJ]
+2 4 917 AA [BB, CC, JJ]
+Walking from BB to DD cost 3
+1 15 1457 DD [BB, CC, DD, JJ]
+2 4 1457 AA [BB, CC, DD, JJ]
+Walking from DD to EE cost 2
+1 17 1541 EE [BB, CC, DD, EE, JJ]
+2 4 1541 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2113 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2113 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 2007 HH [BB, CC, DD, HH, JJ]
+2 4 2007 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2085 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 16 995 EE [BB, CC, EE, JJ]
+2 4 995 AA [BB, CC, EE, JJ]
+Walking from EE to DD cost 2
+1 18 1555 DD [BB, CC, DD, EE, JJ]
+2 4 1555 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2105 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2105 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 20 1567 HH [BB, CC, EE, HH, JJ]
+2 4 1567 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 25 2067 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 19 1423 HH [BB, CC, HH, JJ]
+2 4 1423 AA [BB, CC, HH, JJ]
+Walking from HH to DD cost 5
+1 24 1923 DD [BB, CC, DD, HH, JJ]
+2 4 1923 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2007 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2007 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 23 1501 EE [BB, CC, EE, HH, JJ]
+2 4 1501 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 25 2061 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2061 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 12 1099 DD [CC, DD, JJ]
+2 4 1099 AA [CC, DD, JJ]
+Walking from DD to BB cost 3
+1 15 1450 BB [BB, CC, DD, JJ]
+2 4 1450 AA [BB, CC, DD, JJ]
+Walking from BB to EE cost 4
+1 19 1528 EE [BB, CC, DD, EE, JJ]
+2 4 1528 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 23 2100 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2100 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 22 1956 HH [BB, CC, DD, HH, JJ]
+2 4 1956 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 26 2034 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2034 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 14 1183 EE [CC, DD, EE, JJ]
+2 4 1183 AA [CC, DD, EE, JJ]
+Walking from EE to BB cost 4
+1 18 1521 BB [BB, CC, DD, EE, JJ]
+2 4 1521 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 25 2027 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2027 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 1755 HH [CC, DD, EE, HH, JJ]
+2 4 1755 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 25 2054 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2054 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 17 1649 HH [CC, DD, HH, JJ]
+2 4 1649 AA [CC, DD, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1948 BB [BB, CC, DD, HH, JJ]
+2 4 1948 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 28 2026 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 1727 EE [CC, DD, EE, HH, JJ]
+2 4 1727 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 25 2065 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 13 654 EE [CC, EE, JJ]
+2 4 654 AA [CC, EE, JJ]
+Walking from EE to BB cost 4
+1 17 992 BB [BB, CC, EE, JJ]
+2 4 992 AA [BB, CC, EE, JJ]
+Walking from BB to DD cost 3
+1 20 1532 DD [BB, CC, DD, EE, JJ]
+2 4 1532 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 25 2082 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2082 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 24 1498 HH [BB, CC, EE, HH, JJ]
+2 4 1498 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 29 1998 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1998 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 15 1214 DD [CC, DD, EE, JJ]
+2 4 1214 AA [CC, DD, EE, JJ]
+Walking from DD to BB cost 3
+1 18 1565 BB [BB, CC, DD, EE, JJ]
+2 4 1565 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 25 2071 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 1764 HH [CC, DD, EE, HH, JJ]
+2 4 1764 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2063 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 17 1226 HH [CC, EE, HH, JJ]
+2 4 1226 AA [CC, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1525 BB [BB, CC, EE, HH, JJ]
+2 4 1525 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 27 2065 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 22 1726 DD [CC, DD, EE, HH, JJ]
+2 4 1726 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2077 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2077 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 16 1063 HH [CC, HH, JJ]
+2 4 1063 AA [CC, HH, JJ]
+Walking from HH to BB cost 7
+1 23 1362 BB [BB, CC, HH, JJ]
+2 4 1362 AA [BB, CC, HH, JJ]
+Walking from BB to DD cost 3
+1 26 1902 DD [BB, CC, DD, HH, JJ]
+2 4 1902 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 28 1986 EE [BB, CC, DD, EE, HH, JJ]
+2 4 1986 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 27 1440 EE [BB, CC, EE, HH, JJ]
+2 4 1440 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 29 2000 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2000 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 21 1563 DD [CC, DD, HH, JJ]
+2 4 1563 AA [CC, DD, HH, JJ]
+Walking from DD to BB cost 3
+1 24 1914 BB [BB, CC, DD, HH, JJ]
+2 4 1914 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 28 1992 EE [BB, CC, DD, EE, HH, JJ]
+2 4 1992 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 23 1647 EE [CC, DD, EE, HH, JJ]
+2 4 1647 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 1985 BB [BB, CC, DD, EE, HH, JJ]
+2 4 1985 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 20 1141 EE [CC, EE, HH, JJ]
+2 4 1141 AA [CC, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 24 1479 BB [BB, CC, EE, HH, JJ]
+2 4 1479 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 27 2019 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2019 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 22 1701 DD [CC, DD, EE, HH, JJ]
+2 4 1701 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2052 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2052 AA [BB, CC, DD, EE, HH, JJ]
+Walking from AA to DD cost 2
+1 2 560 DD [DD]
+2 4 560 AA [DD]
+Walking from DD to BB cost 3
+1 5 911 BB [BB, DD]
+2 4 911 AA [BB, DD]
+Walking from BB to CC cost 2
+1 7 967 CC [BB, CC, DD]
+2 4 967 AA [BB, CC, DD]
+Walking from CC to EE cost 3
+1 10 1048 EE [BB, CC, DD, EE]
+2 4 1048 AA [BB, CC, DD, EE]
+Walking from EE to HH cost 4
+1 14 1620 HH [BB, CC, DD, EE, HH]
+2 4 1620 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 22 2082 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2082 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 15 1573 JJ [BB, CC, DD, EE, JJ]
+2 4 1573 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2057 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2057 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 13 1495 HH [BB, CC, DD, HH]
+2 4 1495 AA [BB, CC, DD, HH]
+Walking from HH to EE cost 4
+1 17 1573 EE [BB, CC, DD, EE, HH]
+2 4 1573 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 22 2098 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2098 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1957 JJ [BB, CC, DD, HH, JJ]
+2 4 1957 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2032 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2032 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 12 1492 JJ [BB, CC, DD, JJ]
+2 4 1492 AA [BB, CC, DD, JJ]
+Walking from JJ to EE cost 5
+1 17 1567 EE [BB, CC, DD, EE, JJ]
+2 4 1567 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2139 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2139 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1976 HH [BB, CC, DD, HH, JJ]
+2 4 1976 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2054 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2054 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 9 989 EE [BB, DD, EE]
+2 4 989 AA [BB, DD, EE]
+Walking from EE to CC cost 3
+1 12 1043 CC [BB, CC, DD, EE]
+2 4 1043 AA [BB, CC, DD, EE]
+Walking from CC to HH cost 6
+1 18 1571 HH [BB, CC, DD, EE, HH]
+2 4 1571 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 26 2033 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2033 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 17 1568 JJ [BB, CC, DD, EE, JJ]
+2 4 1568 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 25 2052 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2052 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 13 1561 HH [BB, DD, EE, HH]
+2 4 1561 AA [BB, DD, EE, HH]
+Walking from HH to CC cost 6
+1 19 1609 CC [BB, CC, DD, EE, HH]
+2 4 1609 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 24 2134 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2134 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 2023 JJ [BB, DD, EE, HH, JJ]
+2 4 2023 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 26 2073 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 14 1514 JJ [BB, DD, EE, JJ]
+2 4 1514 AA [BB, DD, EE, JJ]
+Walking from JJ to CC cost 5
+1 19 1564 CC [BB, CC, DD, EE, JJ]
+2 4 1564 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 25 2092 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2092 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 22 1998 HH [BB, DD, EE, HH, JJ]
+2 4 1998 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 28 2046 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2046 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 12 1417 HH [BB, DD, HH]
+2 4 1417 AA [BB, DD, HH]
+Walking from HH to CC cost 6
+1 18 1465 CC [BB, CC, DD, HH]
+2 4 1465 AA [BB, CC, DD, HH]
+Walking from CC to EE cost 3
+1 21 1546 EE [BB, CC, DD, EE, HH]
+2 4 1546 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 26 2071 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 23 1990 JJ [BB, CC, DD, HH, JJ]
+2 4 1990 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 28 2065 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 16 1495 EE [BB, DD, EE, HH]
+2 4 1495 AA [BB, DD, EE, HH]
+Walking from EE to CC cost 3
+1 19 1549 CC [BB, CC, DD, EE, HH]
+2 4 1549 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 24 2074 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2074 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 21 2020 JJ [BB, DD, EE, HH, JJ]
+2 4 2020 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 26 2070 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2070 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 20 1879 JJ [BB, DD, HH, JJ]
+2 4 1879 AA [BB, DD, HH, JJ]
+Walking from JJ to CC cost 5
+1 25 1929 CC [BB, CC, DD, HH, JJ]
+2 4 1929 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 28 2010 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2010 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 25 1954 EE [BB, DD, EE, HH, JJ]
+2 4 1954 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 28 2008 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2008 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 9 1457 JJ [BB, DD, JJ]
+2 4 1457 AA [BB, DD, JJ]
+Walking from JJ to CC cost 5
+1 14 1507 CC [BB, CC, DD, JJ]
+2 4 1507 AA [BB, CC, DD, JJ]
+Walking from CC to EE cost 3
+1 17 1588 EE [BB, CC, DD, EE, JJ]
+2 4 1588 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2160 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2160 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 2035 HH [BB, CC, DD, HH, JJ]
+2 4 2035 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2113 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2113 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 14 1532 EE [BB, DD, EE, JJ]
+2 4 1532 AA [BB, DD, EE, JJ]
+Walking from EE to CC cost 3
+1 17 1586 CC [BB, CC, DD, EE, JJ]
+2 4 1586 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2114 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2114 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 2104 HH [BB, DD, EE, HH, JJ]
+2 4 2104 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 24 2152 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2152 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 17 1941 HH [BB, DD, HH, JJ]
+2 4 1941 AA [BB, DD, HH, JJ]
+Walking from HH to CC cost 6
+1 23 1989 CC [BB, CC, DD, HH, JJ]
+2 4 1989 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2070 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2070 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 2019 EE [BB, DD, EE, HH, JJ]
+2 4 2019 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 24 2073 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 4 616 CC [CC, DD]
+2 4 616 AA [CC, DD]
+Walking from CC to BB cost 2
+1 6 980 BB [BB, CC, DD]
+2 4 980 AA [BB, CC, DD]
+Walking from BB to EE cost 4
+1 10 1058 EE [BB, CC, DD, EE]
+2 4 1058 AA [BB, CC, DD, EE]
+Walking from EE to HH cost 4
+1 14 1630 HH [BB, CC, DD, EE, HH]
+2 4 1630 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 22 2092 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2092 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 15 1583 JJ [BB, CC, DD, EE, JJ]
+2 4 1583 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2067 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 13 1486 HH [BB, CC, DD, HH]
+2 4 1486 AA [BB, CC, DD, HH]
+Walking from HH to EE cost 4
+1 17 1564 EE [BB, CC, DD, EE, HH]
+2 4 1564 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 22 2089 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2089 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1948 JJ [BB, CC, DD, HH, JJ]
+2 4 1948 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2023 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2023 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 10 1526 JJ [BB, CC, DD, JJ]
+2 4 1526 AA [BB, CC, DD, JJ]
+Walking from JJ to EE cost 5
+1 15 1601 EE [BB, CC, DD, EE, JJ]
+2 4 1601 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2173 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2173 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 18 2010 HH [BB, CC, DD, HH, JJ]
+2 4 2010 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2088 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2088 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 7 697 EE [CC, DD, EE]
+2 4 697 AA [CC, DD, EE]
+Walking from EE to BB cost 4
+1 11 1035 BB [BB, CC, DD, EE]
+2 4 1035 AA [BB, CC, DD, EE]
+Walking from BB to HH cost 7
+1 18 1541 HH [BB, CC, DD, EE, HH]
+2 4 1541 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 26 2003 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2003 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 15 1581 JJ [BB, CC, DD, EE, JJ]
+2 4 1581 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2065 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 11 1269 HH [CC, DD, EE, HH]
+2 4 1269 AA [CC, DD, EE, HH]
+Walking from HH to BB cost 7
+1 18 1568 BB [BB, CC, DD, EE, HH]
+2 4 1568 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2114 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2114 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 19 1731 JJ [CC, DD, EE, HH, JJ]
+2 4 1731 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2069 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2069 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 12 1222 JJ [CC, DD, EE, JJ]
+2 4 1222 AA [CC, DD, EE, JJ]
+Walking from JJ to BB cost 4
+1 16 1560 BB [BB, CC, DD, EE, JJ]
+2 4 1560 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2066 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1706 HH [CC, DD, EE, HH, JJ]
+2 4 1706 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2005 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2005 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 10 1144 HH [CC, DD, HH]
+2 4 1144 AA [CC, DD, HH]
+Walking from HH to BB cost 7
+1 17 1443 BB [BB, CC, DD, HH]
+2 4 1443 AA [BB, CC, DD, HH]
+Walking from BB to EE cost 4
+1 21 1521 EE [BB, CC, DD, EE, HH]
+2 4 1521 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 26 2046 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2046 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 21 1989 JJ [BB, CC, DD, HH, JJ]
+2 4 1989 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2064 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 14 1222 EE [CC, DD, EE, HH]
+2 4 1222 AA [CC, DD, EE, HH]
+Walking from EE to BB cost 4
+1 18 1560 BB [BB, CC, DD, EE, HH]
+2 4 1560 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2106 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2106 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 19 1747 JJ [CC, DD, EE, HH, JJ]
+2 4 1747 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2085 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 18 1606 JJ [CC, DD, HH, JJ]
+2 4 1606 AA [CC, DD, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1944 BB [BB, CC, DD, HH, JJ]
+2 4 1944 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2022 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2022 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1681 EE [CC, DD, EE, HH, JJ]
+2 4 1681 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2019 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2019 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 9 1141 JJ [CC, DD, JJ]
+2 4 1141 AA [CC, DD, JJ]
+Walking from JJ to BB cost 4
+1 13 1479 BB [BB, CC, DD, JJ]
+2 4 1479 AA [BB, CC, DD, JJ]
+Walking from BB to EE cost 4
+1 17 1557 EE [BB, CC, DD, EE, JJ]
+2 4 1557 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2129 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2129 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 1985 HH [BB, CC, DD, HH, JJ]
+2 4 1985 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2063 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 14 1216 EE [CC, DD, EE, JJ]
+2 4 1216 AA [CC, DD, EE, JJ]
+Walking from EE to BB cost 4
+1 18 1554 BB [BB, CC, DD, EE, JJ]
+2 4 1554 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 25 2060 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2060 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 1788 HH [CC, DD, EE, HH, JJ]
+2 4 1788 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 25 2087 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2087 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 17 1625 HH [CC, DD, HH, JJ]
+2 4 1625 AA [CC, DD, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1924 BB [BB, CC, DD, HH, JJ]
+2 4 1924 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 28 2002 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2002 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 1703 EE [CC, DD, EE, HH, JJ]
+2 4 1703 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 25 2041 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2041 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 4 644 EE [DD, EE]
+2 4 644 AA [DD, EE]
+Walking from EE to BB cost 4
+1 8 982 BB [BB, DD, EE]
+2 4 982 AA [BB, DD, EE]
+Walking from BB to CC cost 2
+1 10 1038 CC [BB, CC, DD, EE]
+2 4 1038 AA [BB, CC, DD, EE]
+Walking from CC to HH cost 6
+1 16 1566 HH [BB, CC, DD, EE, HH]
+2 4 1566 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2028 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2028 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 15 1563 JJ [BB, CC, DD, EE, JJ]
+2 4 1563 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2047 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 15 1488 HH [BB, DD, EE, HH]
+2 4 1488 AA [BB, DD, EE, HH]
+Walking from HH to CC cost 6
+1 21 1536 CC [BB, CC, DD, EE, HH]
+2 4 1536 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 26 2061 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2061 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 23 1950 JJ [BB, DD, EE, HH, JJ]
+2 4 1950 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 28 2000 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2000 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 12 1528 JJ [BB, DD, EE, JJ]
+2 4 1528 AA [BB, DD, EE, JJ]
+Walking from JJ to CC cost 5
+1 17 1578 CC [BB, CC, DD, EE, JJ]
+2 4 1578 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2106 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2106 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 2012 HH [BB, DD, EE, HH, JJ]
+2 4 2012 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2060 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2060 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 7 698 CC [CC, DD, EE]
+2 4 698 AA [CC, DD, EE]
+Walking from CC to BB cost 2
+1 9 1062 BB [BB, CC, DD, EE]
+2 4 1062 AA [BB, CC, DD, EE]
+Walking from BB to HH cost 7
+1 16 1568 HH [BB, CC, DD, EE, HH]
+2 4 1568 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2030 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2030 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 13 1608 JJ [BB, CC, DD, EE, JJ]
+2 4 1608 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 21 2092 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2092 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 13 1226 HH [CC, DD, EE, HH]
+2 4 1226 AA [CC, DD, EE, HH]
+Walking from HH to BB cost 7
+1 20 1525 BB [BB, CC, DD, EE, HH]
+2 4 1525 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2071 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1688 JJ [CC, DD, EE, HH, JJ]
+2 4 1688 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2026 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 12 1223 JJ [CC, DD, EE, JJ]
+2 4 1223 AA [CC, DD, EE, JJ]
+Walking from JJ to BB cost 4
+1 16 1561 BB [BB, CC, DD, EE, JJ]
+2 4 1561 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2067 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1707 HH [CC, DD, EE, HH, JJ]
+2 4 1707 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2006 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2006 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 8 1216 HH [DD, EE, HH]
+2 4 1216 AA [DD, EE, HH]
+Walking from HH to BB cost 7
+1 15 1515 BB [BB, DD, EE, HH]
+2 4 1515 AA [BB, DD, EE, HH]
+Walking from BB to CC cost 2
+1 17 1571 CC [BB, CC, DD, EE, HH]
+2 4 1571 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 22 2096 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2096 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 19 2061 JJ [BB, DD, EE, HH, JJ]
+2 4 2061 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 24 2111 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2111 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 14 1264 CC [CC, DD, EE, HH]
+2 4 1264 AA [CC, DD, EE, HH]
+Walking from CC to BB cost 2
+1 16 1628 BB [BB, CC, DD, EE, HH]
+2 4 1628 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 20 2174 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2174 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 19 1789 JJ [CC, DD, EE, HH, JJ]
+2 4 1789 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2127 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2127 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 16 1678 JJ [DD, EE, HH, JJ]
+2 4 1678 AA [DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 20 2016 BB [BB, DD, EE, HH, JJ]
+2 4 2016 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 22 2072 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2072 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 21 1728 CC [CC, DD, EE, HH, JJ]
+2 4 1728 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2092 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2092 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 9 1169 JJ [DD, EE, JJ]
+2 4 1169 AA [DD, EE, JJ]
+Walking from JJ to BB cost 4
+1 13 1507 BB [BB, DD, EE, JJ]
+2 4 1507 AA [BB, DD, EE, JJ]
+Walking from BB to CC cost 2
+1 15 1563 CC [BB, CC, DD, EE, JJ]
+2 4 1563 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 21 2091 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 2013 HH [BB, DD, EE, HH, JJ]
+2 4 2013 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2061 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2061 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 14 1219 CC [CC, DD, EE, JJ]
+2 4 1219 AA [CC, DD, EE, JJ]
+Walking from CC to BB cost 2
+1 16 1583 BB [BB, CC, DD, EE, JJ]
+2 4 1583 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2089 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2089 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 1747 HH [CC, DD, EE, HH, JJ]
+2 4 1747 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2046 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2046 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 17 1653 HH [DD, EE, HH, JJ]
+2 4 1653 AA [DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1952 BB [BB, DD, EE, HH, JJ]
+2 4 1952 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 26 2008 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2008 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 23 1701 CC [CC, DD, EE, HH, JJ]
+2 4 1701 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2065 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 7 1110 HH [DD, HH]
+2 4 1110 AA [DD, HH]
+Walking from HH to BB cost 7
+1 14 1409 BB [BB, DD, HH]
+2 4 1409 AA [BB, DD, HH]
+Walking from BB to CC cost 2
+1 16 1465 CC [BB, CC, DD, HH]
+2 4 1465 AA [BB, CC, DD, HH]
+Walking from CC to EE cost 3
+1 19 1546 EE [BB, CC, DD, EE, HH]
+2 4 1546 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2071 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1990 JJ [BB, CC, DD, HH, JJ]
+2 4 1990 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2065 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 18 1487 EE [BB, DD, EE, HH]
+2 4 1487 AA [BB, DD, EE, HH]
+Walking from EE to CC cost 3
+1 21 1541 CC [BB, CC, DD, EE, HH]
+2 4 1541 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 26 2066 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 23 2012 JJ [BB, DD, EE, HH, JJ]
+2 4 2012 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 28 2062 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2062 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 18 1955 JJ [BB, DD, HH, JJ]
+2 4 1955 AA [BB, DD, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 2005 CC [BB, CC, DD, HH, JJ]
+2 4 2005 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2086 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 2030 EE [BB, DD, EE, HH, JJ]
+2 4 2030 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2084 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2084 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 13 1158 CC [CC, DD, HH]
+2 4 1158 AA [CC, DD, HH]
+Walking from CC to BB cost 2
+1 15 1522 BB [BB, CC, DD, HH]
+2 4 1522 AA [BB, CC, DD, HH]
+Walking from BB to EE cost 4
+1 19 1600 EE [BB, CC, DD, EE, HH]
+2 4 1600 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2125 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2125 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 19 2068 JJ [BB, CC, DD, HH, JJ]
+2 4 2068 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 24 2143 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2143 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 16 1239 EE [CC, DD, EE, HH]
+2 4 1239 AA [CC, DD, EE, HH]
+Walking from EE to BB cost 4
+1 20 1577 BB [BB, CC, DD, EE, HH]
+2 4 1577 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2123 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2123 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 21 1764 JJ [CC, DD, EE, HH, JJ]
+2 4 1764 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2102 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2102 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 18 1683 JJ [CC, DD, HH, JJ]
+2 4 1683 AA [CC, DD, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 2021 BB [BB, CC, DD, HH, JJ]
+2 4 2021 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2099 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2099 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1758 EE [CC, DD, EE, HH, JJ]
+2 4 1758 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2096 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2096 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 11 1188 EE [DD, EE, HH]
+2 4 1188 AA [DD, EE, HH]
+Walking from EE to BB cost 4
+1 15 1526 BB [BB, DD, EE, HH]
+2 4 1526 AA [BB, DD, EE, HH]
+Walking from BB to CC cost 2
+1 17 1582 CC [BB, CC, DD, EE, HH]
+2 4 1582 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 22 2107 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 19 2072 JJ [BB, DD, EE, HH, JJ]
+2 4 2072 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 24 2122 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2122 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 14 1242 CC [CC, DD, EE, HH]
+2 4 1242 AA [CC, DD, EE, HH]
+Walking from CC to BB cost 2
+1 16 1606 BB [BB, CC, DD, EE, HH]
+2 4 1606 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 20 2152 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2152 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 19 1767 JJ [CC, DD, EE, HH, JJ]
+2 4 1767 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2105 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2105 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 16 1713 JJ [DD, EE, HH, JJ]
+2 4 1713 AA [DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 20 2051 BB [BB, DD, EE, HH, JJ]
+2 4 2051 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 22 2107 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 21 1763 CC [CC, DD, EE, HH, JJ]
+2 4 1763 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2127 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2127 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 15 1572 JJ [DD, HH, JJ]
+2 4 1572 AA [DD, HH, JJ]
+Walking from JJ to BB cost 4
+1 19 1910 BB [BB, DD, HH, JJ]
+2 4 1910 AA [BB, DD, HH, JJ]
+Walking from BB to CC cost 2
+1 21 1966 CC [BB, CC, DD, HH, JJ]
+2 4 1966 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 24 2047 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 23 1988 EE [BB, DD, EE, HH, JJ]
+2 4 1988 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2042 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 20 1622 CC [CC, DD, HH, JJ]
+2 4 1622 AA [CC, DD, HH, JJ]
+Walking from CC to BB cost 2
+1 22 1986 BB [BB, CC, DD, HH, JJ]
+2 4 1986 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2064 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 23 1703 EE [CC, DD, EE, HH, JJ]
+2 4 1703 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2041 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2041 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 20 1647 EE [DD, EE, HH, JJ]
+2 4 1647 AA [DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 24 1985 BB [BB, DD, EE, HH, JJ]
+2 4 1985 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 26 2041 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2041 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 23 1701 CC [CC, DD, EE, HH, JJ]
+2 4 1701 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2065 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 6 1106 JJ [DD, JJ]
+2 4 1106 AA [DD, JJ]
+Walking from JJ to BB cost 4
+1 10 1444 BB [BB, DD, JJ]
+2 4 1444 AA [BB, DD, JJ]
+Walking from BB to CC cost 2
+1 12 1500 CC [BB, CC, DD, JJ]
+2 4 1500 AA [BB, CC, DD, JJ]
+Walking from CC to EE cost 3
+1 15 1581 EE [BB, CC, DD, EE, JJ]
+2 4 1581 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2153 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2153 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 18 2028 HH [BB, CC, DD, HH, JJ]
+2 4 2028 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2106 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2106 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 14 1522 EE [BB, DD, EE, JJ]
+2 4 1522 AA [BB, DD, EE, JJ]
+Walking from EE to CC cost 3
+1 17 1576 CC [BB, CC, DD, EE, JJ]
+2 4 1576 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2104 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 2094 HH [BB, DD, EE, HH, JJ]
+2 4 2094 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 24 2142 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2142 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 17 1950 HH [BB, DD, HH, JJ]
+2 4 1950 AA [BB, DD, HH, JJ]
+Walking from HH to CC cost 6
+1 23 1998 CC [BB, CC, DD, HH, JJ]
+2 4 1998 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2079 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2079 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 2028 EE [BB, DD, EE, HH, JJ]
+2 4 2028 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 24 2082 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2082 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 11 1156 CC [CC, DD, JJ]
+2 4 1156 AA [CC, DD, JJ]
+Walking from CC to BB cost 2
+1 13 1520 BB [BB, CC, DD, JJ]
+2 4 1520 AA [BB, CC, DD, JJ]
+Walking from BB to EE cost 4
+1 17 1598 EE [BB, CC, DD, EE, JJ]
+2 4 1598 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2170 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2170 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 2026 HH [BB, CC, DD, HH, JJ]
+2 4 2026 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2104 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 14 1237 EE [CC, DD, EE, JJ]
+2 4 1237 AA [CC, DD, EE, JJ]
+Walking from EE to BB cost 4
+1 18 1575 BB [BB, CC, DD, EE, JJ]
+2 4 1575 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 25 2081 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2081 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 1809 HH [CC, DD, EE, HH, JJ]
+2 4 1809 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 25 2108 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2108 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 17 1684 HH [CC, DD, HH, JJ]
+2 4 1684 AA [CC, DD, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1983 BB [BB, CC, DD, HH, JJ]
+2 4 1983 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 28 2061 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2061 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 1762 EE [CC, DD, EE, HH, JJ]
+2 4 1762 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 25 2100 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2100 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 11 1181 EE [DD, EE, JJ]
+2 4 1181 AA [DD, EE, JJ]
+Walking from EE to BB cost 4
+1 15 1519 BB [BB, DD, EE, JJ]
+2 4 1519 AA [BB, DD, EE, JJ]
+Walking from BB to CC cost 2
+1 17 1575 CC [BB, CC, DD, EE, JJ]
+2 4 1575 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2103 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2103 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 22 2025 HH [BB, DD, EE, HH, JJ]
+2 4 2025 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 28 2073 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 14 1235 CC [CC, DD, EE, JJ]
+2 4 1235 AA [CC, DD, EE, JJ]
+Walking from CC to BB cost 2
+1 16 1599 BB [BB, CC, DD, EE, JJ]
+2 4 1599 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2105 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2105 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 1763 HH [CC, DD, EE, HH, JJ]
+2 4 1763 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2062 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2062 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 15 1753 HH [DD, EE, HH, JJ]
+2 4 1753 AA [DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 22 2052 BB [BB, DD, EE, HH, JJ]
+2 4 2052 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 24 2108 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2108 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 21 1801 CC [CC, DD, EE, HH, JJ]
+2 4 1801 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2165 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2165 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 14 1590 HH [DD, HH, JJ]
+2 4 1590 AA [DD, HH, JJ]
+Walking from HH to BB cost 7
+1 21 1889 BB [BB, DD, HH, JJ]
+2 4 1889 AA [BB, DD, HH, JJ]
+Walking from BB to CC cost 2
+1 23 1945 CC [BB, CC, DD, HH, JJ]
+2 4 1945 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2026 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 25 1967 EE [BB, DD, EE, HH, JJ]
+2 4 1967 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 28 2021 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2021 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 20 1638 CC [CC, DD, HH, JJ]
+2 4 1638 AA [CC, DD, HH, JJ]
+Walking from CC to BB cost 2
+1 22 2002 BB [BB, CC, DD, HH, JJ]
+2 4 2002 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2080 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2080 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 23 1719 EE [CC, DD, EE, HH, JJ]
+2 4 1719 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2057 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2057 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 18 1668 EE [DD, EE, HH, JJ]
+2 4 1668 AA [DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 22 2006 BB [BB, DD, EE, HH, JJ]
+2 4 2006 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 24 2062 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2062 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 21 1722 CC [CC, DD, EE, HH, JJ]
+2 4 1722 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2086 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from AA to EE cost 3
+1 3 81 EE [EE]
+2 4 81 AA [EE]
+Walking from EE to BB cost 4
+1 7 419 BB [BB, EE]
+2 4 419 AA [BB, EE]
+Walking from BB to CC cost 2
+1 9 475 CC [BB, CC, EE]
+2 4 475 AA [BB, CC, EE]
+Walking from CC to DD cost 2
+1 11 1035 DD [BB, CC, DD, EE]
+2 4 1035 AA [BB, CC, DD, EE]
+Walking from DD to HH cost 5
+1 16 1585 HH [BB, CC, DD, EE, HH]
+2 4 1585 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2047 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 15 1581 JJ [BB, CC, DD, EE, JJ]
+2 4 1581 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2065 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 15 1003 HH [BB, CC, EE, HH]
+2 4 1003 AA [BB, CC, EE, HH]
+Walking from HH to DD cost 5
+1 20 1503 DD [BB, CC, DD, EE, HH]
+2 4 1503 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 24 2049 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2049 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 23 1465 JJ [BB, CC, EE, HH, JJ]
+2 4 1465 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 27 1985 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1985 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 14 1000 JJ [BB, CC, EE, JJ]
+2 4 1000 AA [BB, CC, EE, JJ]
+Walking from JJ to DD cost 4
+1 18 1520 DD [BB, CC, DD, EE, JJ]
+2 4 1520 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2070 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2070 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 22 1484 HH [BB, CC, EE, HH, JJ]
+2 4 1484 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 1984 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1984 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 10 959 DD [BB, DD, EE]
+2 4 959 AA [BB, DD, EE]
+Walking from DD to CC cost 2
+1 12 1015 CC [BB, CC, DD, EE]
+2 4 1015 AA [BB, CC, DD, EE]
+Walking from CC to HH cost 6
+1 18 1543 HH [BB, CC, DD, EE, HH]
+2 4 1543 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 26 2005 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2005 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 17 1540 JJ [BB, CC, DD, EE, JJ]
+2 4 1540 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 25 2024 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2024 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 15 1509 HH [BB, DD, EE, HH]
+2 4 1509 AA [BB, DD, EE, HH]
+Walking from HH to CC cost 6
+1 21 1557 CC [BB, CC, DD, EE, HH]
+2 4 1557 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 26 2082 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2082 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 23 1971 JJ [BB, DD, EE, HH, JJ]
+2 4 1971 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 28 2021 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2021 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 14 1505 JJ [BB, DD, EE, JJ]
+2 4 1505 AA [BB, DD, EE, JJ]
+Walking from JJ to CC cost 5
+1 19 1555 CC [BB, CC, DD, EE, JJ]
+2 4 1555 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 25 2083 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2083 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 22 1989 HH [BB, DD, EE, HH, JJ]
+2 4 1989 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 28 2037 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2037 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 14 925 HH [BB, EE, HH]
+2 4 925 AA [BB, EE, HH]
+Walking from HH to CC cost 6
+1 20 973 CC [BB, CC, EE, HH]
+2 4 973 AA [BB, CC, EE, HH]
+Walking from CC to DD cost 2
+1 22 1533 DD [BB, CC, DD, EE, HH]
+2 4 1533 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 26 2079 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2079 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 25 1498 JJ [BB, CC, EE, HH, JJ]
+2 4 1498 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 29 2018 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2018 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 19 1425 DD [BB, DD, EE, HH]
+2 4 1425 AA [BB, DD, EE, HH]
+Walking from DD to CC cost 2
+1 21 1481 CC [BB, CC, DD, EE, HH]
+2 4 1481 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 26 2006 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2006 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 23 1971 JJ [BB, DD, EE, HH, JJ]
+2 4 1971 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 28 2021 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2021 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 22 1387 JJ [BB, EE, HH, JJ]
+2 4 1387 AA [BB, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 27 1437 CC [BB, CC, EE, HH, JJ]
+2 4 1437 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 29 1997 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1997 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 26 1907 DD [BB, DD, EE, HH, JJ]
+2 4 1907 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 28 1963 CC [BB, CC, DD, EE, HH, JJ]
+2 4 1963 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 11 965 JJ [BB, EE, JJ]
+2 4 965 AA [BB, EE, JJ]
+Walking from JJ to CC cost 5
+1 16 1015 CC [BB, CC, EE, JJ]
+2 4 1015 AA [BB, CC, EE, JJ]
+Walking from CC to DD cost 2
+1 18 1575 DD [BB, CC, DD, EE, JJ]
+2 4 1575 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2125 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2125 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 22 1543 HH [BB, CC, EE, HH, JJ]
+2 4 1543 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2043 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2043 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 15 1485 DD [BB, DD, EE, JJ]
+2 4 1485 AA [BB, DD, EE, JJ]
+Walking from DD to CC cost 2
+1 17 1541 CC [BB, CC, DD, EE, JJ]
+2 4 1541 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2069 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2069 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 2035 HH [BB, DD, EE, HH, JJ]
+2 4 2035 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2083 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2083 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 19 1449 HH [BB, EE, HH, JJ]
+2 4 1449 AA [BB, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 25 1497 CC [BB, CC, EE, HH, JJ]
+2 4 1497 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2057 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2057 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 24 1949 DD [BB, DD, EE, HH, JJ]
+2 4 1949 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 26 2005 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2005 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 6 135 CC [CC, EE]
+2 4 135 AA [CC, EE]
+Walking from CC to BB cost 2
+1 8 499 BB [BB, CC, EE]
+2 4 499 AA [BB, CC, EE]
+Walking from BB to DD cost 3
+1 11 1039 DD [BB, CC, DD, EE]
+2 4 1039 AA [BB, CC, DD, EE]
+Walking from DD to HH cost 5
+1 16 1589 HH [BB, CC, DD, EE, HH]
+2 4 1589 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2051 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2051 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 15 1585 JJ [BB, CC, DD, EE, JJ]
+2 4 1585 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2069 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2069 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 15 1005 HH [BB, CC, EE, HH]
+2 4 1005 AA [BB, CC, EE, HH]
+Walking from HH to DD cost 5
+1 20 1505 DD [BB, CC, DD, EE, HH]
+2 4 1505 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 24 2051 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2051 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 23 1467 JJ [BB, CC, EE, HH, JJ]
+2 4 1467 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 27 1987 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1987 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 12 1045 JJ [BB, CC, EE, JJ]
+2 4 1045 AA [BB, CC, EE, JJ]
+Walking from JJ to DD cost 4
+1 16 1565 DD [BB, CC, DD, EE, JJ]
+2 4 1565 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2115 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2115 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1529 HH [BB, CC, EE, HH, JJ]
+2 4 1529 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 25 2029 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 8 695 DD [CC, DD, EE]
+2 4 695 AA [CC, DD, EE]
+Walking from DD to BB cost 3
+1 11 1046 BB [BB, CC, DD, EE]
+2 4 1046 AA [BB, CC, DD, EE]
+Walking from BB to HH cost 7
+1 18 1552 HH [BB, CC, DD, EE, HH]
+2 4 1552 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 26 2014 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2014 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 15 1592 JJ [BB, CC, DD, EE, JJ]
+2 4 1592 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2076 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2076 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 13 1245 HH [CC, DD, EE, HH]
+2 4 1245 AA [CC, DD, EE, HH]
+Walking from HH to BB cost 7
+1 20 1544 BB [BB, CC, DD, EE, HH]
+2 4 1544 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2090 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2090 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1707 JJ [CC, DD, EE, HH, JJ]
+2 4 1707 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2045 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 12 1241 JJ [CC, DD, EE, JJ]
+2 4 1241 AA [CC, DD, EE, JJ]
+Walking from JJ to BB cost 4
+1 16 1579 BB [BB, CC, DD, EE, JJ]
+2 4 1579 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2085 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1725 HH [CC, DD, EE, HH, JJ]
+2 4 1725 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2024 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2024 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 12 663 HH [CC, EE, HH]
+2 4 663 AA [CC, EE, HH]
+Walking from HH to BB cost 7
+1 19 962 BB [BB, CC, EE, HH]
+2 4 962 AA [BB, CC, EE, HH]
+Walking from BB to DD cost 3
+1 22 1502 DD [BB, CC, DD, EE, HH]
+2 4 1502 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 26 2048 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2048 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 23 1508 JJ [BB, CC, EE, HH, JJ]
+2 4 1508 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 27 2028 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2028 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 17 1163 DD [CC, DD, EE, HH]
+2 4 1163 AA [CC, DD, EE, HH]
+Walking from DD to BB cost 3
+1 20 1514 BB [BB, CC, DD, EE, HH]
+2 4 1514 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2060 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2060 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 21 1709 JJ [CC, DD, EE, HH, JJ]
+2 4 1709 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2047 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 20 1125 JJ [CC, EE, HH, JJ]
+2 4 1125 AA [CC, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 24 1463 BB [BB, CC, EE, HH, JJ]
+2 4 1463 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 27 2003 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2003 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 24 1645 DD [CC, DD, EE, HH, JJ]
+2 4 1645 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 1996 BB [BB, CC, DD, EE, HH, JJ]
+2 4 1996 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 11 660 JJ [CC, EE, JJ]
+2 4 660 AA [CC, EE, JJ]
+Walking from JJ to BB cost 4
+1 15 998 BB [BB, CC, EE, JJ]
+2 4 998 AA [BB, CC, EE, JJ]
+Walking from BB to DD cost 3
+1 18 1538 DD [BB, CC, DD, EE, JJ]
+2 4 1538 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2088 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2088 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 22 1504 HH [BB, CC, EE, HH, JJ]
+2 4 1504 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2004 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2004 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 15 1180 DD [CC, DD, EE, JJ]
+2 4 1180 AA [CC, DD, EE, JJ]
+Walking from DD to BB cost 3
+1 18 1531 BB [BB, CC, DD, EE, JJ]
+2 4 1531 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 25 2037 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2037 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 1730 HH [CC, DD, EE, HH, JJ]
+2 4 1730 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2029 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 19 1144 HH [CC, EE, HH, JJ]
+2 4 1144 AA [CC, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 26 1443 BB [BB, CC, EE, HH, JJ]
+2 4 1443 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 29 1983 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1983 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 24 1644 DD [CC, DD, EE, HH, JJ]
+2 4 1644 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 1995 BB [BB, CC, DD, EE, HH, JJ]
+2 4 1995 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 5 641 DD [DD, EE]
+2 4 641 AA [DD, EE]
+Walking from DD to BB cost 3
+1 8 992 BB [BB, DD, EE]
+2 4 992 AA [BB, DD, EE]
+Walking from BB to CC cost 2
+1 10 1048 CC [BB, CC, DD, EE]
+2 4 1048 AA [BB, CC, DD, EE]
+Walking from CC to HH cost 6
+1 16 1576 HH [BB, CC, DD, EE, HH]
+2 4 1576 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2038 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2038 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 15 1573 JJ [BB, CC, DD, EE, JJ]
+2 4 1573 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 23 2057 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2057 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 15 1498 HH [BB, DD, EE, HH]
+2 4 1498 AA [BB, DD, EE, HH]
+Walking from HH to CC cost 6
+1 21 1546 CC [BB, CC, DD, EE, HH]
+2 4 1546 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 26 2071 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 23 1960 JJ [BB, DD, EE, HH, JJ]
+2 4 1960 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 28 2010 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2010 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 12 1538 JJ [BB, DD, EE, JJ]
+2 4 1538 AA [BB, DD, EE, JJ]
+Walking from JJ to CC cost 5
+1 17 1588 CC [BB, CC, DD, EE, JJ]
+2 4 1588 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2116 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2116 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 2022 HH [BB, DD, EE, HH, JJ]
+2 4 2022 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2070 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2070 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 7 697 CC [CC, DD, EE]
+2 4 697 AA [CC, DD, EE]
+Walking from CC to BB cost 2
+1 9 1061 BB [BB, CC, DD, EE]
+2 4 1061 AA [BB, CC, DD, EE]
+Walking from BB to HH cost 7
+1 16 1567 HH [BB, CC, DD, EE, HH]
+2 4 1567 AA [BB, CC, DD, EE, HH]
+Walking from HH to JJ cost 8
+1 24 2029 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 13 1607 JJ [BB, CC, DD, EE, JJ]
+2 4 1607 AA [BB, CC, DD, EE, JJ]
+Walking from JJ to HH cost 8
+1 21 2091 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 13 1225 HH [CC, DD, EE, HH]
+2 4 1225 AA [CC, DD, EE, HH]
+Walking from HH to BB cost 7
+1 20 1524 BB [BB, CC, DD, EE, HH]
+2 4 1524 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2070 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2070 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 21 1687 JJ [CC, DD, EE, HH, JJ]
+2 4 1687 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2025 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2025 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 12 1222 JJ [CC, DD, EE, JJ]
+2 4 1222 AA [CC, DD, EE, JJ]
+Walking from JJ to BB cost 4
+1 16 1560 BB [BB, CC, DD, EE, JJ]
+2 4 1560 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2066 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 20 1706 HH [CC, DD, EE, HH, JJ]
+2 4 1706 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2005 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2005 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 10 1191 HH [DD, EE, HH]
+2 4 1191 AA [DD, EE, HH]
+Walking from HH to BB cost 7
+1 17 1490 BB [BB, DD, EE, HH]
+2 4 1490 AA [BB, DD, EE, HH]
+Walking from BB to CC cost 2
+1 19 1546 CC [BB, CC, DD, EE, HH]
+2 4 1546 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 24 2071 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 21 2036 JJ [BB, DD, EE, HH, JJ]
+2 4 2036 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 26 2086 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2086 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 16 1239 CC [CC, DD, EE, HH]
+2 4 1239 AA [CC, DD, EE, HH]
+Walking from CC to BB cost 2
+1 18 1603 BB [BB, CC, DD, EE, HH]
+2 4 1603 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2149 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2149 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1764 JJ [CC, DD, EE, HH, JJ]
+2 4 1764 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2102 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2102 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 18 1653 JJ [DD, EE, HH, JJ]
+2 4 1653 AA [DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1991 BB [BB, DD, EE, HH, JJ]
+2 4 1991 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 24 2047 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1703 CC [CC, DD, EE, HH, JJ]
+2 4 1703 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2067 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 9 1187 JJ [DD, EE, JJ]
+2 4 1187 AA [DD, EE, JJ]
+Walking from JJ to BB cost 4
+1 13 1525 BB [BB, DD, EE, JJ]
+2 4 1525 AA [BB, DD, EE, JJ]
+Walking from BB to CC cost 2
+1 15 1581 CC [BB, CC, DD, EE, JJ]
+2 4 1581 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 21 2109 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2109 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 2031 HH [BB, DD, EE, HH, JJ]
+2 4 2031 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2079 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2079 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 14 1237 CC [CC, DD, EE, JJ]
+2 4 1237 AA [CC, DD, EE, JJ]
+Walking from CC to BB cost 2
+1 16 1601 BB [BB, CC, DD, EE, JJ]
+2 4 1601 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2107 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 1765 HH [CC, DD, EE, HH, JJ]
+2 4 1765 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2064 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 17 1671 HH [DD, EE, HH, JJ]
+2 4 1671 AA [DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1970 BB [BB, DD, EE, HH, JJ]
+2 4 1970 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 26 2026 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 23 1719 CC [CC, DD, EE, HH, JJ]
+2 4 1719 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2083 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2083 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 7 653 HH [EE, HH]
+2 4 653 AA [EE, HH]
+Walking from HH to BB cost 7
+1 14 952 BB [BB, EE, HH]
+2 4 952 AA [BB, EE, HH]
+Walking from BB to CC cost 2
+1 16 1008 CC [BB, CC, EE, HH]
+2 4 1008 AA [BB, CC, EE, HH]
+Walking from CC to DD cost 2
+1 18 1568 DD [BB, CC, DD, EE, HH]
+2 4 1568 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 22 2114 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2114 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1533 JJ [BB, CC, EE, HH, JJ]
+2 4 1533 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 25 2053 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2053 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 17 1492 DD [BB, DD, EE, HH]
+2 4 1492 AA [BB, DD, EE, HH]
+Walking from DD to CC cost 2
+1 19 1548 CC [BB, CC, DD, EE, HH]
+2 4 1548 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 24 2073 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 21 2038 JJ [BB, DD, EE, HH, JJ]
+2 4 2038 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 26 2088 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2088 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 18 1498 JJ [BB, EE, HH, JJ]
+2 4 1498 AA [BB, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1548 CC [BB, CC, EE, HH, JJ]
+2 4 1548 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 25 2108 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2108 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 2018 DD [BB, DD, EE, HH, JJ]
+2 4 2018 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 24 2074 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2074 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 13 701 CC [CC, EE, HH]
+2 4 701 AA [CC, EE, HH]
+Walking from CC to BB cost 2
+1 15 1065 BB [BB, CC, EE, HH]
+2 4 1065 AA [BB, CC, EE, HH]
+Walking from BB to DD cost 3
+1 18 1605 DD [BB, CC, DD, EE, HH]
+2 4 1605 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 22 2151 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2151 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 19 1611 JJ [BB, CC, EE, HH, JJ]
+2 4 1611 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 23 2131 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2131 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 15 1261 DD [CC, DD, EE, HH]
+2 4 1261 AA [CC, DD, EE, HH]
+Walking from DD to BB cost 3
+1 18 1612 BB [BB, CC, DD, EE, HH]
+2 4 1612 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2158 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2158 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 19 1807 JJ [CC, DD, EE, HH, JJ]
+2 4 1807 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2145 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2145 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 18 1226 JJ [CC, EE, HH, JJ]
+2 4 1226 AA [CC, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1564 BB [BB, CC, EE, HH, JJ]
+2 4 1564 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 25 2104 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 1746 DD [CC, DD, EE, HH, JJ]
+2 4 1746 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2097 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2097 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 12 1153 DD [DD, EE, HH]
+2 4 1153 AA [DD, EE, HH]
+Walking from DD to BB cost 3
+1 15 1504 BB [BB, DD, EE, HH]
+2 4 1504 AA [BB, DD, EE, HH]
+Walking from BB to CC cost 2
+1 17 1560 CC [BB, CC, DD, EE, HH]
+2 4 1560 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 22 2085 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 19 2050 JJ [BB, DD, EE, HH, JJ]
+2 4 2050 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 24 2100 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2100 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 14 1209 CC [CC, DD, EE, HH]
+2 4 1209 AA [CC, DD, EE, HH]
+Walking from CC to BB cost 2
+1 16 1573 BB [BB, CC, DD, EE, HH]
+2 4 1573 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 20 2119 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2119 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 19 1734 JJ [CC, DD, EE, HH, JJ]
+2 4 1734 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2072 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2072 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 16 1699 JJ [DD, EE, HH, JJ]
+2 4 1699 AA [DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 20 2037 BB [BB, DD, EE, HH, JJ]
+2 4 2037 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 22 2093 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2093 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 21 1749 CC [CC, DD, EE, HH, JJ]
+2 4 1749 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2113 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2113 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 15 1115 JJ [EE, HH, JJ]
+2 4 1115 AA [EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 19 1453 BB [BB, EE, HH, JJ]
+2 4 1453 AA [BB, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 21 1509 CC [BB, CC, EE, HH, JJ]
+2 4 1509 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 23 2069 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2069 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 22 1993 DD [BB, DD, EE, HH, JJ]
+2 4 1993 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 24 2049 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2049 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 20 1165 CC [CC, EE, HH, JJ]
+2 4 1165 AA [CC, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 22 1529 BB [BB, CC, EE, HH, JJ]
+2 4 1529 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 25 2069 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2069 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 22 1725 DD [CC, DD, EE, HH, JJ]
+2 4 1725 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2076 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2076 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 19 1635 DD [DD, EE, HH, JJ]
+2 4 1635 AA [DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 22 1986 BB [BB, DD, EE, HH, JJ]
+2 4 1986 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 24 2042 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 21 1691 CC [CC, DD, EE, HH, JJ]
+2 4 1691 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2055 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2055 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 8 606 JJ [EE, JJ]
+2 4 606 AA [EE, JJ]
+Walking from JJ to BB cost 4
+1 12 944 BB [BB, EE, JJ]
+2 4 944 AA [BB, EE, JJ]
+Walking from BB to CC cost 2
+1 14 1000 CC [BB, CC, EE, JJ]
+2 4 1000 AA [BB, CC, EE, JJ]
+Walking from CC to DD cost 2
+1 16 1560 DD [BB, CC, DD, EE, JJ]
+2 4 1560 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2110 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2110 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 1528 HH [BB, CC, EE, HH, JJ]
+2 4 1528 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 25 2028 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2028 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 15 1484 DD [BB, DD, EE, JJ]
+2 4 1484 AA [BB, DD, EE, JJ]
+Walking from DD to CC cost 2
+1 17 1540 CC [BB, CC, DD, EE, JJ]
+2 4 1540 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2068 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2068 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 2034 HH [BB, DD, EE, HH, JJ]
+2 4 2034 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2082 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2082 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 19 1450 HH [BB, EE, HH, JJ]
+2 4 1450 AA [BB, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 25 1498 CC [BB, CC, EE, HH, JJ]
+2 4 1498 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2058 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2058 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 24 1950 DD [BB, DD, EE, HH, JJ]
+2 4 1950 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 26 2006 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2006 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 13 656 CC [CC, EE, JJ]
+2 4 656 AA [CC, EE, JJ]
+Walking from CC to BB cost 2
+1 15 1020 BB [BB, CC, EE, JJ]
+2 4 1020 AA [BB, CC, EE, JJ]
+Walking from BB to DD cost 3
+1 18 1560 DD [BB, CC, DD, EE, JJ]
+2 4 1560 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2110 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2110 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 22 1526 HH [BB, CC, EE, HH, JJ]
+2 4 1526 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2026 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 15 1216 DD [CC, DD, EE, JJ]
+2 4 1216 AA [CC, DD, EE, JJ]
+Walking from DD to BB cost 3
+1 18 1567 BB [BB, CC, DD, EE, JJ]
+2 4 1567 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 25 2073 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 1766 HH [CC, DD, EE, HH, JJ]
+2 4 1766 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2065 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 19 1184 HH [CC, EE, HH, JJ]
+2 4 1184 AA [CC, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 26 1483 BB [BB, CC, EE, HH, JJ]
+2 4 1483 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 29 2023 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2023 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 24 1684 DD [CC, DD, EE, HH, JJ]
+2 4 1684 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 2035 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2035 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 12 1126 DD [DD, EE, JJ]
+2 4 1126 AA [DD, EE, JJ]
+Walking from DD to BB cost 3
+1 15 1477 BB [BB, DD, EE, JJ]
+2 4 1477 AA [BB, DD, EE, JJ]
+Walking from BB to CC cost 2
+1 17 1533 CC [BB, CC, DD, EE, JJ]
+2 4 1533 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2061 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2061 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 22 1983 HH [BB, DD, EE, HH, JJ]
+2 4 1983 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 28 2031 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2031 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 14 1182 CC [CC, DD, EE, JJ]
+2 4 1182 AA [CC, DD, EE, JJ]
+Walking from CC to BB cost 2
+1 16 1546 BB [BB, CC, DD, EE, JJ]
+2 4 1546 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2052 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2052 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 1710 HH [CC, DD, EE, HH, JJ]
+2 4 1710 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 27 2009 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2009 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 17 1676 HH [DD, EE, HH, JJ]
+2 4 1676 AA [DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1975 BB [BB, DD, EE, HH, JJ]
+2 4 1975 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 26 2031 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2031 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 23 1724 CC [CC, DD, EE, HH, JJ]
+2 4 1724 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2088 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2088 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 16 1090 HH [EE, HH, JJ]
+2 4 1090 AA [EE, HH, JJ]
+Walking from HH to BB cost 7
+1 23 1389 BB [BB, EE, HH, JJ]
+2 4 1389 AA [BB, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 25 1445 CC [BB, CC, EE, HH, JJ]
+2 4 1445 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2005 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2005 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 26 1929 DD [BB, DD, EE, HH, JJ]
+2 4 1929 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 28 1985 CC [BB, CC, DD, EE, HH, JJ]
+2 4 1985 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 22 1138 CC [CC, EE, HH, JJ]
+2 4 1138 AA [CC, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 24 1502 BB [BB, CC, EE, HH, JJ]
+2 4 1502 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 27 2042 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 24 1698 DD [CC, DD, EE, HH, JJ]
+2 4 1698 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 2049 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2049 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 21 1590 DD [DD, EE, HH, JJ]
+2 4 1590 AA [DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 24 1941 BB [BB, DD, EE, HH, JJ]
+2 4 1941 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 26 1997 CC [BB, CC, DD, EE, HH, JJ]
+2 4 1997 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 23 1646 CC [CC, DD, EE, HH, JJ]
+2 4 1646 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2010 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2010 AA [BB, CC, DD, EE, HH, JJ]
+Walking from AA to HH cost 6
+1 6 528 HH [HH]
+2 4 528 AA [HH]
+Walking from HH to BB cost 7
+1 13 827 BB [BB, HH]
+2 4 827 AA [BB, HH]
+Walking from BB to CC cost 2
+1 15 883 CC [BB, CC, HH]
+2 4 883 AA [BB, CC, HH]
+Walking from CC to DD cost 2
+1 17 1443 DD [BB, CC, DD, HH]
+2 4 1443 AA [BB, CC, DD, HH]
+Walking from DD to EE cost 2
+1 19 1527 EE [BB, CC, DD, EE, HH]
+2 4 1527 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2052 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2052 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 21 1989 JJ [BB, CC, DD, HH, JJ]
+2 4 1989 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2064 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 18 964 EE [BB, CC, EE, HH]
+2 4 964 AA [BB, CC, EE, HH]
+Walking from EE to DD cost 2
+1 20 1524 DD [BB, CC, DD, EE, HH]
+2 4 1524 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 24 2070 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2070 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 23 1489 JJ [BB, CC, EE, HH, JJ]
+2 4 1489 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 27 2009 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2009 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 20 1408 JJ [BB, CC, HH, JJ]
+2 4 1408 AA [BB, CC, HH, JJ]
+Walking from JJ to DD cost 4
+1 24 1928 DD [BB, CC, DD, HH, JJ]
+2 4 1928 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2012 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2012 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 25 1483 EE [BB, CC, EE, HH, JJ]
+2 4 1483 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2043 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2043 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 16 1367 DD [BB, DD, HH]
+2 4 1367 AA [BB, DD, HH]
+Walking from DD to CC cost 2
+1 18 1423 CC [BB, CC, DD, HH]
+2 4 1423 AA [BB, CC, DD, HH]
+Walking from CC to EE cost 3
+1 21 1504 EE [BB, CC, DD, EE, HH]
+2 4 1504 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 26 2029 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 23 1948 JJ [BB, CC, DD, HH, JJ]
+2 4 1948 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 28 2023 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2023 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 18 1451 EE [BB, DD, EE, HH]
+2 4 1451 AA [BB, DD, EE, HH]
+Walking from EE to CC cost 3
+1 21 1505 CC [BB, CC, DD, EE, HH]
+2 4 1505 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 26 2030 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2030 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 23 1976 JJ [BB, DD, EE, HH, JJ]
+2 4 1976 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 28 2026 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 20 1913 JJ [BB, DD, HH, JJ]
+2 4 1913 AA [BB, DD, HH, JJ]
+Walking from JJ to CC cost 5
+1 25 1963 CC [BB, CC, DD, HH, JJ]
+2 4 1963 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 28 2044 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2044 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 25 1988 EE [BB, DD, EE, HH, JJ]
+2 4 1988 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 28 2042 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 17 905 EE [BB, EE, HH]
+2 4 905 AA [BB, EE, HH]
+Walking from EE to CC cost 3
+1 20 959 CC [BB, CC, EE, HH]
+2 4 959 AA [BB, CC, EE, HH]
+Walking from CC to DD cost 2
+1 22 1519 DD [BB, CC, DD, EE, HH]
+2 4 1519 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 26 2065 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 25 1484 JJ [BB, CC, EE, HH, JJ]
+2 4 1484 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 29 2004 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2004 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 19 1465 DD [BB, DD, EE, HH]
+2 4 1465 AA [BB, DD, EE, HH]
+Walking from DD to CC cost 2
+1 21 1521 CC [BB, CC, DD, EE, HH]
+2 4 1521 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 26 2046 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2046 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 23 2011 JJ [BB, DD, EE, HH, JJ]
+2 4 2011 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 28 2061 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2061 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 22 1430 JJ [BB, EE, HH, JJ]
+2 4 1430 AA [BB, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 27 1480 CC [BB, CC, EE, HH, JJ]
+2 4 1480 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 29 2040 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2040 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 26 1950 DD [BB, DD, EE, HH, JJ]
+2 4 1950 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 28 2006 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2006 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 17 1373 JJ [BB, HH, JJ]
+2 4 1373 AA [BB, HH, JJ]
+Walking from JJ to CC cost 5
+1 22 1423 CC [BB, CC, HH, JJ]
+2 4 1423 AA [BB, CC, HH, JJ]
+Walking from CC to DD cost 2
+1 24 1983 DD [BB, CC, DD, HH, JJ]
+2 4 1983 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2067 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 25 1504 EE [BB, CC, EE, HH, JJ]
+2 4 1504 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2064 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 21 1893 DD [BB, DD, HH, JJ]
+2 4 1893 AA [BB, DD, HH, JJ]
+Walking from DD to CC cost 2
+1 23 1949 CC [BB, CC, DD, HH, JJ]
+2 4 1949 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2030 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2030 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 23 1977 EE [BB, DD, EE, HH, JJ]
+2 4 1977 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2031 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2031 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 22 1448 EE [BB, EE, HH, JJ]
+2 4 1448 AA [BB, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 25 1502 CC [BB, CC, EE, HH, JJ]
+2 4 1502 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2062 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2062 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 24 2008 DD [BB, DD, EE, HH, JJ]
+2 4 2008 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 26 2064 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 12 576 CC [CC, HH]
+2 4 576 AA [CC, HH]
+Walking from CC to BB cost 2
+1 14 940 BB [BB, CC, HH]
+2 4 940 AA [BB, CC, HH]
+Walking from BB to DD cost 3
+1 17 1480 DD [BB, CC, DD, HH]
+2 4 1480 AA [BB, CC, DD, HH]
+Walking from DD to EE cost 2
+1 19 1564 EE [BB, CC, DD, EE, HH]
+2 4 1564 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2089 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2089 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 21 2026 JJ [BB, CC, DD, HH, JJ]
+2 4 2026 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2101 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2101 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 18 1018 EE [BB, CC, EE, HH]
+2 4 1018 AA [BB, CC, EE, HH]
+Walking from EE to DD cost 2
+1 20 1578 DD [BB, CC, DD, EE, HH]
+2 4 1578 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 24 2124 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2124 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 23 1543 JJ [BB, CC, EE, HH, JJ]
+2 4 1543 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 27 2063 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 18 1486 JJ [BB, CC, HH, JJ]
+2 4 1486 AA [BB, CC, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 2006 DD [BB, CC, DD, HH, JJ]
+2 4 2006 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2090 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2090 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1561 EE [BB, CC, EE, HH, JJ]
+2 4 1561 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 25 2121 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2121 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 14 1136 DD [CC, DD, HH]
+2 4 1136 AA [CC, DD, HH]
+Walking from DD to BB cost 3
+1 17 1487 BB [BB, CC, DD, HH]
+2 4 1487 AA [BB, CC, DD, HH]
+Walking from BB to EE cost 4
+1 21 1565 EE [BB, CC, DD, EE, HH]
+2 4 1565 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 26 2090 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2090 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 21 2033 JJ [BB, CC, DD, HH, JJ]
+2 4 2033 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2108 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2108 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 16 1220 EE [CC, DD, EE, HH]
+2 4 1220 AA [CC, DD, EE, HH]
+Walking from EE to BB cost 4
+1 20 1558 BB [BB, CC, DD, EE, HH]
+2 4 1558 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2104 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 21 1745 JJ [CC, DD, EE, HH, JJ]
+2 4 1745 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2083 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2083 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 18 1682 JJ [CC, DD, HH, JJ]
+2 4 1682 AA [CC, DD, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 2020 BB [BB, CC, DD, HH, JJ]
+2 4 2020 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2098 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2098 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1757 EE [CC, DD, EE, HH, JJ]
+2 4 1757 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2095 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2095 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 15 657 EE [CC, EE, HH]
+2 4 657 AA [CC, EE, HH]
+Walking from EE to BB cost 4
+1 19 995 BB [BB, CC, EE, HH]
+2 4 995 AA [BB, CC, EE, HH]
+Walking from BB to DD cost 3
+1 22 1535 DD [BB, CC, DD, EE, HH]
+2 4 1535 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 26 2081 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2081 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 23 1541 JJ [BB, CC, EE, HH, JJ]
+2 4 1541 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 27 2061 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2061 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 17 1217 DD [CC, DD, EE, HH]
+2 4 1217 AA [CC, DD, EE, HH]
+Walking from DD to BB cost 3
+1 20 1568 BB [BB, CC, DD, EE, HH]
+2 4 1568 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2114 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2114 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 21 1763 JJ [CC, DD, EE, HH, JJ]
+2 4 1763 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2101 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2101 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 20 1182 JJ [CC, EE, HH, JJ]
+2 4 1182 AA [CC, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 24 1520 BB [BB, CC, EE, HH, JJ]
+2 4 1520 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 27 2060 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2060 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 24 1702 DD [CC, DD, EE, HH, JJ]
+2 4 1702 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 2053 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2053 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 17 1101 JJ [CC, HH, JJ]
+2 4 1101 AA [CC, HH, JJ]
+Walking from JJ to BB cost 4
+1 21 1439 BB [BB, CC, HH, JJ]
+2 4 1439 AA [BB, CC, HH, JJ]
+Walking from BB to DD cost 3
+1 24 1979 DD [BB, CC, DD, HH, JJ]
+2 4 1979 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2063 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 25 1517 EE [BB, CC, EE, HH, JJ]
+2 4 1517 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2077 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2077 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 21 1621 DD [CC, DD, HH, JJ]
+2 4 1621 AA [CC, DD, HH, JJ]
+Walking from DD to BB cost 3
+1 24 1972 BB [BB, CC, DD, HH, JJ]
+2 4 1972 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 28 2050 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2050 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 23 1705 EE [CC, DD, EE, HH, JJ]
+2 4 1705 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2043 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2043 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 22 1176 EE [CC, EE, HH, JJ]
+2 4 1176 AA [CC, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 26 1514 BB [BB, CC, EE, HH, JJ]
+2 4 1514 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 29 2054 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2054 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 24 1736 DD [CC, DD, EE, HH, JJ]
+2 4 1736 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 2087 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2087 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 11 1028 DD [DD, HH]
+2 4 1028 AA [DD, HH]
+Walking from DD to BB cost 3
+1 14 1379 BB [BB, DD, HH]
+2 4 1379 AA [BB, DD, HH]
+Walking from BB to CC cost 2
+1 16 1435 CC [BB, CC, DD, HH]
+2 4 1435 AA [BB, CC, DD, HH]
+Walking from CC to EE cost 3
+1 19 1516 EE [BB, CC, DD, EE, HH]
+2 4 1516 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2041 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2041 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1960 JJ [BB, CC, DD, HH, JJ]
+2 4 1960 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 26 2035 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2035 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 18 1457 EE [BB, DD, EE, HH]
+2 4 1457 AA [BB, DD, EE, HH]
+Walking from EE to CC cost 3
+1 21 1511 CC [BB, CC, DD, EE, HH]
+2 4 1511 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 26 2036 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2036 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 23 1982 JJ [BB, DD, EE, HH, JJ]
+2 4 1982 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 28 2032 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2032 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 18 1925 JJ [BB, DD, HH, JJ]
+2 4 1925 AA [BB, DD, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1975 CC [BB, CC, DD, HH, JJ]
+2 4 1975 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2056 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2056 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 2000 EE [BB, DD, EE, HH, JJ]
+2 4 2000 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2054 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2054 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 13 1084 CC [CC, DD, HH]
+2 4 1084 AA [CC, DD, HH]
+Walking from CC to BB cost 2
+1 15 1448 BB [BB, CC, DD, HH]
+2 4 1448 AA [BB, CC, DD, HH]
+Walking from BB to EE cost 4
+1 19 1526 EE [BB, CC, DD, EE, HH]
+2 4 1526 AA [BB, CC, DD, EE, HH]
+Walking from EE to JJ cost 5
+1 24 2051 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2051 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 19 1994 JJ [BB, CC, DD, HH, JJ]
+2 4 1994 AA [BB, CC, DD, HH, JJ]
+Walking from JJ to EE cost 5
+1 24 2069 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2069 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 16 1165 EE [CC, DD, EE, HH]
+2 4 1165 AA [CC, DD, EE, HH]
+Walking from EE to BB cost 4
+1 20 1503 BB [BB, CC, DD, EE, HH]
+2 4 1503 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 24 2049 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2049 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 21 1690 JJ [CC, DD, EE, HH, JJ]
+2 4 1690 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2028 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2028 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 18 1609 JJ [CC, DD, HH, JJ]
+2 4 1609 AA [CC, DD, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1947 BB [BB, CC, DD, HH, JJ]
+2 4 1947 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2025 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2025 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 23 1684 EE [CC, DD, EE, HH, JJ]
+2 4 1684 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2022 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2022 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 13 1112 EE [DD, EE, HH]
+2 4 1112 AA [DD, EE, HH]
+Walking from EE to BB cost 4
+1 17 1450 BB [BB, DD, EE, HH]
+2 4 1450 AA [BB, DD, EE, HH]
+Walking from BB to CC cost 2
+1 19 1506 CC [BB, CC, DD, EE, HH]
+2 4 1506 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 24 2031 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2031 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 21 1996 JJ [BB, DD, EE, HH, JJ]
+2 4 1996 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 26 2046 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2046 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 16 1166 CC [CC, DD, EE, HH]
+2 4 1166 AA [CC, DD, EE, HH]
+Walking from CC to BB cost 2
+1 18 1530 BB [BB, CC, DD, EE, HH]
+2 4 1530 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2076 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2076 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1691 JJ [CC, DD, EE, HH, JJ]
+2 4 1691 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 25 2029 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 18 1637 JJ [DD, EE, HH, JJ]
+2 4 1637 AA [DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1975 BB [BB, DD, EE, HH, JJ]
+2 4 1975 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 24 2031 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2031 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1687 CC [CC, DD, EE, HH, JJ]
+2 4 1687 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2051 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2051 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 15 1574 JJ [DD, HH, JJ]
+2 4 1574 AA [DD, HH, JJ]
+Walking from JJ to BB cost 4
+1 19 1912 BB [BB, DD, HH, JJ]
+2 4 1912 AA [BB, DD, HH, JJ]
+Walking from BB to CC cost 2
+1 21 1968 CC [BB, CC, DD, HH, JJ]
+2 4 1968 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 24 2049 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2049 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 23 1990 EE [BB, DD, EE, HH, JJ]
+2 4 1990 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2044 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2044 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 20 1624 CC [CC, DD, HH, JJ]
+2 4 1624 AA [CC, DD, HH, JJ]
+Walking from CC to BB cost 2
+1 22 1988 BB [BB, CC, DD, HH, JJ]
+2 4 1988 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2066 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 23 1705 EE [CC, DD, EE, HH, JJ]
+2 4 1705 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2043 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2043 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 20 1649 EE [DD, EE, HH, JJ]
+2 4 1649 AA [DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 24 1987 BB [BB, DD, EE, HH, JJ]
+2 4 1987 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 26 2043 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2043 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 23 1703 CC [CC, DD, EE, HH, JJ]
+2 4 1703 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2067 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 10 606 EE [EE, HH]
+2 4 606 AA [EE, HH]
+Walking from EE to BB cost 4
+1 14 944 BB [BB, EE, HH]
+2 4 944 AA [BB, EE, HH]
+Walking from BB to CC cost 2
+1 16 1000 CC [BB, CC, EE, HH]
+2 4 1000 AA [BB, CC, EE, HH]
+Walking from CC to DD cost 2
+1 18 1560 DD [BB, CC, DD, EE, HH]
+2 4 1560 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 22 2106 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2106 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 21 1525 JJ [BB, CC, EE, HH, JJ]
+2 4 1525 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 25 2045 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 17 1484 DD [BB, DD, EE, HH]
+2 4 1484 AA [BB, DD, EE, HH]
+Walking from DD to CC cost 2
+1 19 1540 CC [BB, CC, DD, EE, HH]
+2 4 1540 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 24 2065 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 21 2030 JJ [BB, DD, EE, HH, JJ]
+2 4 2030 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 26 2080 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2080 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 18 1490 JJ [BB, EE, HH, JJ]
+2 4 1490 AA [BB, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 23 1540 CC [BB, CC, EE, HH, JJ]
+2 4 1540 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 25 2100 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2100 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 2010 DD [BB, DD, EE, HH, JJ]
+2 4 2010 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 24 2066 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 13 660 CC [CC, EE, HH]
+2 4 660 AA [CC, EE, HH]
+Walking from CC to BB cost 2
+1 15 1024 BB [BB, CC, EE, HH]
+2 4 1024 AA [BB, CC, EE, HH]
+Walking from BB to DD cost 3
+1 18 1564 DD [BB, CC, DD, EE, HH]
+2 4 1564 AA [BB, CC, DD, EE, HH]
+Walking from DD to JJ cost 4
+1 22 2110 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2110 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 19 1570 JJ [BB, CC, EE, HH, JJ]
+2 4 1570 AA [BB, CC, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 23 2090 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2090 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 15 1220 DD [CC, DD, EE, HH]
+2 4 1220 AA [CC, DD, EE, HH]
+Walking from DD to BB cost 3
+1 18 1571 BB [BB, CC, DD, EE, HH]
+2 4 1571 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 22 2117 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2117 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 19 1766 JJ [CC, DD, EE, HH, JJ]
+2 4 1766 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2104 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 18 1185 JJ [CC, EE, HH, JJ]
+2 4 1185 AA [CC, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 22 1523 BB [BB, CC, EE, HH, JJ]
+2 4 1523 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 25 2063 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 22 1705 DD [CC, DD, EE, HH, JJ]
+2 4 1705 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2056 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2056 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 12 1166 DD [DD, EE, HH]
+2 4 1166 AA [DD, EE, HH]
+Walking from DD to BB cost 3
+1 15 1517 BB [BB, DD, EE, HH]
+2 4 1517 AA [BB, DD, EE, HH]
+Walking from BB to CC cost 2
+1 17 1573 CC [BB, CC, DD, EE, HH]
+2 4 1573 AA [BB, CC, DD, EE, HH]
+Walking from CC to JJ cost 5
+1 22 2098 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2098 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to JJ cost 4
+1 19 2063 JJ [BB, DD, EE, HH, JJ]
+2 4 2063 AA [BB, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 24 2113 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2113 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 14 1222 CC [CC, DD, EE, HH]
+2 4 1222 AA [CC, DD, EE, HH]
+Walking from CC to BB cost 2
+1 16 1586 BB [BB, CC, DD, EE, HH]
+2 4 1586 AA [BB, CC, DD, EE, HH]
+Walking from BB to JJ cost 4
+1 20 2132 JJ [BB, CC, DD, EE, HH, JJ]
+2 4 2132 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to JJ cost 5
+1 19 1747 JJ [CC, DD, EE, HH, JJ]
+2 4 1747 AA [CC, DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 23 2085 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to JJ cost 4
+1 16 1712 JJ [DD, EE, HH, JJ]
+2 4 1712 AA [DD, EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 20 2050 BB [BB, DD, EE, HH, JJ]
+2 4 2050 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 22 2106 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2106 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 21 1762 CC [CC, DD, EE, HH, JJ]
+2 4 1762 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2126 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2126 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to JJ cost 5
+1 15 1131 JJ [EE, HH, JJ]
+2 4 1131 AA [EE, HH, JJ]
+Walking from JJ to BB cost 4
+1 19 1469 BB [BB, EE, HH, JJ]
+2 4 1469 AA [BB, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 21 1525 CC [BB, CC, EE, HH, JJ]
+2 4 1525 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 23 2085 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 22 2009 DD [BB, DD, EE, HH, JJ]
+2 4 2009 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 24 2065 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 20 1181 CC [CC, EE, HH, JJ]
+2 4 1181 AA [CC, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 22 1545 BB [BB, CC, EE, HH, JJ]
+2 4 1545 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 25 2085 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 22 1741 DD [CC, DD, EE, HH, JJ]
+2 4 1741 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2092 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2092 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 19 1651 DD [DD, EE, HH, JJ]
+2 4 1651 AA [DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 22 2002 BB [BB, DD, EE, HH, JJ]
+2 4 2002 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 24 2058 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2058 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 21 1707 CC [CC, DD, EE, HH, JJ]
+2 4 1707 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2071 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to JJ cost 8
+1 14 990 JJ [HH, JJ]
+2 4 990 AA [HH, JJ]
+Walking from JJ to BB cost 4
+1 18 1328 BB [BB, HH, JJ]
+2 4 1328 AA [BB, HH, JJ]
+Walking from BB to CC cost 2
+1 20 1384 CC [BB, CC, HH, JJ]
+2 4 1384 AA [BB, CC, HH, JJ]
+Walking from CC to DD cost 2
+1 22 1944 DD [BB, CC, DD, HH, JJ]
+2 4 1944 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2028 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2028 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 23 1465 EE [BB, CC, EE, HH, JJ]
+2 4 1465 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 25 2025 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2025 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 21 1868 DD [BB, DD, HH, JJ]
+2 4 1868 AA [BB, DD, HH, JJ]
+Walking from DD to CC cost 2
+1 23 1924 CC [BB, CC, DD, HH, JJ]
+2 4 1924 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2005 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2005 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 23 1952 EE [BB, DD, EE, HH, JJ]
+2 4 1952 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2006 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2006 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 22 1406 EE [BB, EE, HH, JJ]
+2 4 1406 AA [BB, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 25 1460 CC [BB, CC, EE, HH, JJ]
+2 4 1460 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2020 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2020 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 24 1966 DD [BB, DD, EE, HH, JJ]
+2 4 1966 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 26 2022 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2022 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 19 1040 CC [CC, HH, JJ]
+2 4 1040 AA [CC, HH, JJ]
+Walking from CC to BB cost 2
+1 21 1404 BB [BB, CC, HH, JJ]
+2 4 1404 AA [BB, CC, HH, JJ]
+Walking from BB to DD cost 3
+1 24 1944 DD [BB, CC, DD, HH, JJ]
+2 4 1944 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2028 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2028 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 25 1482 EE [BB, CC, EE, HH, JJ]
+2 4 1482 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2042 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 21 1600 DD [CC, DD, HH, JJ]
+2 4 1600 AA [CC, DD, HH, JJ]
+Walking from DD to BB cost 3
+1 24 1951 BB [BB, CC, DD, HH, JJ]
+2 4 1951 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 28 2029 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 23 1684 EE [CC, DD, EE, HH, JJ]
+2 4 1684 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 2022 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2022 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 22 1121 EE [CC, EE, HH, JJ]
+2 4 1121 AA [CC, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 26 1459 BB [BB, CC, EE, HH, JJ]
+2 4 1459 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 29 1999 DD [BB, CC, DD, EE, HH, JJ]
+2 4 1999 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 24 1681 DD [CC, DD, EE, HH, JJ]
+2 4 1681 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 2032 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2032 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 18 1510 DD [DD, HH, JJ]
+2 4 1510 AA [DD, HH, JJ]
+Walking from DD to BB cost 3
+1 21 1861 BB [BB, DD, HH, JJ]
+2 4 1861 AA [BB, DD, HH, JJ]
+Walking from BB to CC cost 2
+1 23 1917 CC [BB, CC, DD, HH, JJ]
+2 4 1917 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 1998 EE [BB, CC, DD, EE, HH, JJ]
+2 4 1998 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 25 1939 EE [BB, DD, EE, HH, JJ]
+2 4 1939 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 28 1993 CC [BB, CC, DD, EE, HH, JJ]
+2 4 1993 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 20 1566 CC [CC, DD, HH, JJ]
+2 4 1566 AA [CC, DD, HH, JJ]
+Walking from CC to BB cost 2
+1 22 1930 BB [BB, CC, DD, HH, JJ]
+2 4 1930 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2008 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2008 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 23 1647 EE [CC, DD, EE, HH, JJ]
+2 4 1647 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 27 1985 BB [BB, CC, DD, EE, HH, JJ]
+2 4 1985 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 20 1594 EE [DD, EE, HH, JJ]
+2 4 1594 AA [DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 24 1932 BB [BB, DD, EE, HH, JJ]
+2 4 1932 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 26 1988 CC [BB, CC, DD, EE, HH, JJ]
+2 4 1988 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 23 1648 CC [CC, DD, EE, HH, JJ]
+2 4 1648 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2012 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2012 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 19 1065 EE [EE, HH, JJ]
+2 4 1065 AA [EE, HH, JJ]
+Walking from EE to BB cost 4
+1 23 1403 BB [BB, EE, HH, JJ]
+2 4 1403 AA [BB, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 25 1459 CC [BB, CC, EE, HH, JJ]
+2 4 1459 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2019 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2019 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 26 1943 DD [BB, DD, EE, HH, JJ]
+2 4 1943 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 28 1999 CC [BB, CC, DD, EE, HH, JJ]
+2 4 1999 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 22 1119 CC [CC, EE, HH, JJ]
+2 4 1119 AA [CC, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 24 1483 BB [BB, CC, EE, HH, JJ]
+2 4 1483 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 27 2023 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2023 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 24 1679 DD [CC, DD, EE, HH, JJ]
+2 4 1679 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 27 2030 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2030 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 21 1625 DD [DD, EE, HH, JJ]
+2 4 1625 AA [DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 24 1976 BB [BB, DD, EE, HH, JJ]
+2 4 1976 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 26 2032 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2032 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 23 1681 CC [CC, DD, EE, HH, JJ]
+2 4 1681 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 25 2045 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2045 AA [BB, CC, DD, EE, HH, JJ]
+Walking from AA to JJ cost 3
+1 3 567 JJ [JJ]
+2 4 567 AA [JJ]
+Walking from JJ to BB cost 4
+1 7 905 BB [BB, JJ]
+2 4 905 AA [BB, JJ]
+Walking from BB to CC cost 2
+1 9 961 CC [BB, CC, JJ]
+2 4 961 AA [BB, CC, JJ]
+Walking from CC to DD cost 2
+1 11 1521 DD [BB, CC, DD, JJ]
+2 4 1521 AA [BB, CC, DD, JJ]
+Walking from DD to EE cost 2
+1 13 1605 EE [BB, CC, DD, EE, JJ]
+2 4 1605 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 17 2177 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2177 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 16 2071 HH [BB, CC, DD, HH, JJ]
+2 4 2071 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 20 2149 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2149 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 12 1042 EE [BB, CC, EE, JJ]
+2 4 1042 AA [BB, CC, EE, JJ]
+Walking from EE to DD cost 2
+1 14 1602 DD [BB, CC, DD, EE, JJ]
+2 4 1602 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 19 2152 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2152 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 16 1614 HH [BB, CC, EE, HH, JJ]
+2 4 1614 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 21 2114 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2114 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 15 1489 HH [BB, CC, HH, JJ]
+2 4 1489 AA [BB, CC, HH, JJ]
+Walking from HH to DD cost 5
+1 20 1989 DD [BB, CC, DD, HH, JJ]
+2 4 1989 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 22 2073 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 19 1567 EE [BB, CC, EE, HH, JJ]
+2 4 1567 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 21 2127 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2127 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 10 1445 DD [BB, DD, JJ]
+2 4 1445 AA [BB, DD, JJ]
+Walking from DD to CC cost 2
+1 12 1501 CC [BB, CC, DD, JJ]
+2 4 1501 AA [BB, CC, DD, JJ]
+Walking from CC to EE cost 3
+1 15 1582 EE [BB, CC, DD, EE, JJ]
+2 4 1582 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2154 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2154 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 18 2029 HH [BB, CC, DD, HH, JJ]
+2 4 2029 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2107 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 12 1529 EE [BB, DD, EE, JJ]
+2 4 1529 AA [BB, DD, EE, JJ]
+Walking from EE to CC cost 3
+1 15 1583 CC [BB, CC, DD, EE, JJ]
+2 4 1583 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 21 2111 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2111 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 16 2101 HH [BB, DD, EE, HH, JJ]
+2 4 2101 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 22 2149 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2149 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 15 1995 HH [BB, DD, HH, JJ]
+2 4 1995 AA [BB, DD, HH, JJ]
+Walking from HH to CC cost 6
+1 21 2043 CC [BB, CC, DD, HH, JJ]
+2 4 2043 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 24 2124 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2124 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 19 2073 EE [BB, DD, EE, HH, JJ]
+2 4 2073 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 22 2127 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2127 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 11 983 EE [BB, EE, JJ]
+2 4 983 AA [BB, EE, JJ]
+Walking from EE to CC cost 3
+1 14 1037 CC [BB, CC, EE, JJ]
+2 4 1037 AA [BB, CC, EE, JJ]
+Walking from CC to DD cost 2
+1 16 1597 DD [BB, CC, DD, EE, JJ]
+2 4 1597 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2147 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2147 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 1565 HH [BB, CC, EE, HH, JJ]
+2 4 1565 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 25 2065 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2065 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 13 1543 DD [BB, DD, EE, JJ]
+2 4 1543 AA [BB, DD, EE, JJ]
+Walking from DD to CC cost 2
+1 15 1599 CC [BB, CC, DD, EE, JJ]
+2 4 1599 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 21 2127 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2127 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 18 2093 HH [BB, DD, EE, HH, JJ]
+2 4 2093 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 24 2141 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2141 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 15 1555 HH [BB, EE, HH, JJ]
+2 4 1555 AA [BB, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 21 1603 CC [BB, CC, EE, HH, JJ]
+2 4 1603 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 23 2163 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2163 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 20 2055 DD [BB, DD, EE, HH, JJ]
+2 4 2055 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 22 2111 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2111 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 14 1411 HH [BB, HH, JJ]
+2 4 1411 AA [BB, HH, JJ]
+Walking from HH to CC cost 6
+1 20 1459 CC [BB, CC, HH, JJ]
+2 4 1459 AA [BB, CC, HH, JJ]
+Walking from CC to DD cost 2
+1 22 2019 DD [BB, CC, DD, HH, JJ]
+2 4 2019 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2103 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2103 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 23 1540 EE [BB, CC, EE, HH, JJ]
+2 4 1540 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 25 2100 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2100 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 19 1911 DD [BB, DD, HH, JJ]
+2 4 1911 AA [BB, DD, HH, JJ]
+Walking from DD to CC cost 2
+1 21 1967 CC [BB, CC, DD, HH, JJ]
+2 4 1967 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 24 2048 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2048 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 21 1995 EE [BB, DD, EE, HH, JJ]
+2 4 1995 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 24 2049 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2049 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 18 1489 EE [BB, EE, HH, JJ]
+2 4 1489 AA [BB, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 21 1543 CC [BB, CC, EE, HH, JJ]
+2 4 1543 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 23 2103 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2103 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 20 2049 DD [BB, DD, EE, HH, JJ]
+2 4 2049 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 22 2105 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2105 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to CC cost 5
+1 8 617 CC [CC, JJ]
+2 4 617 AA [CC, JJ]
+Walking from CC to BB cost 2
+1 10 981 BB [BB, CC, JJ]
+2 4 981 AA [BB, CC, JJ]
+Walking from BB to DD cost 3
+1 13 1521 DD [BB, CC, DD, JJ]
+2 4 1521 AA [BB, CC, DD, JJ]
+Walking from DD to EE cost 2
+1 15 1605 EE [BB, CC, DD, EE, JJ]
+2 4 1605 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2177 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2177 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 18 2071 HH [BB, CC, DD, HH, JJ]
+2 4 2071 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2149 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2149 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 14 1059 EE [BB, CC, EE, JJ]
+2 4 1059 AA [BB, CC, EE, JJ]
+Walking from EE to DD cost 2
+1 16 1619 DD [BB, CC, DD, EE, JJ]
+2 4 1619 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2169 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2169 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 1631 HH [BB, CC, EE, HH, JJ]
+2 4 1631 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 23 2131 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2131 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 17 1487 HH [BB, CC, HH, JJ]
+2 4 1487 AA [BB, CC, HH, JJ]
+Walking from HH to DD cost 5
+1 22 1987 DD [BB, CC, DD, HH, JJ]
+2 4 1987 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2071 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2071 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 1565 EE [BB, CC, EE, HH, JJ]
+2 4 1565 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 23 2125 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2125 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 10 1177 DD [CC, DD, JJ]
+2 4 1177 AA [CC, DD, JJ]
+Walking from DD to BB cost 3
+1 13 1528 BB [BB, CC, DD, JJ]
+2 4 1528 AA [BB, CC, DD, JJ]
+Walking from BB to EE cost 4
+1 17 1606 EE [BB, CC, DD, EE, JJ]
+2 4 1606 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 21 2178 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2178 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 2034 HH [BB, CC, DD, HH, JJ]
+2 4 2034 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 24 2112 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2112 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 12 1261 EE [CC, DD, EE, JJ]
+2 4 1261 AA [CC, DD, EE, JJ]
+Walking from EE to BB cost 4
+1 16 1599 BB [BB, CC, DD, EE, JJ]
+2 4 1599 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2105 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2105 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 16 1833 HH [CC, DD, EE, HH, JJ]
+2 4 1833 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 23 2132 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2132 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 15 1727 HH [CC, DD, HH, JJ]
+2 4 1727 AA [CC, DD, HH, JJ]
+Walking from HH to BB cost 7
+1 22 2026 BB [BB, CC, DD, HH, JJ]
+2 4 2026 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2104 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 19 1805 EE [CC, DD, EE, HH, JJ]
+2 4 1805 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 23 2143 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2143 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 11 698 EE [CC, EE, JJ]
+2 4 698 AA [CC, EE, JJ]
+Walking from EE to BB cost 4
+1 15 1036 BB [BB, CC, EE, JJ]
+2 4 1036 AA [BB, CC, EE, JJ]
+Walking from BB to DD cost 3
+1 18 1576 DD [BB, CC, DD, EE, JJ]
+2 4 1576 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 23 2126 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2126 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 22 1542 HH [BB, CC, EE, HH, JJ]
+2 4 1542 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 27 2042 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 13 1258 DD [CC, DD, EE, JJ]
+2 4 1258 AA [CC, DD, EE, JJ]
+Walking from DD to BB cost 3
+1 16 1609 BB [BB, CC, DD, EE, JJ]
+2 4 1609 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2115 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2115 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 18 1808 HH [CC, DD, EE, HH, JJ]
+2 4 1808 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 25 2107 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 15 1270 HH [CC, EE, HH, JJ]
+2 4 1270 AA [CC, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 22 1569 BB [BB, CC, EE, HH, JJ]
+2 4 1569 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 25 2109 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2109 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 20 1770 DD [CC, DD, EE, HH, JJ]
+2 4 1770 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 23 2121 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2121 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 14 1145 HH [CC, HH, JJ]
+2 4 1145 AA [CC, HH, JJ]
+Walking from HH to BB cost 7
+1 21 1444 BB [BB, CC, HH, JJ]
+2 4 1444 AA [BB, CC, HH, JJ]
+Walking from BB to DD cost 3
+1 24 1984 DD [BB, CC, DD, HH, JJ]
+2 4 1984 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 26 2068 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2068 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 25 1522 EE [BB, CC, EE, HH, JJ]
+2 4 1522 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 27 2082 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2082 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 19 1645 DD [CC, DD, HH, JJ]
+2 4 1645 AA [CC, DD, HH, JJ]
+Walking from DD to BB cost 3
+1 22 1996 BB [BB, CC, DD, HH, JJ]
+2 4 1996 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2074 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2074 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 21 1729 EE [CC, DD, EE, HH, JJ]
+2 4 1729 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 25 2067 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2067 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 18 1223 EE [CC, EE, HH, JJ]
+2 4 1223 AA [CC, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 22 1561 BB [BB, CC, EE, HH, JJ]
+2 4 1561 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 25 2101 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2101 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 20 1783 DD [CC, DD, EE, HH, JJ]
+2 4 1783 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 23 2134 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2134 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to DD cost 4
+1 7 1087 DD [DD, JJ]
+2 4 1087 AA [DD, JJ]
+Walking from DD to BB cost 3
+1 10 1438 BB [BB, DD, JJ]
+2 4 1438 AA [BB, DD, JJ]
+Walking from BB to CC cost 2
+1 12 1494 CC [BB, CC, DD, JJ]
+2 4 1494 AA [BB, CC, DD, JJ]
+Walking from CC to EE cost 3
+1 15 1575 EE [BB, CC, DD, EE, JJ]
+2 4 1575 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2147 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2147 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 18 2022 HH [BB, CC, DD, HH, JJ]
+2 4 2022 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2100 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2100 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 14 1516 EE [BB, DD, EE, JJ]
+2 4 1516 AA [BB, DD, EE, JJ]
+Walking from EE to CC cost 3
+1 17 1570 CC [BB, CC, DD, EE, JJ]
+2 4 1570 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2098 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2098 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 18 2088 HH [BB, DD, EE, HH, JJ]
+2 4 2088 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 24 2136 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2136 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 17 1944 HH [BB, DD, HH, JJ]
+2 4 1944 AA [BB, DD, HH, JJ]
+Walking from HH to CC cost 6
+1 23 1992 CC [BB, CC, DD, HH, JJ]
+2 4 1992 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2073 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 21 2022 EE [BB, DD, EE, HH, JJ]
+2 4 2022 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 24 2076 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2076 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 9 1143 CC [CC, DD, JJ]
+2 4 1143 AA [CC, DD, JJ]
+Walking from CC to BB cost 2
+1 11 1507 BB [BB, CC, DD, JJ]
+2 4 1507 AA [BB, CC, DD, JJ]
+Walking from BB to EE cost 4
+1 15 1585 EE [BB, CC, DD, EE, JJ]
+2 4 1585 AA [BB, CC, DD, EE, JJ]
+Walking from EE to HH cost 4
+1 19 2157 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2157 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 18 2013 HH [BB, CC, DD, HH, JJ]
+2 4 2013 AA [BB, CC, DD, HH, JJ]
+Walking from HH to EE cost 4
+1 22 2091 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 12 1224 EE [CC, DD, EE, JJ]
+2 4 1224 AA [CC, DD, EE, JJ]
+Walking from EE to BB cost 4
+1 16 1562 BB [BB, CC, DD, EE, JJ]
+2 4 1562 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2068 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2068 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 16 1796 HH [CC, DD, EE, HH, JJ]
+2 4 1796 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 23 2095 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2095 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 15 1671 HH [CC, DD, HH, JJ]
+2 4 1671 AA [CC, DD, HH, JJ]
+Walking from HH to BB cost 7
+1 22 1970 BB [BB, CC, DD, HH, JJ]
+2 4 1970 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2048 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2048 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 19 1749 EE [CC, DD, EE, HH, JJ]
+2 4 1749 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 23 2087 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2087 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 9 1171 EE [DD, EE, JJ]
+2 4 1171 AA [DD, EE, JJ]
+Walking from EE to BB cost 4
+1 13 1509 BB [BB, DD, EE, JJ]
+2 4 1509 AA [BB, DD, EE, JJ]
+Walking from BB to CC cost 2
+1 15 1565 CC [BB, CC, DD, EE, JJ]
+2 4 1565 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 21 2093 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2093 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 2015 HH [BB, DD, EE, HH, JJ]
+2 4 2015 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2063 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 12 1225 CC [CC, DD, EE, JJ]
+2 4 1225 AA [CC, DD, EE, JJ]
+Walking from CC to BB cost 2
+1 14 1589 BB [BB, CC, DD, EE, JJ]
+2 4 1589 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 21 2095 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2095 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 18 1753 HH [CC, DD, EE, HH, JJ]
+2 4 1753 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 25 2052 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2052 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 13 1743 HH [DD, EE, HH, JJ]
+2 4 1743 AA [DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 20 2042 BB [BB, DD, EE, HH, JJ]
+2 4 2042 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 22 2098 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2098 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 19 1791 CC [CC, DD, EE, HH, JJ]
+2 4 1791 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 21 2155 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2155 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 12 1637 HH [DD, HH, JJ]
+2 4 1637 AA [DD, HH, JJ]
+Walking from HH to BB cost 7
+1 19 1936 BB [BB, DD, HH, JJ]
+2 4 1936 AA [BB, DD, HH, JJ]
+Walking from BB to CC cost 2
+1 21 1992 CC [BB, CC, DD, HH, JJ]
+2 4 1992 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 24 2073 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2073 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 23 2014 EE [BB, DD, EE, HH, JJ]
+2 4 2014 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2068 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2068 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 18 1685 CC [CC, DD, HH, JJ]
+2 4 1685 AA [CC, DD, HH, JJ]
+Walking from CC to BB cost 2
+1 20 2049 BB [BB, CC, DD, HH, JJ]
+2 4 2049 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 24 2127 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2127 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 21 1766 EE [CC, DD, EE, HH, JJ]
+2 4 1766 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 25 2104 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 16 1715 EE [DD, EE, HH, JJ]
+2 4 1715 AA [DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 20 2053 BB [BB, DD, EE, HH, JJ]
+2 4 2053 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 22 2109 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2109 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 19 1769 CC [CC, DD, EE, HH, JJ]
+2 4 1769 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 21 2133 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2133 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to EE cost 5
+1 8 642 EE [EE, JJ]
+2 4 642 AA [EE, JJ]
+Walking from EE to BB cost 4
+1 12 980 BB [BB, EE, JJ]
+2 4 980 AA [BB, EE, JJ]
+Walking from BB to CC cost 2
+1 14 1036 CC [BB, CC, EE, JJ]
+2 4 1036 AA [BB, CC, EE, JJ]
+Walking from CC to DD cost 2
+1 16 1596 DD [BB, CC, DD, EE, JJ]
+2 4 1596 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2146 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2146 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 20 1564 HH [BB, CC, EE, HH, JJ]
+2 4 1564 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 25 2064 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2064 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 15 1520 DD [BB, DD, EE, JJ]
+2 4 1520 AA [BB, DD, EE, JJ]
+Walking from DD to CC cost 2
+1 17 1576 CC [BB, CC, DD, EE, JJ]
+2 4 1576 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 23 2104 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2104 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 20 2070 HH [BB, DD, EE, HH, JJ]
+2 4 2070 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2118 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2118 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 19 1486 HH [BB, EE, HH, JJ]
+2 4 1486 AA [BB, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 25 1534 CC [BB, CC, EE, HH, JJ]
+2 4 1534 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2094 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2094 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 24 1986 DD [BB, DD, EE, HH, JJ]
+2 4 1986 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 26 2042 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 11 696 CC [CC, EE, JJ]
+2 4 696 AA [CC, EE, JJ]
+Walking from CC to BB cost 2
+1 13 1060 BB [BB, CC, EE, JJ]
+2 4 1060 AA [BB, CC, EE, JJ]
+Walking from BB to DD cost 3
+1 16 1600 DD [BB, CC, DD, EE, JJ]
+2 4 1600 AA [BB, CC, DD, EE, JJ]
+Walking from DD to HH cost 5
+1 21 2150 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2150 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 1566 HH [BB, CC, EE, HH, JJ]
+2 4 1566 AA [BB, CC, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 25 2066 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2066 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 13 1256 DD [CC, DD, EE, JJ]
+2 4 1256 AA [CC, DD, EE, JJ]
+Walking from DD to BB cost 3
+1 16 1607 BB [BB, CC, DD, EE, JJ]
+2 4 1607 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 23 2113 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2113 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 18 1806 HH [CC, DD, EE, HH, JJ]
+2 4 1806 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 25 2105 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2105 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 17 1224 HH [CC, EE, HH, JJ]
+2 4 1224 AA [CC, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 24 1523 BB [BB, CC, EE, HH, JJ]
+2 4 1523 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 27 2063 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 22 1724 DD [CC, DD, EE, HH, JJ]
+2 4 1724 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2075 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2075 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 10 1202 DD [DD, EE, JJ]
+2 4 1202 AA [DD, EE, JJ]
+Walking from DD to BB cost 3
+1 13 1553 BB [BB, DD, EE, JJ]
+2 4 1553 AA [BB, DD, EE, JJ]
+Walking from BB to CC cost 2
+1 15 1609 CC [BB, CC, DD, EE, JJ]
+2 4 1609 AA [BB, CC, DD, EE, JJ]
+Walking from CC to HH cost 6
+1 21 2137 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2137 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to HH cost 7
+1 20 2059 HH [BB, DD, EE, HH, JJ]
+2 4 2059 AA [BB, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 26 2107 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 12 1258 CC [CC, DD, EE, JJ]
+2 4 1258 AA [CC, DD, EE, JJ]
+Walking from CC to BB cost 2
+1 14 1622 BB [BB, CC, DD, EE, JJ]
+2 4 1622 AA [BB, CC, DD, EE, JJ]
+Walking from BB to HH cost 7
+1 21 2128 HH [BB, CC, DD, EE, HH, JJ]
+2 4 2128 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to HH cost 6
+1 18 1786 HH [CC, DD, EE, HH, JJ]
+2 4 1786 AA [CC, DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 25 2085 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2085 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to HH cost 5
+1 15 1752 HH [DD, EE, HH, JJ]
+2 4 1752 AA [DD, EE, HH, JJ]
+Walking from HH to BB cost 7
+1 22 2051 BB [BB, DD, EE, HH, JJ]
+2 4 2051 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 24 2107 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2107 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 21 1800 CC [CC, DD, EE, HH, JJ]
+2 4 1800 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2164 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2164 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to HH cost 4
+1 12 1214 HH [EE, HH, JJ]
+2 4 1214 AA [EE, HH, JJ]
+Walking from HH to BB cost 7
+1 19 1513 BB [BB, EE, HH, JJ]
+2 4 1513 AA [BB, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 21 1569 CC [BB, CC, EE, HH, JJ]
+2 4 1569 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 23 2129 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2129 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 22 2053 DD [BB, DD, EE, HH, JJ]
+2 4 2053 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 24 2109 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2109 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 18 1262 CC [CC, EE, HH, JJ]
+2 4 1262 AA [CC, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 20 1626 BB [BB, CC, EE, HH, JJ]
+2 4 1626 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 23 2166 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2166 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 20 1822 DD [CC, DD, EE, HH, JJ]
+2 4 1822 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 23 2173 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2173 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 17 1714 DD [DD, EE, HH, JJ]
+2 4 1714 AA [DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 20 2065 BB [BB, DD, EE, HH, JJ]
+2 4 2065 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 22 2121 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2121 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 19 1770 CC [CC, DD, EE, HH, JJ]
+2 4 1770 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 21 2134 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2134 AA [BB, CC, DD, EE, HH, JJ]
+Walking from JJ to HH cost 8
+1 11 1051 HH [HH, JJ]
+2 4 1051 AA [HH, JJ]
+Walking from HH to BB cost 7
+1 18 1350 BB [BB, HH, JJ]
+2 4 1350 AA [BB, HH, JJ]
+Walking from BB to CC cost 2
+1 20 1406 CC [BB, CC, HH, JJ]
+2 4 1406 AA [BB, CC, HH, JJ]
+Walking from CC to DD cost 2
+1 22 1966 DD [BB, CC, DD, HH, JJ]
+2 4 1966 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2050 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2050 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 23 1487 EE [BB, CC, EE, HH, JJ]
+2 4 1487 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 25 2047 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2047 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 21 1890 DD [BB, DD, HH, JJ]
+2 4 1890 AA [BB, DD, HH, JJ]
+Walking from DD to CC cost 2
+1 23 1946 CC [BB, CC, DD, HH, JJ]
+2 4 1946 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 26 2027 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2027 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 23 1974 EE [BB, DD, EE, HH, JJ]
+2 4 1974 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2028 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2028 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 22 1428 EE [BB, EE, HH, JJ]
+2 4 1428 AA [BB, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 25 1482 CC [BB, CC, EE, HH, JJ]
+2 4 1482 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 27 2042 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2042 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 24 1988 DD [BB, DD, EE, HH, JJ]
+2 4 1988 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 26 2044 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2044 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to CC cost 6
+1 17 1099 CC [CC, HH, JJ]
+2 4 1099 AA [CC, HH, JJ]
+Walking from CC to BB cost 2
+1 19 1463 BB [BB, CC, HH, JJ]
+2 4 1463 AA [BB, CC, HH, JJ]
+Walking from BB to DD cost 3
+1 22 2003 DD [BB, CC, DD, HH, JJ]
+2 4 2003 AA [BB, CC, DD, HH, JJ]
+Walking from DD to EE cost 2
+1 24 2087 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2087 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 23 1541 EE [BB, CC, EE, HH, JJ]
+2 4 1541 AA [BB, CC, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 25 2101 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2101 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 19 1659 DD [CC, DD, HH, JJ]
+2 4 1659 AA [CC, DD, HH, JJ]
+Walking from DD to BB cost 3
+1 22 2010 BB [BB, CC, DD, HH, JJ]
+2 4 2010 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 26 2088 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2088 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 21 1743 EE [CC, DD, EE, HH, JJ]
+2 4 1743 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 25 2081 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2081 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 20 1180 EE [CC, EE, HH, JJ]
+2 4 1180 AA [CC, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 24 1518 BB [BB, CC, EE, HH, JJ]
+2 4 1518 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 27 2058 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2058 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 22 1740 DD [CC, DD, EE, HH, JJ]
+2 4 1740 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 25 2091 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2091 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to DD cost 5
+1 16 1551 DD [DD, HH, JJ]
+2 4 1551 AA [DD, HH, JJ]
+Walking from DD to BB cost 3
+1 19 1902 BB [BB, DD, HH, JJ]
+2 4 1902 AA [BB, DD, HH, JJ]
+Walking from BB to CC cost 2
+1 21 1958 CC [BB, CC, DD, HH, JJ]
+2 4 1958 AA [BB, CC, DD, HH, JJ]
+Walking from CC to EE cost 3
+1 24 2039 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2039 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to EE cost 4
+1 23 1980 EE [BB, DD, EE, HH, JJ]
+2 4 1980 AA [BB, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 26 2034 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2034 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 18 1607 CC [CC, DD, HH, JJ]
+2 4 1607 AA [CC, DD, HH, JJ]
+Walking from CC to BB cost 2
+1 20 1971 BB [BB, CC, DD, HH, JJ]
+2 4 1971 AA [BB, CC, DD, HH, JJ]
+Walking from BB to EE cost 4
+1 24 2049 EE [BB, CC, DD, EE, HH, JJ]
+2 4 2049 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to EE cost 3
+1 21 1688 EE [CC, DD, EE, HH, JJ]
+2 4 1688 AA [CC, DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 25 2026 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2026 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to EE cost 2
+1 18 1635 EE [DD, EE, HH, JJ]
+2 4 1635 AA [DD, EE, HH, JJ]
+Walking from EE to BB cost 4
+1 22 1973 BB [BB, DD, EE, HH, JJ]
+2 4 1973 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 24 2029 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2029 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 21 1689 CC [CC, DD, EE, HH, JJ]
+2 4 1689 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 23 2053 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2053 AA [BB, CC, DD, EE, HH, JJ]
+Walking from HH to EE cost 4
+1 15 1129 EE [EE, HH, JJ]
+2 4 1129 AA [EE, HH, JJ]
+Walking from EE to BB cost 4
+1 19 1467 BB [BB, EE, HH, JJ]
+2 4 1467 AA [BB, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 21 1523 CC [BB, CC, EE, HH, JJ]
+2 4 1523 AA [BB, CC, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 23 2083 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2083 AA [BB, CC, DD, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 22 2007 DD [BB, DD, EE, HH, JJ]
+2 4 2007 AA [BB, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 24 2063 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2063 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to CC cost 3
+1 18 1183 CC [CC, EE, HH, JJ]
+2 4 1183 AA [CC, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 20 1547 BB [BB, CC, EE, HH, JJ]
+2 4 1547 AA [BB, CC, EE, HH, JJ]
+Walking from BB to DD cost 3
+1 23 2087 DD [BB, CC, DD, EE, HH, JJ]
+2 4 2087 AA [BB, CC, DD, EE, HH, JJ]
+Walking from CC to DD cost 2
+1 20 1743 DD [CC, DD, EE, HH, JJ]
+2 4 1743 AA [CC, DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 23 2094 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2094 AA [BB, CC, DD, EE, HH, JJ]
+Walking from EE to DD cost 2
+1 17 1689 DD [DD, EE, HH, JJ]
+2 4 1689 AA [DD, EE, HH, JJ]
+Walking from DD to BB cost 3
+1 20 2040 BB [BB, DD, EE, HH, JJ]
+2 4 2040 AA [BB, DD, EE, HH, JJ]
+Walking from BB to CC cost 2
+1 22 2096 CC [BB, CC, DD, EE, HH, JJ]
+2 4 2096 AA [BB, CC, DD, EE, HH, JJ]
+Walking from DD to CC cost 2
+1 19 1745 CC [CC, DD, EE, HH, JJ]
+2 4 1745 AA [CC, DD, EE, HH, JJ]
+Walking from CC to BB cost 2
+1 21 2109 BB [BB, CC, DD, EE, HH, JJ]
+2 4 2109 AA [BB, CC, DD, EE, HH, JJ]
+2178
