@@ -170,12 +170,17 @@ public class Prob
 
 
       long rock_mod = rock_idx % shapes.size();
+
+      // take the top 200 lines of my map, and my index mod numbers
+      // use that as my state.
       String state = HUtil.getHash(cham.getPrintOut(null, 0, high_y-200, 7, high_y) + " " + move_idx + " " + rock_mod);
 
       if (cache.containsKey(state))
       {
         if (rock_idx > 20000)
         {
+          // When we get a repeat, we can use the values to skip
+          // a bunch with no change in the result
           //System.out.println("Found repeat at: " + rock_idx + " from " + cache.get(state).rock_idx);
           StateInfo past = cache.get(state);
           long high_delta = high_y - past.high_y;
