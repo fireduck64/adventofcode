@@ -51,16 +51,23 @@ public class Prob
       }*/
       mm.clear();
       blurst.clear();
-      int v = rec(32, new State(), bp);
+      int v = rec(24, new State(), bp);
       //int v = findBest(bp);
       System.out.println(v);
-      p2 *= v;
       p1 += bp.id * v;
 
 
     }
-    System.out.println(p1);
-    System.out.println(p2);
+    System.out.println("Part 1: " + p1);
+    for(int i=1; i<=3;i++)
+    {
+      mm.clear();
+      blurst.clear();
+      int v = rec(24, new State(), prints.get(i));
+      System.out.println("p2: " + i + " - " + v);
+      p2 *= v;
+    }
+    System.out.println("Part 2: " + p2);
   }
 
 
