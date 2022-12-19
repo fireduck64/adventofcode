@@ -63,9 +63,12 @@ public class Prob
     {
       mm.clear();
       blurst.clear();
-      int v = rec(24, new State(), prints.get(i));
-      System.out.println("p2: " + i + " - " + v);
-      p2 *= v;
+      if (prints.containsKey(i))
+      {
+        int v = rec(32, new State(), prints.get(i));
+        System.out.println("p2: " + i + " - " + v);
+        p2 *= v;
+      }
     }
     System.out.println("Part 2: " + p2);
   }
