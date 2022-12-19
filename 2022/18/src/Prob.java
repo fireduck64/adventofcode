@@ -47,13 +47,38 @@ public class Prob
     System.out.println("Part 1: " + faces);
 
 
+    // Flood fill in from the outside
     // A data structure that a good flood fill might use
     TreeSet<Point> queue = new TreeSet<Point>();
 
-    // But instead, what follows is the stupidest flood fill
     map.set(new Point(-2,-2,-2), 2);
 
-    int added=1;
+    // A proper flood fill I wrote after the fact.
+    // runs a lot faster
+    queue.add(new Point(-2,-2,-2));
+    while(queue.size() > 0)
+    {
+      Point p = queue.pollFirst();
+      if (map.get(p) == 2)
+      for(Point q : map.getAdj(p, false))
+      {
+          // Did some quick cat | tr | sort to see the ranges
+          if (q.x >= -2)
+          if (q.y >= -2)
+          if (q.z >= -2)
+          if (q.x <= 22)
+          if (q.y <= 22)
+          if (q.z <= 22)
+          if (map.get(q)==0)
+          {
+            map.set(q,2);
+            queue.add(q);
+          }
+      }
+    }
+
+    // But instead, what follows is the stupidest flood fill
+    /*int added=1;
     while(added>0)
     {
       added=0;
@@ -77,7 +102,7 @@ public class Prob
           }
         }
       }
-    }
+    }*/
 
     faces=0;
     for(Point p : map.getAllPoints())
