@@ -9,14 +9,14 @@ public class Prob
 
   public static void main(String args[]) throws Exception
   {
-    new Prob(new Scanner(new FileInputStream(args[0])), Integer.parseInt(args[1]));
+    new Prob(new Scanner(new FileInputStream(args[0])));
   }
 
   Random rnd=new Random();
 
   HashMap<String, Monkey> monk=new HashMap<>(5000, 0.5f);
 
-  public Prob(Scanner scan, int mod)
+  public Prob(Scanner scan)
   {
     for(String line : In.lines(scan))
     {

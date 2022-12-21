@@ -16,6 +16,6 @@ then
   exit 1
 fi
 echo "Running $target"
-time bazel-bin/Prob $target $2
+time bazel-bin/Prob $target
 
 
