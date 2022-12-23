@@ -165,7 +165,7 @@ public class Prob
       {
         if (checkCorner(p))
         {
-          //pass++;
+          pass++;
         }
         else
         {
