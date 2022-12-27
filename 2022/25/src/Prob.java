@@ -24,8 +24,6 @@ public class Prob
     System.out.println(sum);
     System.out.println(dec2snaf(sum));
     System.out.println(snaf2dec(dec2snaf(sum)));
-
-
   }
 
   public long snaf2dec(String in)
@@ -71,14 +69,9 @@ public class Prob
         val+=5;
       }
       val = val /5;
-
-
     }
 
-
-
     return Str.listtos(lst);
-
 
   }
 

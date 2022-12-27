@@ -1,0 +1,1023 @@
+Running 2015
+Total users: 1021
+1 - 2902 3327 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6VeZclcsMslLDDFCnGLqKHEGvAYZbuE621K24=s96-c" height="20"/></span>Andrew Skalski
+2 - 31111 3109 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11063840?v=4" height="20"/></span>Sreeram Ramachandran</a>
+3 - 481 2613 <span class="leaderboard-userphoto"></span>dougg3
+4 - 9609 2351 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-Pb-4m5AGrZU/AAAAAAAAAAI/AAAAAAAAAEQ/VTFHJLRTr1o/photo.jpg" height="20"/></span>Thomas Holmes
+5 - 10513 2183 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/140823?v=4" height="20"/></span>0</a>
+6 - 5950 2168 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/116396?v=4" height="20"/></span>ahorner</a>
+7 - 10670 2164 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15683245?v=4" height="20"/></span>jneubrand</a>
+8 - 1682 2132 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/1741086?v=4" height="20"/></span>Austin
+9 - 41753 2110 <span class="leaderboard-userphoto"></span>marcusstuhr
+10 - 18780 2085 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/92814?v=4" height="20"/></span>Jouni K. Seppänen</a>
+11 - 28506 2081 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5ExxS1Lcrzs00LNZFqKP6vTR1wSscNsqdo_YQqgTY=s96-c" height="20"/></span>Paul Hankin
+12 - 355 1913 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6210567?v=4" height="20"/></span>malisper</a>
+13 - 211 1912 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1391698?v=4" height="20"/></span>Joe LeGasse
+14 - 25431 1860 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3y3KN2DLAd1trYTgA5mwcJbHG4dRDZYJ7PAUYk=s96-c" height="20"/></span>Talchas
+15 - 287 1804 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gjfs47slyY6yRHGCSVcYDVFLnxsXz5tmBbr5wg15Q=s96-c" height="20"/></span>Igor Naverniouk
+16 - 6140 1737 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1805302?v=4" height="20"/></span>balidani</a>
+17 - 7253 1699 <span class="leaderboard-userphoto"></span>etotheipi1
+18 - 38579 1616 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1354293?v=4" height="20"/></span>dsemi
+19 - 24214 1544 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/116757?v=4" height="20"/></span>jweather</a>
+20 - 2836 1511 <span class="leaderboard-userphoto"></span>djimbob
+21 - 5616 1492 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Nick Parisi
+22 - 39654 1485 <span class="leaderboard-userphoto"></span>phil_r
+23 - 516 1484 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1484987?v=4" height="20"/></span>Anthony Nguyen</a>
+24 - 47678 1465 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/14932247?v=4" height="20"/></span>ethankward
+25 - 30524 1448 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1187614?v=4" height="20"/></span>Pedro Osório</a>
+26 - 27281 1427 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6J19E1oTvyiMmJ8kT2NONkCwJdJFlt6rx-jR543rQ=s96-c" height="20"/></span>Andrey Anurin
+27 - 27382 1384 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7vVQgCPIsAqKq5UbZDIuEoKzRkiSN-o1GC37eL2w=s96-c" height="20"/></span>Ambrose Feinstein
+28 - 6828 1356 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/984691?v=4" height="20"/></span>edanaher</a>
+29 - 233 1331 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/473616?v=4" height="20"/></span>Aneurysm9</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+30 - 49064 1320 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1123113?v=4" height="20"/></span>Lance Nathan
+31 - 9296 1317 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8636148?v=4" height="20"/></span>Chris Egerton</a>
+32 - 17267 1292 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1923854?v=3" height="20"/></span>soolar
+33 - 11133 1290 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/340349?v=4" height="20"/></span>msullivan</a>
+34 - 9855 1285 <span class="leaderboard-userphoto"></span>kalven
+35 - 11210 1241 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1452356?v=4" height="20"/></span>minno726</a>
+36 - 25736 1235 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1022564?v=3" height="20"/></span>asross</a>
+37 - 234 1226 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/78378?v=4" height="20"/></span>Thomas Peters</a>
+38 - 29832 1212 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/522853?v=4" height="20"/></span>Erik Godard</a>
+39 - 27507 1147 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/552910?v=4" height="20"/></span>Tryneus</a>
+40 - 19765 1100 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #19765)</span>
+41 - 3802 1082 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/209371?v=4" height="20"/></span>asterite</a>
+42 - 5528 1077 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1037028?v=4" height="20"/></span>orez-</a>
+43 - 23008 1063 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/302469?v=4" height="20"/></span>Elliott Sales de Andrade</a>
+44 - 29643 1047 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1088078?v=4" height="20"/></span>Caleb Robinson</a>
+45 - 34702 987 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-ZVKoleb5SE0/AAAAAAAAAAI/AAAAAAAAAGU/cIXhAxdF5gQ/photo.jpg" height="20"/></span>David Grenier
+46 - 282 973 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6HhALKtAxI6dYV8FdkYH4t02_BvuBe52CxGImV=s96-c" height="20"/></span>Stuart MacGillivray <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+47 - 34755 972 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14237?v=4" height="20"/></span>jtbandes</a>
+48 - 35137 959 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1206952?v=4" height="20"/></span>stringham</a>
+49 - 30280 931 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3344749?v=4" height="20"/></span>lukechampine</a>
+50 - 7648 929 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #7648)</span>
+51 - 19933 924 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-GOtE4_IDM78/AAAAAAAAAAI/AAAAAAAAAEI/L1PA8rWoAxk/photo.jpg" height="20"/></span>Raven Black</a>
+52 - 3367 922 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9702999?v=4" height="20"/></span>Avery Crespi</a>
+53 - 12457 887 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/189723?v=4" height="20"/></span>Shane Mc Cormack</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+54 - 25343 887 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11608949?v=3" height="20"/></span>0x0dea
+55 - 3271 879 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-JvAvvKWmLZM/AAAAAAAAAAI/AAAAAAAAAUE/PWEd09rHJVk/photo.jpg" height="20"/></span>Jeremy Rans
+56 - 25282 877 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6867226?v=4" height="20"/></span>Roderic Day</a>
+57 - 6301 868 <span class="leaderboard-userphoto"></span>Godspiral</a>
+58 - 43100 862 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12164?v=4" height="20"/></span>glguy</a>
+59 - 6755 854 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhDOCE35LeV8HkT_B820TanDQTNBb-U7urugGr81g=s96-c" height="20"/></span>Alex Crimi
+60 - 44646 851 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/536761445514350592/VPJGrGyf.png" height="20"/></span>@kejadlen</a>
+61 - 32356 838 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/826308?v=3" height="20"/></span>chz16
+62 - 8336 794 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #8336)</span>
+63 - 22867 787 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-z0zl7IoDbDo/AAAAAAAAAAI/AAAAAAAAB-c/ZCQnmcnZc9E/photo.jpg" height="20"/></span>Jonathan N
+64 - 10790 785 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1059076440501571584/zOdqJq6q.jpg" height="20"/></span>@Eric_Dykstra</a>
+65 - 44119 773 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #44119)</span>
+66 - 59901 765 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4liyHchD2InZ0_DJFsz1O-P8UR6Q-ExzjZHlITGw=s96-c" height="20"/></span>Angus Lim
+67 - 42763 764 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10927758?v=4" height="20"/></span>Kesavan Yogeswaran</a>
+68 - 7748 756 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/505672956169576449/z7TqHAc_.jpeg" height="20"/></span>@ReadableName
+69 - 31658 753 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #31658)</span>
+70 - 7570 751 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1496702?v=4" height="20"/></span>Hui Zhou</a>
+71 - 37606 748 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/980054?v=4" height="20"/></span>DSM
+72 - 23141 747 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1484623984167731207/UmxTdbQy.jpg" height="20"/></span>Stereo
+73 - 1854 745 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6101?v=4" height="20"/></span>Mikachu
+74 - 11156 744 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6280340?v=3" height="20"/></span>grencez</a>
+75 - 26033 744 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-OLN-wYcyt2s/AAAAAAAAAAI/AAAAAAAAAAA/v8jFj51BjkA/photo.jpg" height="20"/></span>Andre LeBlanc
+76 - 22469 728 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-tuXU-64YmmY/AAAAAAAAAAI/AAAAAAAAB14/YvY8WBMeUQc/photo.jpg" height="20"/></span>Tyler Bindon
+77 - 34976 703 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1836899?v=4" height="20"/></span>dylanhart</a>
+78 - 39610 697 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/521801?v=4" height="20"/></span>Spurlock</a>
+79 - 8967 695 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9466890?v=4" height="20"/></span>Matthew L. Curry</a>
+80 - 331 685 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-Np2aaHGF8tI/AAAAAAAAAAI/AAAAAAAAC5M/PZYfa28dJ1c/photo.jpg" height="20"/></span>Caleb Brown
+81 - 9664 684 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/676264?v=4" height="20"/></span>@xAndy</a>
+82 - 50802 684 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2434728?v=4" height="20"/></span>Kevin Yap</a>
+83 - 35508 674 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-lih45Khk-fc/AAAAAAAAAAI/AAAAAAAABvg/DUgya6rSbMc/photo.jpg" height="20"/></span>Michael Giuffrida</a>
+84 - 31339 670 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/522718?v=4" height="20"/></span>Daniel Rejment</a>
+85 - 18180 669 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #18180)</span>
+86 - 18682 663 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1859500?v=3" height="20"/></span>relsqui</a>
+87 - 334 661 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp52kvGcm_Rg2JRDwE6cGH6XBszU90U2Ab_Uuyt5=s96-c" height="20"/></span>Matthew Semeniuk
+88 - 10185 657 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/869691?v=4" height="20"/></span>Evan Burak</a>
+89 - 17315 654 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GgzLrmIEREjlqMvSMGGaOFsQlM9eV60LXpQEHxa" height="20"/></span>Patrick Carroll
+90 - 50177 649 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5555168?v=4" height="20"/></span>RidgeX</a>
+91 - 7442 641 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/2853792786/1a4e12f9a9d4f25007568ca333aab97f.jpeg" height="20"/></span>@geoffcanyon
+92 - 24164 638 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1367132158712639495/GPfwyo5C.jpg" height="20"/></span>@fenomas</a>
+93 - 29125 638 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/580494039809695744/FzGcdE0x.jpg" height="20"/></span>Arnav Sastry
+94 - 35109 637 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/143504?v=4" height="20"/></span>Peter Ruibal</a>
+95 - 64202 622 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-VdcPA-9JETE/AAAAAAAAAAI/AAAAAAAAAE8/y5YL9Ozw-WQ/photo.jpg" height="20"/></span>Andrey Astrelin
+96 - 6358 617 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/63533?v=4" height="20"/></span>hlian</a>
+97 - 32829 616 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16409?v=4" height="20"/></span>epitron</a>
+98 - 8328 614 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1673408?v=4" height="20"/></span>elbeno</a>
+99 - 40263 608 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/179852?v=4" height="20"/></span>jabagawee</a>
+100 - 18178 603 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-bCLg3s1Bmro/AAAAAAAAAAI/AAAAAAAABxc/aquyMPtR8yc/photo.jpg" height="20"/></span>Andrew He
+101 - 49365 592 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12141175?v=3" height="20"/></span>Greg Millam
+102 - 47811 590 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4jAALCq4CFtLaw8jyRmnCsxMh18ph3Zowc-3NjKSk=s96-c" height="20"/></span>Michal Forišek
+103 - 22673 584 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4923417?v=4" height="20"/></span>bufordsharkley</a>
+104 - 3715 564 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/421641487051272192/IfEg0PgG.jpeg" height="20"/></span>Chris Moyer</a>
+105 - 20574 560 <span class="leaderboard-userphoto"></span>MrPingouin1
+106 - 13529 554 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7VStptPjFuw8skmariNg_uwLKO-H4gek60IizRQwY=s96-c" height="20"/></span>Marco Jäger
+107 - 5433 553 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-Ktb-gY3WenY/AAAAAAAAAAI/AAAAAAAADrU/3VXf7fM9hx4/photo.jpg" height="20"/></span>Clayton Hughes
+108 - 30942 552 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2441868?v=4" height="20"/></span>David Wetterau</a>
+109 - 51075 552 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-6Qy0gezjR3k/AAAAAAAAAAI/AAAAAAAAAGY/3wKmANp3pRA/photo.jpg" height="20"/></span>Ian Su
+110 - 1044 546 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/552502?v=4" height="20"/></span>Eli Lipsitz</a>
+111 - 8805 545 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5961416?v=4" height="20"/></span>Jonathan Ostrander</a>
+112 - 18310 542 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/894481?v=3" height="20"/></span>juju2143</a>
+113 - 17699 539 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/615293?v=4" height="20"/></span>sdt</a>
+114 - 28664 539 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12025225?v=4" height="20"/></span>tianyi5309</a>
+115 - 286 535 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #286)</span>
+116 - 6947 527 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #6947)</span>
+117 - 33809 526 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/252295?v=4" height="20"/></span>Doug Orleans</a>
+118 - 36636 524 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/187831?v=4" height="20"/></span>Keegan Carruthers-Smith</a>
+119 - 7190 518 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/994978?v=4" height="20"/></span>Ryman
+120 - 10242 517 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #10242)</span>
+121 - 3532 513 <span class="leaderboard-userphoto"></span>x4A43
+122 - 4511 512 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/1328976?v=4" height="20"/></span>Brandon Singer</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+123 - 519 510 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/320562?v=4" height="20"/></span>Mark Kahn</a>
+124 - 26397 510 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1205857?v=4" height="20"/></span>Jared Neil</a>
+125 - 37988 509 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7MEIShYywV89VHBEDQ9I4lK541wVRhBcWPgQnK=s96-c" height="20"/></span>Joshua Berne
+126 - 7490 508 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu176WaFTGbD7f2noI6xVuAcCmCmvDQuTQVguXO_Iw=s96-c" height="20"/></span>Tom Saunders
+127 - 45942 499 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJwEnSjW0MvvkhnsxwIICV3fgJdsgtE2Gs6vrN3r=s96-c" height="20"/></span>Marek Kukan
+128 - 202 496 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/100885?v=4" height="20"/></span>Corey Maher</a>
+129 - 267 496 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-d2LbB-IkNAA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkn6d4oROtkBvOmL1vqTcNomoRBQ/photo.jpg" height="20"/></span>Joel Lathrop
+130 - 3059 494 <span class="leaderboard-userphoto"></span>FuriousProgrammer</a>
+131 - 38413 494 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/843247?v=4" height="20"/></span>Benoit Hiller</a>
+132 - 2261 492 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1031137?v=4" height="20"/></span>gareve</a>
+133 - 8613 491 <span class="leaderboard-userphoto"></span>dragonnyxx</a>
+134 - 40863 487 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2335377?v=4" height="20"/></span>def-</a>
+135 - 18102 483 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6mq90O8Eruui4ySJnNLTbUHTObG446QIMmGNVR7A=s96-c" height="20"/></span>Jānis Lībeks
+136 - 3225 478 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-cjDvRalaP3k/AAAAAAAAAAI/AAAAAAAAAJQ/3G-Wi13z4ik/photo.jpg" height="20"/></span>Thomas Carpenter
+137 - 22244 478 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GiNrvjBLXMfH2wTkuMACyvCKxZlY2m_k4sCqj5B=s96-c" height="20"/></span>Robert Offner
+138 - 298 476 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-VReS2-4zLLg/AAAAAAAAAAI/AAAAAAAAXps/BO088gI7RR8/photo.jpg" height="20"/></span>Joshua Orvis
+139 - 24657 475 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16208827?v=4" height="20"/></span>Chris Lefever</a>
+140 - 7742 472 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/5340124?v=4" height="20"/></span>Sam Donow</a>
+141 - 37737 471 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/125204?v=4" height="20"/></span>SnacksOnAPlane</a>
+142 - 56426 469 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1269256695202451456/hRq_HE7i.jpg" height="20"/></span>@TheMisssingLink
+143 - 10592 465 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-m0tLgTI6XbU/AAAAAAAAAAI/AAAAAAAAAm4/gtFc7ppGYmU/photo.jpg" height="20"/></span>Dan Seminara
+144 - 9058 461 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJwp3D54EborWqKb-FyOmCyvBUhTl_Y4XHtLdnX7=s96-c" height="20"/></span>Clinton Curry
+145 - 7309 457 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2UsN0mwV4ZXfWIPaYiIxOjGkDtukq-53SC1Yw_sA=s96-c" height="20"/></span>Jacob Dennerlein
+146 - 18026 456 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13684236?v=3" height="20"/></span>notmrregular</a>
+147 - 18766 454 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3166226?v=4" height="20"/></span>Hwesta</a>
+148 - 30977 454 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjTsyEc7NOIR5dEVtzN3ynliCEpptqfxQOi9ZWSow=s96-c" height="20"/></span>Ben Pearson
+149 - 17399 453 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2007799?v=4" height="20"/></span>Will Killian</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+150 - 5483 445 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13052926?v=3" height="20"/></span>RotaryProphet</a>
+151 - 17158 440 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/6138955?v=4" height="20"/></span>starfys
+152 - 16222 438 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10506518?v=3" height="20"/></span>ns-szhang
+153 - 10032 435 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp69P6BemfZe9A0n81vUsvmMWq_msH3UxeVZ-0Yj23Y=s96-c" height="20"/></span>Samuel Massinon
+154 - 14246 432 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #14246)</span>
+155 - 30349 430 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhYHHrY9rnFcWns8oVjumK7xYeiCiTHOt_rQH74=s96-c" height="20"/></span>Evan Hertafeld
+156 - 7431 428 <span class="leaderboard-userphoto"></span>tehalynn
+157 - 5373 427 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/8919256?v=4" height="20"/></span>Alex Beals</a>
+158 - 23569 426 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/660896?v=4" height="20"/></span>adriweb</a>
+159 - 9235 423 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/104014?v=4" height="20"/></span>Stephen Lester</a>
+160 - 23684 422 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/8789054?v=4" height="20"/></span>aepsilon
+161 - 24445 420 <span class="leaderboard-userphoto"></span>Burritoman53</a>
+162 - 17257 416 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10255509?v=4" height="20"/></span>mkigikm</a>
+163 - 28077 416 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/856752?v=4" height="20"/></span>Pavel Egorov</a>
+164 - 5143 415 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-sT0RGMyeYHU/AAAAAAAAAAI/AAAAAAAACf0/pSfmdBSAQIg/photo.jpg" height="20"/></span>Ben Jones
+165 - 59546 414 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1093?v=4" height="20"/></span>jamie</a>
+166 - 18294 413 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/62661?v=4" height="20"/></span>Joshua Shanks
+167 - 24708 413 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/177834?v=4" height="20"/></span>ANTRat</a>
+168 - 1253 411 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7272064?v=3" height="20"/></span>Austin Kong</a>
+169 - 28393 409 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-Cg-rHGtIr8Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdmsggSvPs6Jouwv8VMENoYU6OQag/photo.jpg" height="20"/></span>Isaac Mounce
+170 - 15758 408 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5672439?v=4" height="20"/></span>zgrep
+171 - 4512 403 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/8262173?v=4" height="20"/></span>wooferzfg</a>
+172 - 1518 392 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/11814050?v=4" height="20"/></span>ratmatix</a>
+173 - 31752 389 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12225611?v=4" height="20"/></span>Thomas Kennedy</a>
+174 - 54485 389 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6j60tx0fWZwn0rjPAI0FcWM4ij2luEbcSP_Eh39w=s96-c" height="20"/></span>Miłosz Rembisz
+175 - 63216 387 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-tJuD8cjl5Gs/AAAAAAAAAAI/AAAAAAAAALQ/Y6C7O1qy6ls/photo.jpg" height="20"/></span>Remy Oukaour
+176 - 10461 383 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1446020638695591939/8HgnE1VT.png" height="20"/></span>Brian Lee</a>
+177 - 845 382 <span class="leaderboard-userphoto"></span>IMovedYourCheese</a>
+178 - 29240 380 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/42850?v=4" height="20"/></span>dfyz</a>
+179 - 30253 377 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6647517?v=4" height="20"/></span>Bradcomp</a>
+180 - 41683 377 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GgtbW9UrzY2AY6dQKvscsysLLBbEwNa0kRDAv3q6Q=s96-c" height="20"/></span>David Clyde
+181 - 18425 376 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3305?v=4" height="20"/></span>vasi</a>
+182 - 3272 374 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-XXIccT0V47c/AAAAAAAAAAI/AAAAAAAAABE/YYUXdJFkaD0/photo.jpg" height="20"/></span>Colin Gooding
+183 - 10563 370 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-Ut7_zMjvpQw/AAAAAAAAAAI/AAAAAAAAOxE/AskxvU3QeDI/photo.jpg" height="20"/></span>Stephen Rees-Carter</a>
+184 - 9568 369 <span class="leaderboard-userphoto"></span>EthanNicholas</a>
+185 - 39665 366 <span class="leaderboard-userphoto"></span>ludic
+186 - 9678 365 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1241478020/iscoresports_twitter.png" height="20"/></span>@iscoresports</a>
+187 - 17870 365 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5965677?v=4" height="20"/></span>Aymen Djellal
+188 - 20937 363 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-5YILzyP6eko/AAAAAAAAAAI/AAAAAAAAAC4/FZj9MflHaAI/photo.jpg" height="20"/></span>Chris Penner
+189 - 20932 362 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-Iqo3DMoNo1I/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jDReq2WsRmfbkFLW_lxGPtnxqoCA/mo/photo.jpg" height="20"/></span>Peter Ingleby
+190 - 10636 360 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gj3EcOpd44S34gg3JAHXS2FWOotz3B7e5_5wKOfpg=s96-c" height="20"/></span>Justin Vanderheide
+191 - 18301 358 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #18301)</span>
+192 - 35432 358 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1987615?v=4" height="20"/></span>Thomas Lamb</a>
+193 - 42866 358 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5795302?v=4" height="20"/></span>tonyta</a>
+194 - 15437 357 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9678001?v=3" height="20"/></span>aburnson</a>
+195 - 64218 356 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Константин К
+196 - 32203 352 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6zYbENLw-JaXy7T3P2f_R1FrlQm-d5kqlbFc9lew=s96-c" height="20"/></span>Dwayne Towell
+197 - 67279 351 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-LZFeXDzsjQw/AAAAAAAAAAI/AAAAAAAAfH4/pmdv84POaJI/photo.jpg" height="20"/></span>Frank Chu
+198 - 18344 350 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1182969?v=4" height="20"/></span>gchan</a>
+199 - 30997 346 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/526621402560876546/u1bGsHl-.jpeg" height="20"/></span>Lincoln Atkinson</a>
+200 - 3598 342 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2377233?v=4" height="20"/></span>GiedriusS</a>
+201 - 3643 340 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjemmcIpQkVMpAgvhlLL3h2lk_aLqRYgnBYKYrjO0s=s96-c" height="20"/></span>Marco Ippolito
+202 - 26995 340 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Antonín Lejsek
+203 - 5768 338 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/609527?v=4" height="20"/></span>David Bishop</a>
+204 - 31904 337 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/240570?v=4" height="20"/></span>Cory Chamblin</a>
+205 - 35470 336 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #35470)</span>
+206 - 42475 336 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/570248395362844672/EWfuxLj_.jpeg" height="20"/></span>Chouser</a>
+207 - 44567 336 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6427655?v=4" height="20"/></span>SimonPrins <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+208 - 29447 335 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6975605?v=3" height="20"/></span>g-p-g</a>
+209 - 10676 334 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/110792?v=4" height="20"/></span>Katharine Berry</a>
+210 - 12173 333 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4185329?v=3" height="20"/></span>Joseph Emmons
+211 - 707686 332 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/ACNPEu_WoP0_Oq98epS77JODI3rmrPEmRwWeEwTni3DnN38pJTxnxdkfZ6Wk8OEPCbAGOFvCgUTMXJ7MU4sPAbLFcaQflnReHd9V7W4rii1mNXCh_2f07IvnsIRyVctNPfrQ2gxZX4rrgIKaIisUR-WRyR" height="20"/></span>Benjamin Geiger
+212 - 408 331 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Juven Ardine
+213 - 3350 328 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu30ZdEdTJPq821UW5cN0dDtSqz3CXaPolcBXpQKFQ=s96-c" height="20"/></span>Drew Buck
+214 - 29225 328 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/699684?v=4" height="20"/></span>Jonah
+215 - 23923 324 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Jacob Young
+216 - 30676 324 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2049910?v=4" height="20"/></span>tomtheisen</a>
+217 - 39320 321 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2720787?v=4" height="20"/></span>Rossen
+218 - 35686 320 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJzVRTJvAJO3Z3aqGEu_mDXBT1z5EE8Hk2_iYbew=s96-c" height="20"/></span>Jaroslaw Sadziński
+219 - 9123 319 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/376238?v=3" height="20"/></span>Kevin Lawler</a>
+220 - 31816 318 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2799533?v=4" height="20"/></span>Steven LoFurno</a>
+221 - 32525 318 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GghJ4UqCp1FNerZrbEBEZatAgjUgEQCjHRvIzarHg=s96-c" height="20"/></span>radek Olsak
+222 - 36387 318 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-9cnV8icQPno/AAAAAAAAAAI/AAAAAAAAAAA/F_lkr90wzec/photo.jpg" height="20"/></span>Piotr Piatkowski
+223 - 3311 316 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #3311)</span>
+224 - 39531 315 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-3Z9JTGQM0tg/AAAAAAAAAAI/AAAAAAAAACE/9op80nGV96U/photo.jpg" height="20"/></span>Ryan Wirth</a>
+225 - 28376 313 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/540652?v=4" height="20"/></span>m1el
+226 - 10192 310 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/21338?v=4" height="20"/></span>thedufer</a>
+227 - 3039 309 <span class="leaderboard-userphoto"></span>Crunchyapple44
+228 - 10379 309 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/169669?v=4" height="20"/></span>evandrix</a>
+229 - 9924 308 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Miguel Duarte
+230 - 33237 307 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/231856?v=4" height="20"/></span>BoppreH</a>
+231 - 23144 306 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/576144560675393536/s7Z1yiCS.jpeg" height="20"/></span>alexmaswarrior
+232 - 277 303 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/603676?v=4" height="20"/></span>Cristian Radu</a>
+233 - 3387 298 <span class="leaderboard-userphoto"></span>jlmcmchl</a>
+234 - 32268 296 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #32268)</span>
+235 - 18371 295 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1759390?v=4" height="20"/></span>Vilsol</a>
+236 - 48435 295 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJwPVK6iX_exO91_Gxw3pbabSbFNfdC65adUf1mz=s96-c" height="20"/></span>Alex Malecker
+237 - 362 293 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #362)</span>
+238 - 8981 288 <span class="leaderboard-userphoto"></span>marchelzo</a>
+239 - 235 286 <span class="leaderboard-userphoto"></span>aimWithReason
+240 - 3231 285 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12201405?v=4" height="20"/></span>Jesse Rolheiser</a>
+241 - 44612 285 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2210602?v=3" height="20"/></span>SkyterX</a>
+242 - 23021 284 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2M9fq2UHolzikZi1sG27LIxYP-lsM3W3TL5oM2=s96-c" height="20"/></span>Jake Herman
+243 - 2253 283 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5RWEfuDtYrzSTvTMKm-i1K49uKF_nbD2KAAEmfzA=s96-c" height="20"/></span>Paweł Pamuła
+244 - 3280 281 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1215969?v=4" height="20"/></span>player1537</a>
+245 - 5035 281 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/3465139?v=4" height="20"/></span>Toby Scrace</a>
+246 - 9700 281 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AItbvmk-Iix_6WaDQOMlBfZmC07iuwYvT0K3ST9fCw1u=s96-c" height="20"/></span>Jeff Till
+247 - 29298 280 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/614704?v=4" height="20"/></span>lizthegrey</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+248 - 31409 280 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp53zZL7LXJM4BsOXlmhz02MRvtseekDDmwCE90z44k=s96-c" height="20"/></span>Paul Johnson
+249 - 6865 279 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/5688647?v=4" height="20"/></span>Jeff Jankowski</a>
+250 - 32763 279 <span class="leaderboard-userphoto"></span>rdpp_boyakasha
+251 - 8942 278 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9124077?v=4" height="20"/></span>tomKPZ
+252 - 9126 278 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/21304?v=4" height="20"/></span>Rob Biedenharn</a>
+253 - 8530 276 <span class="leaderboard-userphoto"></span>elguillaume</a>
+254 - 32294 276 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1753413?v=4" height="20"/></span>foolmoron</a>
+255 - 4482 274 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/49014?v=4" height="20"/></span>David Glick</a>
+256 - 301 272 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/57216?v=4" height="20"/></span>favrik</a>
+257 - 67806 270 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1028734?v=4" height="20"/></span>jonathanpaulson</a>
+258 - 68564 270 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/850144?v=4" height="20"/></span>pgao</a>
+259 - 367 268 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12876762?v=3" height="20"/></span>Zopherus
+260 - 50879 267 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/94054?v=3" height="20"/></span>Joel Verhagen</a>
+261 - 26834 266 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/609837069586857984/TafXv28z.jpg" height="20"/></span>@rabcyr</a>
+262 - 5958 265 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/908960?v=4" height="20"/></span>Boris Egorov</a>
+263 - 31774 265 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu12xMJwXyekAWlYwzkKXFeRhY8tTmqS6z7fiwzulA0=s96-c" height="20"/></span>Jessica Codr
+264 - 7858 264 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/663860282905796608/TH7JkUk3.jpg" height="20"/></span>@Doolwind</a>
+265 - 33578 264 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6469?v=3" height="20"/></span>bd808</a>
+266 - 30903 260 <span class="leaderboard-userphoto"></span>this_commutes
+267 - 23103 259 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #23103)</span>
+268 - 17405 258 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5BjmNQJ9KZ8SecRFSqdgJES0ahFmiMreFtQ52pGQ=s96-c" height="20"/></span>Johnny Owens
+269 - 1082 255 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4671570?v=4" height="20"/></span>fnuttplus
+270 - 4736 254 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/90322?v=4" height="20"/></span>Hugh Brown</a>
+271 - 10517 254 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/667830516641603588/Qr58sw_t.png" height="20"/></span>@jsbluethree</a>
+272 - 60887 254 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AD5-WCk8UCO6soLJoRuxsxK9aEVudbu6zB1dAWJSm9cRV56E-VDM5WDUdZXTyUiFr0RVpJCP9tH6_KtaKwxBEWTgqxT3LAeduWekeoypzJqglLQAWiMr30peh0w7rDomttN77cfkjkjEwSEsbfn1uEb6nV" height="20"/></span>Jeremiah Simmons <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+273 - 21528 253 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GgTQmdkYrIhTFtu6JtG20pJ2H17yqmPRyvj3830kQ=s96-c" height="20"/></span>Slezak2007
+274 - 30929 249 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1750122998/267395_879087035373_220356_40285022_2477836_n.jpg" height="20"/></span>Greg Yardley</a>
+275 - 553 247 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9858333?v=3" height="20"/></span>Evgeni-M
+276 - 26877 247 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4CD5LBz5chIlvrIDs_czsPZSEDokj0947iDft3Bg=s96-c" height="20"/></span>Scott Handelman
+277 - 29564 246 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1050278?v=4" height="20"/></span>Jonathan J. Helmus</a>
+278 - 4065 244 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-dPQAjPDOMm0/AAAAAAAAAAI/AAAAAAAAGgY/59Lrv1AvsRc/photo.jpg" height="20"/></span>Adam Pantel
+279 - 6298 244 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp52y3b7MJBgJTVsgiPOHsiqm-XCqZSHVhq3ueCu4w=s96-c" height="20"/></span>Branimir Filipović
+280 - 21085 244 <span class="leaderboard-userphoto"></span>JoggyFrazzle
+281 - 17051 243 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GiBKgxz_weW0yUyAye_Jx9t3ICkc2VRNytDMNR4JA=s96-c" height="20"/></span>Adam Michaud
+282 - 68314 243 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJw87XFz0M52qQ6pFUSwDFUa2A6chZOGBOdhdTNF=s96-c" height="20"/></span>Adam Forsyth
+283 - 4558 242 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu31YkPVdI9MdB9LmrwcbESdjJi96ybdKEFMSWg2=s96-c" height="20"/></span>Domantas Jadenkus
+284 - 38459 242 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/5992217?v=4" height="20"/></span>CAD97</a>
+285 - 62189 242 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1680202421/090509.jpg" height="20"/></span>Mark Gritter</a>
+286 - 17834 241 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7758139?v=3" height="20"/></span>jspeiser
+287 - 5477 240 <span class="leaderboard-userphoto"></span>kingdave1000
+288 - 6116 240 <span class="leaderboard-userphoto"></span>japillow
+289 - 10436 240 <span class="leaderboard-userphoto"></span>Paradoxide
+290 - 29755 240 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mDm-YRcx6-oqyOxvjK7Q9SMRCrR9uLzHXDozGm8ag" height="20"/></span>Tony Lownds
+291 - 35749 240 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #35749)</span>
+292 - 7954 238 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/9564131?v=4" height="20"/></span>doshmajhan
+293 - 51232 234 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/74839?v=4" height="20"/></span>deignacio</a>
+294 - 20812 232 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/72885?v=4" height="20"/></span>Patrick Mylund Nielsen</a>
+295 - 41498 232 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6100896?v=4" height="20"/></span>RZachLamberty</a>
+296 - 8811 231 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/100453?v=4" height="20"/></span>JP Verkamp</a>
+297 - 39540 231 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #39540)</span>
+298 - 17260 230 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1232162?v=3" height="20"/></span>Willux
+299 - 10349 229 <span class="leaderboard-userphoto"></span>Bali_Balo
+300 - 24230 227 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gjx8QyqBMvlCH2h87QdFPAtzq6hIIuOgR0YNQ6tsg=s96-c" height="20"/></span>Ed Fowle
+301 - 18269 226 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-uzItW1IFKAA/AAAAAAAAAAI/AAAAAAAAGGY/Dt6Cd686CKU/photo.jpg" height="20"/></span>Ryan Smith
+302 - 26236 226 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/196823?v=4" height="20"/></span>Tag
+303 - 13333 225 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12778614?v=3" height="20"/></span>1337Flash
+304 - 4874 224 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/405732?v=4" height="20"/></span>zosiu</a>
+305 - 29610 224 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/328952?v=4" height="20"/></span>Martin Pärtel</a>
+306 - 31625 224 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/3115209?v=4" height="20"/></span>Sam</a>
+307 - 39539 224 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1135690?v=3" height="20"/></span>hanazuki</a>
+308 - 3864 223 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/56396?v=4" height="20"/></span>bildzeitung</a>
+309 - 7773 223 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/396822?v=4" height="20"/></span>Mike Pirnat</a>
+310 - 9959 222 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1449259?v=4" height="20"/></span>ezfe</a>
+311 - 6192 219 <span class="leaderboard-userphoto"></span>khenti-amentiu</a>
+312 - 14117 219 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/5770051?v=4" height="20"/></span>charlieschmidt</a>
+313 - 3754 218 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1887181?v=3" height="20"/></span>Jorene René</a>
+314 - 35040 218 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/993503?v=4" height="20"/></span>Michael C. Martin
+315 - 47384 218 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>ferricguy
+316 - 10861 216 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Hadyn Richard
+317 - 10135 214 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1LWuVWjCoMnibndN-M39Op1n-w3TKSLjQ-F9IAins=s96-c" height="20"/></span>Max Jäger
+318 - 28951 214 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/669416792268361728/ARomSMQp.jpg" height="20"/></span>@keithmo</a>
+319 - 64787 214 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16350383?v=3" height="20"/></span>serges-newj
+320 - 11196 213 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7UhF59FzgJs5wtYEOqFLO5paiOWN8ApDJsypTS=s96-c" height="20"/></span>Christopher Osaki
+321 - 14663 213 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/711967?v=4" height="20"/></span>Adam Proctor</a>
+322 - 39917 213 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AFdZucrXg1csb5SpdX9pPj-HxHcCtxAkPHV4DvaRF041hA=s96-c" height="20"/></span>Andrew Parker
+323 - 11981 211 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-Aa8byXw09oI/AAAAAAAAAAI/AAAAAAAAGac/1WfgBs20VfU/photo.jpg" height="20"/></span>Michael Berman</a>
+324 - 339 210 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #339)</span>
+325 - 10353 210 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #10353)</span>
+326 - 18556 209 <span class="leaderboard-userphoto"></span>l2omain
+327 - 7666 204 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/3515572?v=4" height="20"/></span>Braeden Young
+328 - 175 203 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/740766002028367872/sG5TjpXF.jpg" height="20"/></span>@segfaultvicta</a>
+329 - 11153 203 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2975203?v=3" height="20"/></span>bluebear94</a>
+330 - 35209 202 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1297068?v=3" height="20"/></span>Blecki</a>
+331 - 26393 200 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1836410?v=4" height="20"/></span>erikrw</a>
+332 - 8377 199 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #8377)</span>
+333 - 10212 198 <span class="leaderboard-userphoto"></span>quantumcamel</a>
+334 - 35077 198 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/366230?v=4" height="20"/></span>heinrich5991
+335 - 13239 197 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/117258?v=4" height="20"/></span>veryrusty</a>
+336 - 25443 197 <span class="leaderboard-userphoto"></span>schlarpc</a>
+337 - 30966 197 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Kye (Wayne) Shi
+338 - 36824 197 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4iValFITDd8jmzEYNrKXeOzp0oz7eJ9nKqTwOd=s96-c" height="20"/></span>Joey Thaman
+339 - 6894 196 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GgCqwQxllATNJMyzBAScon365_WcahPv9Ge8UX5Nv0=s96-c" height="20"/></span>aaditya prakash
+340 - 380 195 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #380)</span>
+341 - 22795 195 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-2s2vnpfbZzc/AAAAAAAAAAI/AAAAAAAAALU/y51l1NPo2KE/photo.jpg" height="20"/></span>Jacob Potter
+342 - 32454 195 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/34301?v=4" height="20"/></span>kristjan</a>
+343 - 31562 194 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12755638?v=3" height="20"/></span>andrewbarry1</a>
+344 - 28419 193 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Maciej Biernaczyk
+345 - 34318 193 <span class="leaderboard-userphoto"></span>reci
+346 - 45500 193 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gg27EE1cQ-fVmzo1iU9rte5RMETBqyEQR9t-INkJw=s96-c" height="20"/></span>Jan Šimek
+347 - 45770 193 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>JLRishe
+348 - 13456 192 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4Ot1MV5q3nVlVQYC5-j5NWy0fpkw9-xm1wziaY=s96-c" height="20"/></span>Russ Ford
+349 - 18412 192 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/567098605828206592/WL7eL4va.jpeg" height="20"/></span>@__gcd</a>
+350 - 19398 192 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1373465855971840002/q_nLzvV1.jpg" height="20"/></span>kivikakk</a>
+351 - 9965 191 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2389325?v=4" height="20"/></span>klieth
+352 - 49129 191 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7neHNfQ-bls2hx-PQD000ucY0bzqKnXai3LvCq=s96-c" height="20"/></span>Peter Trebaticky
+353 - 6848 190 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/290242?v=4" height="20"/></span>Ryan Braganza</a>
+354 - 26658 190 <span class="leaderboard-userphoto"></span>chocodis
+355 - 27126 190 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15029675?v=4" height="20"/></span>vinheim3</a>
+356 - 18025 189 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/3931713?v=4" height="20"/></span>Adina</a>
+357 - 37905 189 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/7000965?v=4" height="20"/></span>mikhnevich
+358 - 55355 189 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/704200?v=4" height="20"/></span>Antti Haapala</a>
+359 - 56472 189 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-rCmO_VngE7o/AAAAAAAAAAI/AAAAAAAAAAA/RU-qsyGClGI/photo.jpg" height="20"/></span>Yuanle Song
+360 - 7311 188 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3240608?v=3" height="20"/></span>Apitheia</a>
+361 - 8545 188 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-NoL14LzfJPc/AAAAAAAAAAI/AAAAAAAAACQ/eU6dtcrw5QQ/photo.jpg" height="20"/></span>Raj Pandita
+362 - 9936 188 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-cCHTDn_SwXg/AAAAAAAAAAI/AAAAAAAAATc/IKjbT2zLcEA/photo.jpg" height="20"/></span>Jack Bowman
+363 - 6519 187 <span class="leaderboard-userphoto"></span>gtllama
+364 - 18706 187 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/207385?v=4" height="20"/></span>opqdonut
+365 - 42988 187 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1438959?v=4" height="20"/></span>codebje</a>
+366 - 4413 186 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gjujc1Pa8IyKheQ5wM_TNaTCKFdmB9WiQD_awN6=s96-c" height="20"/></span>Dan Christensen
+367 - 51454 186 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4619737?v=4" height="20"/></span>wision</a>
+368 - 58339 186 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3451580?v=4" height="20"/></span>Jerry Towler</a>
+369 - 8631 185 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1Y2M_3_xl8YwfKtKvqH2a1qAx81KXfAGKuBESBqw=s96-c" height="20"/></span>Ago Luberg
+370 - 16476 184 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/885012?v=3" height="20"/></span>slippy0</a>
+371 - 6856 183 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/918414?v=4" height="20"/></span>Chris Pittman
+372 - 20924 183 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/2515271?v=4" height="20"/></span>Jakob Hedman</a>
+373 - 4121 182 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5420261?v=4" height="20"/></span>kms70847
+374 - 25509 182 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6d82BkOyxtjVxvQ49nyWzd7LKyRTnBkqH2v0ISXA=s96-c" height="20"/></span>not Thomas Krall
+375 - 39884 182 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9650587?v=3" height="20"/></span>Bruce Yang
+376 - 291 181 <span class="leaderboard-userphoto"></span>widgeonway
+377 - 271 179 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/5727823?v=4" height="20"/></span>Noah Pena</a>
+378 - 6887 179 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/528813?v=4" height="20"/></span>Brandon Pedersen</a>
+379 - 8557 179 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6cGmuJs50EDc7xZ8WiQMN8h86sMBuRBMnGrFFVtQ=s96-c" height="20"/></span>Wes Evans
+380 - 17555 179 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/641107001230012416/0Kv6Ted1.jpg" height="20"/></span>Jonathan Bush</a>
+381 - 30498 179 <span class="leaderboard-userphoto"></span>slampropp
+382 - 35742 179 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-53o8nCBOdXA/AAAAAAAAAAI/AAAAAAAAAf0/36-4k-bh8PA/photo.jpg" height="20"/></span>Eric Toulson
+383 - 369 176 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #369)</span>
+384 - 10195 176 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/274797?v=3" height="20"/></span>reckbo
+385 - 17466 176 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mC79Mjo03IWt7OXcsQAR4HSaJpel5keZ7VZbn5MOA" height="20"/></span>Hugh Jackson
+386 - 23155 176 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7191124?v=4" height="20"/></span>madeinqc</a>
+387 - 27594 176 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1405026?v=4" height="20"/></span>Mause</a>
+388 - 32472 176 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/451177?v=4" height="20"/></span>djimenez
+389 - 40526 176 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Witold Pazderski
+390 - 60233 176 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #60233)</span>
+391 - 290 175 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-9xcX8tvdOfw/AAAAAAAAAAI/AAAAAAAAAhs/KpLo4w03zeU/photo.jpg" height="20"/></span>Naresh reddy
+392 - 293 175 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/378800000856502239/f22DmFrl.jpeg" height="20"/></span>@mikesmoniker
+393 - 6582 175 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2750246?v=3" height="20"/></span>Daniel Gibbs
+394 - 6658 175 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #6658)</span>
+395 - 23291 175 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-BTF4P1QHcn4/AAAAAAAAAAI/AAAAAAAAALo/pwRn1thOCrM/photo.jpg" height="20"/></span>Henrik Hellenborg
+396 - 44518 175 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11416?v=3" height="20"/></span>hagabaka</a>
+397 - 11054 174 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #11054)</span>
+398 - 29057 174 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/ACNPEu9eHs13b0OV1h8kcgp17rjxaxsfA6dPwLjw6Oy8sy8=s96-c" height="20"/></span>Daniel Mendelsohn
+399 - 31201 174 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #31201)</span>
+400 - 5533 173 <span class="leaderboard-userphoto"><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile_6.png" height="20"/></span>@cmcconomy</a>
+401 - 4687 172 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/193047?v=4" height="20"/></span>rahulsom</a>
+402 - 8013 172 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15893546?v=4" height="20"/></span>PartyRockCookie
+403 - 30330 172 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1910102?v=4" height="20"/></span>kevinavery</a>
+404 - 66912 172 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #66912)</span>
+405 - 8706 171 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/734003?v=4" height="20"/></span>alpha0924</a>
+406 - 26953 171 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #26953)</span>
+407 - 45348 171 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/670123072335122436/KsOmwk9v.png" height="20"/></span>❄⛄ eevee ⛄❄</a>
+408 - 45735 171 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3166056?v=4" height="20"/></span>ferris</a>
+409 - 300 170 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1420012935/IMG_0184.jpg" height="20"/></span>@jan_walther
+410 - 10237 170 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-u7wq-4UlV-I/AAAAAAAAAAI/AAAAAAAAFM0/YDzcl0HsZI0/photo.jpg" height="20"/></span>Tim Wells</a>
+411 - 55673 170 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/453622?v=3" height="20"/></span>Tyler Neylon</a>
+412 - 303 169 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1968865?v=4" height="20"/></span>SeeWhy
+413 - 10692 169 <span class="leaderboard-userphoto"></span>jello2
+414 - 20588 169 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/332011?v=4" height="20"/></span>Matt Thomas</a>
+415 - 296 168 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #296)</span>
+416 - 18483 168 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1053998?v=3" height="20"/></span>William Andrew Burnson</a>
+417 - 12554 167 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/634735?v=4" height="20"/></span>dastbe</a>
+418 - 45481 167 <span class="leaderboard-userphoto"><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile_5.png" height="20"/></span>Boo
+419 - 4675 166 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6876080?v=4" height="20"/></span>Buzz627</a>
+420 - 6150 166 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/13040818?v=4" height="20"/></span>Irfaan Khalid</a>
+421 - 8012 166 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-XJesgGC3Byw/AAAAAAAAAAI/AAAAAAAAA7M/64PjLmDMTC0/photo.jpg" height="20"/></span>Michelle Brundin
+422 - 22202 166 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5826578?v=4" height="20"/></span>hjorne</a>
+423 - 25589 165 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6020632?v=4" height="20"/></span>Scott Maxwell</a>
+424 - 297 164 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/437798?v=3" height="20"/></span>KamChanLiu</a>
+425 - 10488 164 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-8lWjd1IOmYo/AAAAAAAAAAI/AAAAAAAABHI/DOP6a3bsRPI/photo.jpg" height="20"/></span>Marc-André Beaudet-Racine
+426 - 5698 163 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/587642?v=3" height="20"/></span>PatrickDelancy</a>
+427 - 31480 163 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #31480)</span>
+428 - 245 162 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/469493?v=4" height="20"/></span>darinc</a>
+429 - 8676 162 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/5425481?v=4" height="20"/></span>JeffBobbo
+430 - 8595 161 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #8595)</span>
+431 - 55920 161 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5SZiRJsvnPA7CqodeH9q4WsaNFtuKmfoU3c43Xfw=s96-c" height="20"/></span>Wai-Wai Ng
+432 - 332 160 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/421779?v=3" height="20"/></span>Matt Jennings</a>
+433 - 19049 160 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1228432559769628672/AVSgoi0R.jpg" height="20"/></span>Jesse Chounard
+434 - 22285 160 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9652193?v=3" height="20"/></span>RyanMcC
+435 - 47292 160 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2hTAHK9YVwjzZe8m-U7zxRwQ0gFT-DtioKxDmmTA=s96-c" height="20"/></span>Michael Hale
+436 - 310 159 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/943597?v=4" height="20"/></span>icholy
+437 - 947 159 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #947)</span>
+438 - 6877 159 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9472151?v=4" height="20"/></span>rosskyl
+439 - 16670 159 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjFWAxabW41U9isBqtCJYhbsF0Jund3wPv9dLBf9_g=s96-c" height="20"/></span>Kevin Shu
+440 - 18612 159 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-gwZgagPcGno/AAAAAAAAAAI/AAAAAAAAAAA/stUvoF0dwro/photo.jpg" height="20"/></span>Dino Occhialini
+441 - 8428 158 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/3027440?v=4" height="20"/></span>aherdzik</a>
+442 - 11029 158 <span class="leaderboard-userphoto"></span>Yusyuriv
+443 - 34272 158 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8083281?v=4" height="20"/></span>vesche</a>
+444 - 316 157 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #316)</span>
+445 - 29430 157 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #29430)</span>
+446 - 18798 156 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1574494?v=3" height="20"/></span>Feriority
+447 - 27101 156 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #27101)</span>
+448 - 68627 155 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/307325?v=4" height="20"/></span>zarvox</a>
+449 - 5703 154 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1RKUfX9DzWxfN9jvAEmWm3vQcaPBfMZW41JFNk=s96-c" height="20"/></span>Adam Urato
+450 - 11063 154 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7aeydy5ZTHmrekMT9RmQb-fSAzpyM-ByE5-E3jbg=s96-c" height="20"/></span>Amit Gupta
+451 - 32082 154 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/93420?v=4" height="20"/></span>rein</a>
+452 - 333 153 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1963594?v=4" height="20"/></span>Jean-Karim Bockstael</a>
+453 - 499 153 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6767588?v=3" height="20"/></span>SpinCobra
+454 - 320 152 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1762224?v=3" height="20"/></span>tobiowo
+455 - 33235 152 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1105706?v=4" height="20"/></span>stranac
+456 - 60376 152 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/729716?v=4" height="20"/></span>Jud White</a>
+457 - 5308 150 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Hasanain Habib-Nayany
+458 - 6558 150 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1817381?v=4" height="20"/></span>yigal irani</a>
+459 - 14608 150 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7703673?v=3" height="20"/></span>Paul Wallington</a>
+460 - 52540 150 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-7XOxdwQNGP0/AAAAAAAAAAI/AAAAAAAAAZE/z4AL67v4Fqg/photo.jpg" height="20"/></span>Alex Koay</a>
+461 - 323 149 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3216976?v=3" height="20"/></span>danieljin</a>
+462 - 10877 149 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/438101?v=4" height="20"/></span>jimmehc</a>
+463 - 29709 149 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/56168?v=4" height="20"/></span>Paul Wicks</a>
+464 - 177 148 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1504570705760997377/z6YI5BwF.jpg" height="20"/></span>Matt Creenan</a>
+465 - 527 148 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3771805?v=4" height="20"/></span>Alan Huang
+466 - 2024 147 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14958027?v=3" height="20"/></span>kaymo</a>
+467 - 3209 147 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7759622?v=4" height="20"/></span>monk-time</a>
+468 - 34542 147 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/569585283222339584/5lvh0P1E.jpeg" height="20"/></span>Nicholas Turner</a>
+469 - 40396 147 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-hYXZns0fWcQ/AAAAAAAAAAI/AAAAAAAAALs/o1feF9vSSDA/photo.jpg" height="20"/></span>Edgaras Pocius
+470 - 9715 146 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-Iye3yKUmyjY/AAAAAAAAAAI/AAAAAAAAABo/cRgXejMaCtI/photo.jpg" height="20"/></span>Joshua Rorick
+471 - 46314 146 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3813409?v=4" height="20"/></span>ilge</a>
+472 - 21999 145 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/3241922?v=4" height="20"/></span>usandfriends</a>
+473 - 10443 143 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10387466?v=3" height="20"/></span>tyro11
+474 - 18242 143 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2o_IW9k0BjBfvAp2o0vUua704ivEZ5Irr_Xjzn=s96-c" height="20"/></span>Brian Green
+475 - 18487 143 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/476133?v=3" height="20"/></span>Briar Rose Schreiber</a>
+476 - 14863 142 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/407905?v=4" height="20"/></span>zg</a>
+477 - 22704 142 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/680762?v=3" height="20"/></span>theGrue</a>
+478 - 36983 142 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/16190914?v=4" height="20"/></span>asymptoticfreedom</a>
+479 - 38965 142 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/313125?v=4" height="20"/></span>Chandler
+480 - 324 141 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/30036?v=3" height="20"/></span>jhalley</a>
+481 - 337 141 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/7765549?v=4" height="20"/></span>randreucetti</a>
+482 - 6939 141 <span class="leaderboard-userphoto"></span>inorix
+483 - 28775 141 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #28775)</span>
+484 - 44582 141 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/934767?v=3" height="20"/></span>Hugo Hudson
+485 - 4445 140 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/5414721?v=4" height="20"/></span>NiXXeD</a>
+486 - 11202 140 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #11202)</span>
+487 - 17326 140 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1387350983/handthumb7vs_large.jpg" height="20"/></span>@elfprince13</a>
+488 - 56545 140 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/420184?v=4" height="20"/></span>Sergii Dymchenko</a>
+489 - 4835 139 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/15009522?v=4" height="20"/></span>Tirke
+490 - 25948 139 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #25948)</span>
+491 - 33887 139 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/139923?v=4" height="20"/></span>kachok</a>
+492 - 1670 138 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2305484?v=3" height="20"/></span>Matt
+493 - 19929 138 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4010503?v=3" height="20"/></span>NickSifniotis
+494 - 21732 138 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/362256?v=3" height="20"/></span>Matthew Berg
+495 - 18771 137 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-GBxIxasoxqI/AAAAAAAAAAI/AAAAAAAAxxo/l2FsNLMqRZM/photo.jpg" height="20"/></span>Andrew James
+496 - 35300 137 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10946135?v=4" height="20"/></span>hamstap85</a>
+497 - 56597 137 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13793938?v=3" height="20"/></span>StephenChong
+498 - 8405 136 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/366548?v=4" height="20"/></span>cofl</a>
+499 - 10657 136 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/9041893?v=4" height="20"/></span>philipbed
+500 - 29405 136 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #29405)</span>
+501 - 348 135 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2281166?v=4" height="20"/></span>Retsam
+502 - 9439 135 <span class="leaderboard-userphoto"></span>Namytsuortin</a>
+503 - 3323 134 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Ian Fade
+504 - 6660 134 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/2709425?v=4" height="20"/></span>Tyler Jones</a>
+505 - 13727 134 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/189133?v=4" height="20"/></span>Chris Smith</a>
+506 - 22684 134 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2w2ywMGPV8iAo_b51bDdRyF-VwSYJyUdxm5VriU3o=s96-c" height="20"/></span>Anthony Floyd
+507 - 3291 133 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6401628?v=4" height="20"/></span>Kjuib
+508 - 6687 133 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4340735?v=4" height="20"/></span>Nigelmnz</a>
+509 - 30114 133 <span class="leaderboard-userphoto"></span>f2f
+510 - 4297 132 <span class="leaderboard-userphoto"></span>guaraqe
+511 - 32361 132 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Thomas Scallon
+512 - 15634 131 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6254422?v=4" height="20"/></span>Toshi Piazza
+513 - 17041 131 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-SBOduh_TDLg/AAAAAAAAAAI/AAAAAAAAAK4/c__XUwpVUhA/photo.jpg" height="20"/></span>Dominick DiRenzo
+514 - 325 130 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3938232?v=3" height="20"/></span>jacob</a>
+515 - 19500 130 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/572214189957226496/BPjfW2Qk.jpeg" height="20"/></span>Kyle Creamer</a>
+516 - 212 129 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/719172385463803904/Jv7T35Rg.jpg" height="20"/></span>JP Burke</a>
+517 - 322 129 <span class="leaderboard-userphoto"></span>JoggingThruThe6</a>
+518 - 5992 129 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1087928?v=4" height="20"/></span>GlenboLake
+519 - 22573 129 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/664328352610717696/YDbyLnXu.png" height="20"/></span>Lifeofchrome</a>
+520 - 27034 129 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1230612324970418176/SzKAWa-U.jpg" height="20"/></span>Allison Lara</a>
+521 - 27941 129 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #27941)</span>
+522 - 69689 128 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/563756927654457345/NuL0vEEv.png" height="20"/></span>Fry
+523 - 1995 127 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/804919?v=4" height="20"/></span>1lann</a>
+524 - 14689 127 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/211880?v=4" height="20"/></span>Jim Kalafut</a>
+525 - 10317 126 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/593518542646972416/oI9h53SR.jpg" height="20"/></span>@coryknapp
+526 - 6772 125 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1008077768414855169/qYorOW0T.jpg" height="20"/></span>@IanBurgan</a>
+527 - 10538 125 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/639288326437011456/0ABYtSvw.png" height="20"/></span>Arͫ̓ts̊̚kͩyd͛̊͂̿͋͆̉J
+528 - 29972 125 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/ACNPEu_im64QsT55ad1Zr7-I7EpfLLaHmVBPNSmA1Mwc=s96-c" height="20"/></span>Kevin Zhang
+529 - 39380 125 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-p_aMAVSFKoE/AAAAAAAAAAI/AAAAAAAARgE/BkWD_gi9L3I/photo.jpg" height="20"/></span>Michał Sylwester
+530 - 57016 125 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/15606711?v=4" height="20"/></span>lemmit</a>
+531 - 57112 125 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15710478?v=3" height="20"/></span>no-paj</a>
+532 - 18072 124 <span class="leaderboard-userphoto"></span>cpt_caster
+533 - 42184 124 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-pfTuB4jXBso/AAAAAAAAAAI/AAAAAAAAAFY/DcM6VRITIS0/photo.jpg" height="20"/></span>Alfonso Concha
+534 - 10594 121 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/--mPZct3QfZQ/AAAAAAAAAAI/AAAAAAAAGj0/L50-l4adyRs/photo.jpg" height="20"/></span>Moro Silverio
+535 - 10719 121 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/573029?v=4" height="20"/></span>Michael Mitchell</a>
+536 - 20196 121 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/147668?v=4" height="20"/></span>Mark Heath</a>
+537 - 27078 121 <span class="leaderboard-userphoto"></span>AleisterAeon
+538 - 28369 121 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/4510694?v=4" height="20"/></span>Chris McDonald</a>
+539 - 25062 120 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-tSm4Gr4yKpI/AAAAAAAAAAI/AAAAAAAABBI/23MlfvQ7LJs/photo.jpg" height="20"/></span>Pavithra Padmanabh
+540 - 39708 119 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13476485?v=4" height="20"/></span>huangchris
+541 - 4894 118 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-EXEQJYF7gsk/AAAAAAAAAAI/AAAAAAAAAAA/9dLoTqdNamY/photo.jpg" height="20"/></span>Anthony Turner
+542 - 56353 118 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-BxLaXB_QaO4/AAAAAAAAAAI/AAAAAAAADUI/KOw47Wh2vbc/photo.jpg" height="20"/></span>Billy Rieger
+543 - 8759 117 <span class="leaderboard-userphoto"></span>corruptio
+544 - 45470 117 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/137930?v=4" height="20"/></span>perfunction
+545 - 4055 116 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1295771?v=4" height="20"/></span>johnny5th</a>
+546 - 9171 116 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13912591?v=3" height="20"/></span>Paolo Di Lorenzo</a>
+547 - 10262 116 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #10262)</span>
+548 - 17429 116 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1076792?v=4" height="20"/></span>Shaun</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+549 - 22791 116 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/550791526318497792/TnJ7ACKP.jpeg" height="20"/></span>@oskaritanner
+550 - 28212 116 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/244598?v=4" height="20"/></span>snorkypie</a>
+551 - 5251 115 <span class="leaderboard-userphoto"></span>Syrrim
+552 - 13742 115 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-2Fv2Lv6ZJus/AAAAAAAAAAI/AAAAAAAAAr4/v9qRDDtTRTA/photo.jpg" height="20"/></span>Octav Zlatior</a>
+553 - 35377 115 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1389549?v=4" height="20"/></span>faithanalog</a>
+554 - 365 114 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-m8Pm3zFBl6E/AAAAAAAAAAI/AAAAAAAAAXM/hyPz8SQlrxA/photo.jpg" height="20"/></span>Tommy Chanthaboune
+555 - 372 114 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-x_-XRHfnY0M/AAAAAAAAAAI/AAAAAAAADvU/yfVBOlvL4hM/photo.jpg" height="20"/></span>Taylor Growden (my-blue-snog-box)
+556 - 11545 113 <span class="leaderboard-userphoto"></span>tetrabinary
+557 - 360 112 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #360)</span>
+558 - 9982 111 <span class="leaderboard-userphoto"></span>douglowder
+559 - 10615 111 <span class="leaderboard-userphoto"></span>ClownMayor
+560 - 17640 110 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1005694?v=3" height="20"/></span>benjamin-jones</a>
+561 - 27060 110 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/555003?v=4" height="20"/></span>taylor1791</a>
+562 - 36991 110 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7021705?v=4" height="20"/></span>Georgi Georgiev</a>
+563 - 307 109 <span class="leaderboard-userphoto"></span>stemog
+564 - 346 109 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-vLpkRop-PFY/AAAAAAAAAAI/AAAAAAAAAYs/d2dJ6v0QWS8/photo.jpg" height="20"/></span>Berk Alyamach</a>
+565 - 382 109 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3816519?v=4" height="20"/></span>lazandrei19
+566 - 8850 109 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13277581?v=4" height="20"/></span>r-frederick
+567 - 11078 109 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/5458743?v=4" height="20"/></span>earncefs
+568 - 12495 109 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/36744?v=4" height="20"/></span>Jakob Bergendahl
+569 - 44386 109 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1764161?v=4" height="20"/></span>Shahar Talmi</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+570 - 7249 107 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/74693?v=4" height="20"/></span>randrews</a>
+571 - 18777 107 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3XV56_6IIg44ZoPLrjcr-hM9g7VoGZ0qrlqGiGGA=s96-c" height="20"/></span>Eric Aderhold
+572 - 14544 106 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-PPWBuF36w0M/AAAAAAAAAAI/AAAAAAAAAO4/-kQpOnvyi-c/photo.jpg" height="20"/></span>Corey Peoples
+573 - 16845 106 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5257931?v=4" height="20"/></span>Robin Levins</a>
+574 - 25771 106 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/3243303753/33b77037a8797cbd734fec941eae25f7.jpeg" height="20"/></span>@iffify</a>
+575 - 701 104 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10704684?v=4" height="20"/></span>red75prime</a>
+576 - 15627 104 <span class="leaderboard-userphoto"></span>TheHorribleTruth</a>
+577 - 28895 104 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/440651?v=3" height="20"/></span>Jacky Tang</a>
+578 - 336 103 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-yCoUtMJ10hY/AAAAAAAAAAI/AAAAAAAAAqo/cKy8CA-8yIQ/photo.jpg" height="20"/></span>Spencer Pollock
+579 - 12617 103 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #12617)</span>
+580 - 26996 103 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/2942526?v=4" height="20"/></span>Michael Ratliff</a>
+581 - 27725 103 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/1832865?v=4" height="20"/></span>msohcw
+582 - 31526 103 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2761504?v=4" height="20"/></span>Kevin Teh
+583 - 378 102 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8838401?v=3" height="20"/></span>owenso
+584 - 22764 102 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1164501?v=4" height="20"/></span>pdcamilleri</a>
+585 - 32121 102 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3YIPjZj1s72ki2b_bsqxyid11s-RMzC-duAJaN=s96-c" height="20"/></span>Anurag Bakshi
+586 - 47933 102 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #47933)</span>
+587 - 430 101 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/192540?v=4" height="20"/></span>Craig Peterson</a>
+588 - 361 100 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #361)</span>
+589 - 391 99 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6990603?v=3" height="20"/></span>UWarbs</a>
+590 - 1848 99 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-KrW-_u2euC0/AAAAAAAAAAI/AAAAAAAAABI/sdZGA8O00Ww/photo.jpg" height="20"/></span>Ken Van den Enden
+591 - 4219 99 <span class="leaderboard-userphoto"></span>seraphdd
+592 - 7304 99 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/4500158?v=4" height="20"/></span>Josh Shifman</a>
+593 - 39452 99 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #39452)</span>
+594 - 194 98 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Tyrell Neufeld
+595 - 352 98 <span class="leaderboard-userphoto"></span>missblit
+596 - 26523 98 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1572319?v=4" height="20"/></span>Snorge
+597 - 30360 98 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/444170?v=3" height="20"/></span>Daniel Willenson
+598 - 27276 97 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1bKX5rlnOtwyKkRIl3T8q-dGhLIh8Tahv15Iyx=s96-c" height="20"/></span>Greg Johnson
+599 - 31966 97 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #31966)</span>
+600 - 51076 97 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #51076)</span>
+601 - 389 95 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3580368?v=3" height="20"/></span>gintrator
+602 - 10876 95 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2126206?v=4" height="20"/></span>Jim Johnson
+603 - 32167 95 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11800204?v=4" height="20"/></span>j-hui
+604 - 31340 94 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7587245?v=4" height="20"/></span>Kit Langton
+605 - 33618 94 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/879014?v=4" height="20"/></span>alexis2b</a>
+606 - 220 93 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/3737728683/4a151f3c3bd947fcce4120ace84209f7.jpeg" height="20"/></span>@RedaReinhart
+607 - 2928 93 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1992555?v=4" height="20"/></span>viceroypenguin</a>
+608 - 8332 93 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11308077?v=4" height="20"/></span>Nick Robson</a>
+609 - 384 92 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #384)</span>
+610 - 9577 92 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/82654?v=4" height="20"/></span>Barney Boisvert</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+611 - 23709 92 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1269455730848849925/9r-MsYji.png" height="20"/></span>@belbeeno</a>
+612 - 288 91 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #288)</span>
+613 - 312 91 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-oOczxXXOdTA/AAAAAAAAAAI/AAAAAAAAFIs/3IofIi7WpJY/photo.jpg" height="20"/></span>Clifford Duke
+614 - 20906 91 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5eJmtnBON07LsvsXx3SThF1mzO-unmzjxOgHQMkg=s96-c" height="20"/></span>Scott Emerson
+615 - 32375 91 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/124000?v=4" height="20"/></span>jweinberg</a>
+616 - 7206 90 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2554158?v=4" height="20"/></span>J N</a>
+617 - 493 89 <span class="leaderboard-userphoto"></span>blindwaves
+618 - 3962 89 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/714518?v=4" height="20"/></span>Andrew Ek</a>
+619 - 11143 89 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5532562?v=3" height="20"/></span>maxdunlop
+620 - 10810 88 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16112189?v=4" height="20"/></span>TylerNarmore</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+621 - 16967 88 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/566433?v=4" height="20"/></span>rkallos</a>
+622 - 27627 88 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/2713333225/624eeefefc647f9e05ee10cf3800222f.jpeg" height="20"/></span>@apronchenkov
+623 - 7126 87 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5796707?v=4" height="20"/></span>Lenny Morayniss</a>
+624 - 16767 87 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/786377?v=4" height="20"/></span>Kedirech</a>
+625 - 18863 87 <span class="leaderboard-userphoto"></span>Vimda
+626 - 29981 87 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/3315798?v=4" height="20"/></span>Jeremy
+627 - 39887 87 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #39887)</span>
+628 - 4216 86 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5978?v=3" height="20"/></span>BrotherLogic</a>
+629 - 15562 86 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-XKeTpe8ng-Y/AAAAAAAAAAI/AAAAAAAADpc/1clz4JL2C2E/photo.jpg" height="20"/></span>Leul Aleme
+630 - 50059 86 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1444825?v=4" height="20"/></span>R4PaSs
+631 - 398 85 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #398)</span>
+632 - 6924 85 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/207072?v=4" height="20"/></span>codyphobe
+633 - 13696 85 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1383523?v=4" height="20"/></span>Sala</a>
+634 - 16408 85 <span class="leaderboard-userphoto"></span>Philboyd_Studge</a>
+635 - 414 84 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/628318359080275968/OTM8eGv5.jpg" height="20"/></span>Ben Wolfram</a>
+636 - 574 84 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6589165?v=3" height="20"/></span>Nick Tucci
+637 - 3666 84 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/648128?v=4" height="20"/></span>crazyguyonabike</a>
+638 - 9356 84 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #9356)</span>
+639 - 13731 84 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2ZG4v5U5DXo-I0-m0MizbuRduni3aw8F3O3EsMMQ=s96-c" height="20"/></span>Moris Zucca
+640 - 18445 84 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #18445)</span>
+641 - 30538 84 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5925468?v=4" height="20"/></span>cryptonaut
+642 - 554 83 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1179135?v=3" height="20"/></span>spoage</a>
+643 - 10415 83 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1694228?v=4" height="20"/></span>clhuang
+644 - 418 82 <span class="leaderboard-userphoto"></span>RakijaH
+645 - 3275 82 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8973794?v=4" height="20"/></span>Graham Holtslander</a>
+646 - 19981 82 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/832693824606584833/DSIoCPxb.jpg" height="20"/></span>@hythloday</a>
+647 - 39632 82 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6619581?v=4" height="20"/></span>autoreleasefool</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+648 - 5296 81 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4756654?v=3" height="20"/></span>nschirmer</a>
+649 - 22144 81 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2768420?v=3" height="20"/></span>tapansino91
+650 - 55821 81 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-ZMqUjm61eMI/AAAAAAAAAAI/AAAAAAAAPUs/bkg-NfHx4Tc/photo.jpg" height="20"/></span>Matthew Eagar
+651 - 415 80 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-5IDlA_-gQ38/AAAAAAAAAAI/AAAAAAAAAEE/KD075vDO9vE/photo.jpg" height="20"/></span>Dávid Pörös
+652 - 3354 80 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3A5DVuMxYQ2oHypW9Ujf4tO-FhWgiduFstCfURKA=s96-c" height="20"/></span>Jason Coutu</a>
+653 - 4857 80 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJw4EI_k6y4FkjQdhedQr2iQJ0KTTx8zvI910J5Y=s96-c" height="20"/></span>Chris Indoe
+654 - 38269 80 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-0xXag0LYnvI/AAAAAAAAAAI/AAAAAAAAA9Q/y7qFE8XI-68/photo.jpg" height="20"/></span>Chris Toshok
+655 - 1314 79 <span class="leaderboard-userphoto"></span>guosim
+656 - 27035 79 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/829278623597215744/IGP4r9No.jpg" height="20"/></span>@callmewuest</a>
+657 - 37654 79 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3110180?v=4" height="20"/></span>hdtx</a>
+658 - 42461 79 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5_l-n4f3FlZTnkLXDgvjT1OMflzZMflpUWkcFADQ=s96-c" height="20"/></span>Bart Massey
+659 - 305 78 <span class="leaderboard-userphoto"></span>alpoe</a>
+660 - 823 78 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/803732?v=4" height="20"/></span>Ross Foley
+661 - 18244 78 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-MJqA22CgR2w/AAAAAAAAAAI/AAAAAAAAAAA/aMVpPao4Jc0/photo.jpg" height="20"/></span>Jinming Shao
+662 - 6302 77 <span class="leaderboard-userphoto"></span>cookieraid
+663 - 9797 77 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1733846?v=4" height="20"/></span>tylerjl</a>
+664 - 18051 77 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-JrhidHKzJjc/AAAAAAAAAAI/AAAAAAAAAAA/HMKs14qLf3s/photo.jpg" height="20"/></span>Henry Rich
+665 - 38957 77 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GgaH3C7u0oKztx44qK3kE3Fwn4AhaLXSwhg9hS1fwc=s96-c" height="20"/></span>Brian Risinger
+666 - 48763 77 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/5355888?v=4" height="20"/></span>Enoch Cheung</a>
+667 - 25561 75 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/46170?v=4" height="20"/></span>a1k0n</a>
+668 - 36138 75 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #36138)</span>
+669 - 395 74 <span class="leaderboard-userphoto"></span>GrizzlyAdams63
+670 - 5931 74 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5_x82HcEa-DHlS_o8opWZw6rGQU9gW6EGCqG7y=s96-c" height="20"/></span>Robert San Soucie
+671 - 9779 74 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/111554?v=4" height="20"/></span>Hugo Peixoto</a>
+672 - 263 73 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15487?v=4" height="20"/></span>elazar</a>
+673 - 3512 73 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/433581?v=3" height="20"/></span>jacobbeasley</a>
+674 - 10358 73 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/984277?v=3" height="20"/></span>glowpop
+675 - 17458 73 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/574?v=4" height="20"/></span>Justin Poliey</a>
+676 - 22803 73 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #22803)</span>
+677 - 51437 73 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #51437)</span>
+678 - 6866 72 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-ocMLkszYQM0/AAAAAAAAAAI/AAAAAAAAAnY/cZX8ltUgums/photo.jpg" height="20"/></span>Derek Chen
+679 - 9240 72 <span class="leaderboard-userphoto"></span>snobby_penguin
+680 - 21818 72 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4084762?v=3" height="20"/></span>jackieherrer</a>
+681 - 26673 72 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mCB7JwikhabGJwfR0qBbvUe9Xoiv5Cx2AyIpWcvSA" height="20"/></span>Mr. Mafeeny Chuggart
+682 - 446 71 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #446)</span>
+683 - 10329 71 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/593822?v=3" height="20"/></span>tanminivan
+684 - 18250 71 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/476517?v=3" height="20"/></span>Andrew Baerg</a>
+685 - 29888 71 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3162105?v=4" height="20"/></span>scarecrow1123</a>
+686 - 697 70 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/874740?v=3" height="20"/></span>snipplets
+687 - 5643 70 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/474403?v=4" height="20"/></span>JamesB41
+688 - 11134 70 <span class="leaderboard-userphoto"></span>kaminate</a>
+689 - 429 69 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/626130?v=3" height="20"/></span>slapec</a>
+690 - 5996 69 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/500879?v=3" height="20"/></span>noiz</a>
+691 - 10175 69 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-bk5c0hmD0Zc/AAAAAAAAAAI/AAAAAAAAAHw/Xx7oJZFFovI/photo.jpg" height="20"/></span>Ian Gregor
+692 - 10380 69 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1470871?v=4" height="20"/></span>Ross LeBeau</a>
+693 - 12993 69 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AFdZucqNAMlO1fco4Wp1Pa3QAzqQ43jKSoE1nqZJqVY9fQ=s96-c" height="20"/></span>Marcos V. Ferretti
+694 - 39593 69 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8316665?v=4" height="20"/></span>golubitsky</a>
+695 - 59501 69 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/16214803?v=4" height="20"/></span>blueyleader</a>
+696 - 9927 68 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #9927)</span>
+697 - 11008 68 <span class="leaderboard-userphoto"></span>Bwob
+698 - 379 67 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11417268?v=3" height="20"/></span>t2davis
+699 - 4217 67 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6866792?v=4" height="20"/></span>gla3dr</a>
+700 - 4291 67 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/4589840?v=4" height="20"/></span>danbopes</a>
+701 - 18105 67 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6970008?v=3" height="20"/></span>konohitowa
+702 - 35217 66 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/775393?v=4" height="20"/></span>David Stockton</a>
+703 - 2771 65 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/43280?v=3" height="20"/></span>Buck Doyle</a>
+704 - 37156 65 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/979988?v=4" height="20"/></span>michaf</a>
+705 - 45258 65 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Silje Raddum
+706 - 48848 65 <span class="leaderboard-userphoto"><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile.png" height="20"/></span>@Nitr0P
+707 - 419 64 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-PYMvh8sXMnE/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gD6LyWJCtSRb-kM329Ke5vqtbT5A/mo/photo.jpg" height="20"/></span>Georg Metzger
+708 - 1822 64 <span class="leaderboard-userphoto"></span>ex_falso_quodlibet
+709 - 53004 64 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #53004)</span>
+710 - 330 63 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/551418586627989505/bMcZPVZ5.jpeg" height="20"/></span>Grayden Hormes
+711 - 345 63 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #345)</span>
+712 - 5191 63 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #5191)</span>
+713 - 29909 63 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1065245?v=4" height="20"/></span>Benjamin Chelli</a>
+714 - 31922 63 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5512292?v=4" height="20"/></span>f-koehler</a>
+715 - 35358 63 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/2053862?v=4" height="20"/></span>Stickerpants</a>
+716 - 52366 63 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3765571?v=4" height="20"/></span>Darren Richardson</a>
+717 - 273 62 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-JpZ2xesURn8/AAAAAAAAAAI/AAAAAAAAASo/SP94jry9jho/photo.jpg" height="20"/></span>Alexandr Raskin
+718 - 342 62 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6622091?v=4" height="20"/></span>Rijir
+719 - 432 62 <span class="leaderboard-userphoto"></span>wrzazg
+720 - 10735 62 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1141487?v=3" height="20"/></span>Eddie Parker
+721 - 15431 62 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2413035?v=4" height="20"/></span>smarlow
+722 - 23487 62 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/897054?v=4" height="20"/></span>neckro</a>
+723 - 50124 62 <span class="leaderboard-userphoto"></span>jpercivalhackworth</a>
+724 - 10978 61 <span class="leaderboard-userphoto"></span>sessions17
+725 - 15486 61 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2432382?v=4" height="20"/></span>alavers</a>
+726 - 27762 61 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2786853?v=4" height="20"/></span>Guido Diepen</a>
+727 - 72343 61 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/4490668?v=4" height="20"/></span>Brett Rann</a>
+728 - 351 60 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/783827?v=3" height="20"/></span>Richard Miller</a>
+729 - 862 60 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #862)</span>
+730 - 29021 60 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #29021)</span>
+731 - 70877 60 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu00hLlsgbuL8MCK2VOqaiOm5L8Uyyhtn6cADnGq=s96-c" height="20"/></span>Tim Roberts
+732 - 357 59 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-jyaaVp8cK-o/AAAAAAAAAAI/AAAAAAAAABk/GNWxR4O_oCU/photo.jpg" height="20"/></span>Jacky Lam
+733 - 6524 59 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/6343381?v=4" height="20"/></span>aleedom</a>
+734 - 18415 59 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/697759?v=4" height="20"/></span>njx
+735 - 47995 59 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2396226?v=3" height="20"/></span>Luan Castro</a>
+736 - 8953 58 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/526398?v=3" height="20"/></span>eamondaly
+737 - 17174 58 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/835588?v=4" height="20"/></span>cilice</a>
+738 - 21423 58 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/330933?v=4" height="20"/></span>ewh
+739 - 29156 58 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #29156)</span>
+740 - 49137 58 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/538392?v=4" height="20"/></span>RJ Walsh
+741 - 26836 57 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-jocn0O1ZYPg/AAAAAAAAAAI/AAAAAAAAABo/pemb4c6lKeQ/photo.jpg" height="20"/></span>William Greer
+742 - 550 56 <span class="leaderboard-userphoto"></span>ykechan
+743 - 7018 56 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1_eg6nzADYPGlzqjYC0bf9OMgpnC_d3KCiyZma=s96-c" height="20"/></span>Jonathan Stein
+744 - 8987 56 <span class="leaderboard-userphoto"></span>DisgruntledPorcupine</a>
+745 - 9036 56 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1308313?v=4" height="20"/></span>Joel Grus</a>
+746 - 9909 56 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/975916?v=4" height="20"/></span>LK</a>
+747 - 52207 56 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/632171536724561920/q3r5KV5s.jpg" height="20"/></span>@fernomac
+748 - 1555 55 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2062043?v=4" height="20"/></span>Scott Sedgwick</a>
+749 - 2399 55 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/98526?v=4" height="20"/></span>Sean Handley</a>
+750 - 26978 55 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-e1aOpPbEA8s/AAAAAAAAAAI/AAAAAAAABPs/9ZI7_KnK1WQ/photo.jpg" height="20"/></span>Dane Smith (c1pherx)
+751 - 447 53 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #447)</span>
+752 - 3973 53 <span class="leaderboard-userphoto"></span>LieutenantSwr2d2
+753 - 8265 53 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/3131001?v=4" height="20"/></span>Eric Davies</a>
+754 - 21950 53 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mCi3UAAbK_cVleHlZRTW7ksvFheGa-C84rnSLc-lw" height="20"/></span>Lars Nilsson
+755 - 31587 53 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/84951?v=4" height="20"/></span>Bill Barry
+756 - 58600 53 <span class="leaderboard-userphoto"><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile.png" height="20"/></span>stormageddon
+757 - 71279 53 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5668019?v=3" height="20"/></span>William Yao</a>
+758 - 356 52 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #356)</span>
+759 - 456 52 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1644496?v=4" height="20"/></span>Brynley McDonald</a>
+760 - 1935 52 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/6969661?v=4" height="20"/></span>shtonki
+761 - 5901 52 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1012412?v=4" height="20"/></span>Kassanu
+762 - 8761 52 <span class="leaderboard-userphoto"></span>theotherhand</a>
+763 - 9672 52 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp49u-aJcUwWBY1ekYpzpa7-aiTXtm75RLBDM46Rmw=s96-c" height="20"/></span>Jon Palin <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+764 - 25902 52 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/3442754?v=4" height="20"/></span>akajb84</a>
+765 - 29060 52 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1689726?v=4" height="20"/></span>ornerylawn</a>
+766 - 423 51 <span class="leaderboard-userphoto"></span>MonkeyBrain4U
+767 - 7333 51 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/874664901670838278/VqFbeCdH.jpg" height="20"/></span>@tylerdave</a>
+768 - 10778 51 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-cfWIIM_ohIo/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-j06hd5GwOeSR-49Z7sinQ_ZuB9hg/mo/photo.jpg" height="20"/></span>Nadav Luzzato
+769 - 10795 51 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #10795)</span>
+770 - 57698 51 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/8901856?v=4" height="20"/></span>tpospisi</a>
+771 - 10208 50 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16110929?v=3" height="20"/></span>Zel-os</a>
+772 - 18735 50 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/85201728/lumbjock.png" height="20"/></span>Gary Fixler</a>
+773 - 42862 50 <span class="leaderboard-userphoto"></span>oantolin</a>
+774 - 5744 49 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/29817762/christian3_h250.jpg" height="20"/></span>@ckk</a>
+775 - 10056 49 <span class="leaderboard-userphoto"></span>adelzhang
+776 - 18000 49 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #18000)</span>
+777 - 28734 49 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjX95sKqt2Ko13lGa-sZcI-YpHwTFOxEeNcXW6m1A=s96-c" height="20"/></span>Alex G
+778 - 30434 49 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1144135059/profile.png" height="20"/></span>Andrés Pérez-Albela</a>
+779 - 40711 49 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1F711d_BqNz6KS_GOYld6QKtnklBz5I2rF3xuoew=s96-c" height="20"/></span>Tyson Boucher
+780 - 460 48 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/4925391?v=4" height="20"/></span>Quadrophone
+781 - 8191 48 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1034472?v=4" height="20"/></span>Shruubi</a>
+782 - 11669 48 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/12016544?v=4" height="20"/></span>Kurt D</a>
+783 - 29241 48 <span class="leaderboard-userphoto"></span>timfoden
+784 - 30698 48 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GheT8zf_pcW1IKIldWI6xie2UPTxizkX2TADM_uSg=s96-c" height="20"/></span>Алексей Дубровин
+785 - 442 47 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3076257?v=3" height="20"/></span>juno1990ahn
+786 - 16934 47 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-wIJ-TNUadC0/AAAAAAAAAAI/AAAAAAAAAVY/eZglmZyzspY/photo.jpg" height="20"/></span>Alex Karantza
+787 - 36942 47 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/78469?v=4" height="20"/></span>Andreas Karlsson
+788 - 10695 46 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6982962?v=3" height="20"/></span>AlexQuenon
+789 - 67315 46 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>George Ill
+790 - 1895 45 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5764009?v=4" height="20"/></span>Phillsm
+791 - 18181 45 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3751025?v=4" height="20"/></span>Eric Mannes</a>
+792 - 26147 45 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4zPDv9AG02o6xxPXr8hhqawOXrpWNk8_-B2Yxq4HQ=s96-c" height="20"/></span>Scott Frazier
+793 - 368 44 <span class="leaderboard-userphoto"></span>imapiekindaguy</a>
+794 - 8158 44 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12624061?v=3" height="20"/></span>Christof Schardt</a>
+795 - 9853 44 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12089617?v=4" height="20"/></span>Kyle Mellander</a>
+796 - 10732 44 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1228524?v=3" height="20"/></span>Daniel Martínez</a>
+797 - 25872 44 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1594306?v=4" height="20"/></span>tyty5949</a>
+798 - 46336 44 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/59857?v=4" height="20"/></span>David Ongaro</a>
+799 - 476 43 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #476)</span>
+800 - 9158 43 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/115712?v=4" height="20"/></span>Marco Beri</a>
+801 - 30383 43 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/70018?v=3" height="20"/></span>Christopher</a>
+802 - 39271 43 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1142915?v=4" height="20"/></span>Roger Versluis</a>
+803 - 392 42 <span class="leaderboard-userphoto"></span>goldemerald
+804 - 8088 42 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #8088)</span>
+805 - 8389 42 <span class="leaderboard-userphoto"></span>JumpRunCatch
+806 - 22875 42 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gg5Tjr-G_Mgtcl3ivZ-qi1Py0YN_72cYSGHG2vBhvg=s96-c" height="20"/></span>Alexa Elliott
+807 - 473 41 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #473)</span>
+808 - 7835 41 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/201479?v=3" height="20"/></span>XAMPP</a>
+809 - 19548 41 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu116XpG9vpe6YwSccqvf75Ci5GSHiDCG81BxFUTqw=s96-c" height="20"/></span>Chris Johnson
+810 - 26935 41 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12366911?v=4" height="20"/></span>Abex</a>
+811 - 32002 41 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3073139?v=4" height="20"/></span>Mark Lively</a>
+812 - 421 40 <span class="leaderboard-userphoto"></span>Flnz
+813 - 31117 40 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-4G8s2iuTW2s/AAAAAAAAAAI/AAAAAAAAKI4/A89U8mP0xF0/photo.jpg" height="20"/></span>Bradley Hess
+814 - 32122 40 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Derek Hua
+815 - 43657 40 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-0yIvcBmJHFs/AAAAAAAAAAI/AAAAAAAAADg/UqJTj41koFU/photo.jpg" height="20"/></span>Samuel Dale
+816 - 10263 39 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/213276?v=4" height="20"/></span>Carl St-Laurent</a>
+817 - 32006 39 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8873608?v=3" height="20"/></span>andres-cartellone
+818 - 37940 38 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/426928?v=3" height="20"/></span>Chris Akers
+819 - 45923 38 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1253351?v=4" height="20"/></span>Jacob Kopczynski</a>
+820 - 48945 38 <span class="leaderboard-userphoto"><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile_1.png" height="20"/></span>Eric Kuritzky
+821 - 54560 38 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-VHlQ7dPLKko/AAAAAAAAAAI/AAAAAAAAADo/3MjqP3xhaPk/photo.jpg" height="20"/></span>Cayle Sharrock
+822 - 2483 37 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/531847?v=4" height="20"/></span>iodiot</a>
+823 - 8354 37 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7886517?v=3" height="20"/></span>Michael Klassen
+824 - 8675 37 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-VMYUcC-cLyw/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-ieCbRZafMTX7k5vygcp1f9Axy7qQ/mo/photo.jpg" height="20"/></span>Rob Hodgkinson
+825 - 10998 37 <span class="leaderboard-userphoto"></span>Naihonn
+826 - 19763 37 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-lSkmouAbo00/AAAAAAAAAAI/AAAAAAAAIow/cHfzoVCHrMc/photo.jpg" height="20"/></span>Péter Szirmai
+827 - 21222 37 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/757123?v=4" height="20"/></span>hazzen
+828 - 60354 37 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/676185?v=4" height="20"/></span>yangsu</a>
+829 - 405 36 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-vW7UXE4ku_A/AAAAAAAAAAI/AAAAAAAAADA/BZO5k1vuu28/photo.jpg" height="20"/></span>Trey Spires
+830 - 10062 36 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4969500?v=4" height="20"/></span>Tim Huddle</a>
+831 - 10458 36 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/929271?v=3" height="20"/></span>krisburtoft
+832 - 17034 36 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/449016?v=3" height="20"/></span>Nick Ashley</a>
+833 - 67470 36 <span class="leaderboard-userphoto"></span>Gil4</a>
+834 - 1065 35 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1421210?v=4" height="20"/></span>Spicychckn
+835 - 8367 35 <span class="leaderboard-userphoto"></span>gertk
+836 - 48734 35 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #48734)</span>
+837 - 409 34 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJzpW7a8q2s9EztBOHKknlJ-f9g85XSIRsTMnB--=s96-c" height="20"/></span>Fredrik Storøy
+838 - 436 34 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0B3BfB9JP0jtEe4q58e2vX8i-tZvWL-vOqfAki=s96-c" height="20"/></span>Derek Knechtel
+839 - 470 34 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-AD5XqFWt0kU/AAAAAAAAAAI/AAAAAAAALtg/lkqD8g4yLOs/photo.jpg" height="20"/></span>Pavan Nikhilesh
+840 - 2291 34 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1055340477510283264/mL9fDyTS.jpg" height="20"/></span>@inclushe</a>
+841 - 2395 34 <span class="leaderboard-userphoto"></span>reacher
+842 - 10798 34 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Jifeng Sun
+843 - 31299 34 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6567948?v=4" height="20"/></span>Skybound1
+844 - 32478 34 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-6qcglWYfDRM/AAAAAAAAAAI/AAAAAAAABCY/Uyc1JRWEGSw/photo.jpg" height="20"/></span>Rok Kralj
+845 - 593 33 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-_sSrtkb8RVA/AAAAAAAAAAI/AAAAAAAAExU/oQB4I3MRAIc/photo.jpg" height="20"/></span>Dev Kaiser
+846 - 26181 33 <span class="leaderboard-userphoto"></span>factor93</a>
+847 - 42433 33 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-SbsgLulhG-c/AAAAAAAAAAI/AAAAAAAAEc0/6T-i63MZIKQ/photo.jpg" height="20"/></span>Andrew Lefchak
+848 - 187 32 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/266298?v=4" height="20"/></span>mattgen88</a>
+849 - 18207 32 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2846855?v=4" height="20"/></span>mgersh
+850 - 32282 32 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6687043?v=4" height="20"/></span>triazo
+851 - 43069 32 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #43069)</span>
+852 - 50278 32 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/705426477873909761/lC4Twecr.jpg" height="20"/></span>Adam Haun
+853 - 474 31 <span class="leaderboard-userphoto"></span>AlliMcPalli
+854 - 8311 31 <span class="leaderboard-userphoto"></span>clownbaby893
+855 - 58649 31 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Yadir Lakehal
+856 - 59367 31 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12873?v=4" height="20"/></span>Neil Roberts</a>
+857 - 388 30 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1362473?v=3" height="20"/></span>Brant Wladichuk</a>
+858 - 455 30 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-Uy2hprXanlA/AAAAAAAAAAI/AAAAAAAAAD4/aMYHqds8UjQ/photo.jpg" height="20"/></span>Dexter John Chua
+859 - 480 30 <span class="leaderboard-userphoto"></span>SSteel2
+860 - 30188 30 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/4831042?v=4" height="20"/></span>Dmitry Nikolayev</a>
+861 - 30754 30 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-bgA-EvAlWfk/AAAAAAAAAAI/AAAAAAAAAC0/tvvGmfO3aM0/photo.jpg" height="20"/></span>Eric Versteeg
+862 - 30833 30 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjVBZ5JGJVeCGlTyYorix0vpz6QD5bytxnLatZyvQ=s96-c" height="20"/></span>John Lukasiewicz
+863 - 413 29 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #413)</span>
+864 - 489 29 <span class="leaderboard-userphoto"></span>shamittomar</a>
+865 - 10220 29 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-hm_HJjYR9tk/AAAAAAAAAAI/AAAAAAAAAEw/1bj6wmU2-ng/photo.jpg" height="20"/></span>David Castillo
+866 - 10688 29 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #10688)</span>
+867 - 12231 29 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1011412564062990336/FNgq-QUH.jpg" height="20"/></span>@SebastianLague</a>
+868 - 17781 29 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/1417890?v=4" height="20"/></span>theoriginalcamper
+869 - 18447 29 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #18447)</span>
+870 - 28313 29 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/213982?v=3" height="20"/></span>xxfelixxx</a>
+871 - 431 28 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1141040?v=4" height="20"/></span>Tyler Kelley
+872 - 10400 28 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/432452?v=3" height="20"/></span>John Svazic</a>
+873 - 21473 28 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #21473)</span>
+874 - 32288 28 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1IAT7j4iAYThSCEm5OEY3b5j9bK3_VrhibkGru=s96-c" height="20"/></span>Jerome Brock
+875 - 39856 28 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2130440?v=3" height="20"/></span>Geordie Millar</a>
+876 - 482 27 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #482)</span>
+877 - 5935 27 <span class="leaderboard-userphoto"></span>Jimmacle</a>
+878 - 6233 27 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3715617?v=3" height="20"/></span>al3ksandar
+879 - 9322 27 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #9322)</span>
+880 - 10430 27 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5975407?v=3" height="20"/></span>Matthew Cameron
+881 - 18007 27 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-LujNVGSOZOM/AAAAAAAAAAI/AAAAAAAABuM/h7xkbZ3tmRM/photo.jpg" height="20"/></span>Sebastian Greaves
+882 - 32039 27 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #32039)</span>
+883 - 5824 26 <span class="leaderboard-userphoto"></span>ccipriano
+884 - 6961 26 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #6961)</span>
+885 - 10791 26 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-lZLj4M7Mt5Y/AAAAAAAAAAI/AAAAAAAAOYA/yQWmG9C58YQ/photo.jpg" height="20"/></span>noah chen
+886 - 16057 26 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1410675?v=4" height="20"/></span>Kenny K</a>
+887 - 25373 26 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1338?v=4" height="20"/></span>jdknezek</a>
+888 - 466 25 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #466)</span>
+889 - 1694 25 <span class="leaderboard-userphoto"></span>GeoffreyYeung</a>
+890 - 8639 25 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/425646?v=4" height="20"/></span>Biendeo</a>
+891 - 15362 25 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/1619947?v=4" height="20"/></span>marctrem</a>
+892 - 17894 25 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3426917?v=4" height="20"/></span>Daniel O&apos;Brien
+893 - 29606 25 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-xHwVSrkVCUQ/AAAAAAAAAAI/AAAAAAAABMI/iGQXUYX2SEk/photo.jpg" height="20"/></span>Chen-Yu Yang
+894 - 32627 25 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2SfZuAAyaJMZq-dBhvlNIOciEIPH1Plg4dwAdP=s96-c" height="20"/></span>James Bridgwater
+895 - 401 24 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-ONqU-Dclkq0/AAAAAAAAAAI/AAAAAAAAKi4/ASOb-COr4m8/photo.jpg" height="20"/></span>Joe Linhoff
+896 - 4809 24 <span class="leaderboard-userphoto"></span>care89</a>
+897 - 10940 24 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/3013049?v=4" height="20"/></span>Kenneth Ruddick</a>
+898 - 45924 24 <span class="leaderboard-userphoto"></span>klahounator99
+899 - 500 23 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #500)</span>
+900 - 8440 23 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1954346871/image.jpg" height="20"/></span>Horse God
+901 - 12974 23 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9777462?v=4" height="20"/></span>VictiniX888</a>
+902 - 22414 23 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Harry Steel
+903 - 7179 22 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #7179)</span>
+904 - 41290 22 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5564918?v=3" height="20"/></span>James Southard</a>
+905 - 10604 21 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-GHZZjUf9ca4/AAAAAAAAAAI/AAAAAAAACWE/oOYWEkTC_MQ/photo.jpg" height="20"/></span>Martin Mendez</a>
+906 - 26858 21 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2585729?v=4" height="20"/></span>kittychi
+907 - 34129 21 <span class="leaderboard-userphoto"></span>kongui</a>
+908 - 3690 20 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/33716?v=4" height="20"/></span>Itai Ferber</a>
+909 - 10390 20 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3169457?v=4" height="20"/></span>f3ew</a>
+910 - 439 19 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #439)</span>
+911 - 496 19 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Henri Erilaid
+912 - 3361 19 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-t2HPrkwKp9A/AAAAAAAAAAI/AAAAAAAAAkk/NEk3XVcfaTc/photo.jpg" height="20"/></span>Chad Sellers
+913 - 8048 19 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5Q7hecR0f2iDXs011rY52DD_c9PMjenuim5CATMQ=s96-c" height="20"/></span>Ben Greene
+914 - 9850 19 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/6087991?v=4" height="20"/></span>funnymanpatrick
+915 - 16960 19 <span class="leaderboard-userphoto"></span>simplythere
+916 - 55245 19 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GiifN5Oc6aABCIvRdUx4uS7OnSJtnnALvnOYgKt=s96-c" height="20"/></span>Marty Neal
+917 - 503 18 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-T3O7v6LTFC8/AAAAAAAAAAI/AAAAAAAAAAA/Dk19B_jcVBo/photo.jpg" height="20"/></span>Tony Weston
+918 - 928 18 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #928)</span>
+919 - 7256 18 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-myJojZjlw7E/AAAAAAAAAAI/AAAAAAAAASk/bXEh8IdyX24/photo.jpg" height="20"/></span>Tina Femea</a>
+920 - 19403 18 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mAigowZ2icao7_QCMkbkJuudaeWXWuTC66XMZDM" height="20"/></span>Nathaniel Lovin
+921 - 37097 18 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gj-0a9wP_z8yd6cEKbCGwDBBZUc_LyGoIO4Btgm=s96-c" height="20"/></span>Ярослав Свиридов
+922 - 8395 17 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5800001?v=4" height="20"/></span>braaad</a>
+923 - 30613 17 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/705060?v=3" height="20"/></span>jennifersong
+924 - 517 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1982566?v=4" height="20"/></span>sharmashobhit
+925 - 12723 16 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #12723)</span>
+926 - 17866 16 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-i5TIfsVwljc/AAAAAAAAAAI/AAAAAAAAFbY/nwdHU0hJWNE/photo.jpg" height="20"/></span>Klaas Hoekema
+927 - 20625 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13484849?v=4" height="20"/></span>melquiadess
+928 - 25693 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/164016?v=4" height="20"/></span>plecong</a>
+929 - 26444 16 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1400717034854371334/ri5gIktl.jpg" height="20"/></span>@zigdon</a>
+930 - 31141 16 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-ScBF09YHl48/AAAAAAAAAAI/AAAAAAAABgY/bHaddE21-mo/photo.jpg" height="20"/></span>Josiah Stefani
+931 - 34308 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/597936?v=3" height="20"/></span>Consonant Wave
+932 - 53980 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11325389?v=4" height="20"/></span>uint0
+933 - 18382 15 <span class="leaderboard-userphoto"></span>hutsboR</a>
+934 - 25067 15 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/661199?v=4" height="20"/></span>Kyle Hill</a>
+935 - 26873 15 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #26873)</span>
+936 - 30683 15 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2470167?v=4" height="20"/></span>zeniko
+937 - 43496 15 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/547248412576317440/Ox7VULVy.jpeg" height="20"/></span>bryan
+938 - 1387 14 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2410802?v=4" height="20"/></span>Matthias Bilger</a> <a href="/2015/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+939 - 12996 14 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1292956?v=3" height="20"/></span>Adam Brengesjö
+940 - 16869 14 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-wvmto0EMSuY/AAAAAAAAAAI/AAAAAAAAACA/KMkCDA-yzBQ/photo.jpg" height="20"/></span>Elijah Rivera
+941 - 513 13 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/980096?v=4" height="20"/></span>vgel</a>
+942 - 561 13 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #561)</span>
+943 - 5722 13 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/183833?v=4" height="20"/></span>Michael Moussa</a>
+944 - 8447 13 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #8447)</span>
+945 - 10705 13 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #10705)</span>
+946 - 49859 13 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4Fa7s9LPg9sN5tV2MuWIhjDOnuTxasMhfCKgwSHw=s96-c" height="20"/></span>Thomas Sievert
+947 - 68064 13 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1231792?v=3" height="20"/></span>Tristan Stanley
+948 - 4701 12 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5Fo5FD8mCMw3qFYYAk_rQk0XZ9FK3vF1ckMyKq_w=s96-c" height="20"/></span>Evan Ackmann
+949 - 6835 12 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Sergio Adrian Lagunas Pinacho
+950 - 10184 12 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12383343?v=3" height="20"/></span>ch4s1ngs4nity</a>
+951 - 512 11 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7691547?v=4" height="20"/></span>Fredrik A. Madsen-Malmo</a>
+952 - 6044 11 <span class="leaderboard-userphoto"></span>QuadDrummer
+953 - 22440 11 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0Zs9-3yJIvaXRk6YScT0ylLBzqZ1ooGdODuLxSCg=s96-c" height="20"/></span>Mark Zorn
+954 - 29179 11 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/954072?v=3" height="20"/></span>jsachs</a>
+955 - 35520 11 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/82970?v=4" height="20"/></span>mjhanninen
+956 - 7318 10 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6187460?v=4" height="20"/></span>natessilva</a>
+957 - 17475 10 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-IcON4VQhdfY/AAAAAAAAAAI/AAAAAAAAAEk/ByVJ2D97d8Y/photo.jpg" height="20"/></span>Tomás Ferreira
+958 - 20905 10 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1TFm-vN89se3XxrNtdGUeuDVuxmO9fdmXBrD_Leg=s96-c" height="20"/></span>Tom Davies
+959 - 22742 10 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/458790225158754304/sKcf4OEd.png" height="20"/></span>Lewis Tolonen</a>
+960 - 25776 10 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Andrew Benson
+961 - 15816 9 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-7hODC-uJinI/AAAAAAAAAAI/AAAAAAAAzxs/QADg1rJ5xl4/photo.jpg" height="20"/></span>Mark Robinson</a>
+962 - 524 8 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #524)</span>
+963 - 9485 8 <span class="leaderboard-userphoto"></span>_ImComp
+964 - 14216 8 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-IoUppp3ajU0/AAAAAAAAAAI/AAAAAAAAAWU/bZSAvmUYEX4/photo.jpg" height="20"/></span>Kyle Clemens
+965 - 21036 8 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-l3YmWJ8DmZ4/AAAAAAAAAAI/AAAAAAAAASk/zuDn0cAGhVA/photo.jpg" height="20"/></span>Andrew Grabish</a>
+966 - 36622 8 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/374616?v=4" height="20"/></span>Simon Rozsival</a>
+967 - 478 7 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #478)</span>
+968 - 487 7 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9649003?v=3" height="20"/></span>SirSoltex
+969 - 1927 7 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/8922125?v=4" height="20"/></span>Henry Zhang</a>
+970 - 4328 7 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6446911?v=3" height="20"/></span>Cara</a>
+971 - 10029 7 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/300588?v=4" height="20"/></span>Heinrich Lee Yu</a>
+972 - 10711 7 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/1770590?v=4" height="20"/></span>Jon Goodger</a>
+973 - 20551 7 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/565558?v=4" height="20"/></span>TheDgtl
+974 - 22082 7 <span class="leaderboard-userphoto"></span>Blueyleader
+975 - 26664 7 <span class="leaderboard-userphoto"></span>RoamingFox</a>
+976 - 435 6 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #435)</span>
+977 - 507 6 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>mikro86000
+978 - 7523 6 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3RGp7DfWzbzQYOBt49ojVGWI29Q3v46N5U1A39=s96-c" height="20"/></span>Andre da Rosa
+979 - 8736 6 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/5940385?v=4" height="20"/></span>Alex Haldeman</a>
+980 - 13707 6 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1843193?v=4" height="20"/></span>Robin Schroer</a>
+981 - 17864 6 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJy95vvB3D9UPxSO5808uv8SucZDNxlyFJz2Joeu=s96-c" height="20"/></span>Nicholas Aelick
+982 - 30206 6 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/193530?v=4" height="20"/></span>jchook</a>
+983 - 66806 6 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2998978?v=4" height="20"/></span>Kenneth Lareau</a>
+984 - 484 5 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/167394?v=4" height="20"/></span>Jonas Bülow
+985 - 525 5 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #525)</span>
+986 - 5218 5 <span class="leaderboard-userphoto"></span>mwr247
+987 - 9180 5 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/10967207?v=4" height="20"/></span>JFitzMan</a>
+988 - 16003 5 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-6IHrjxyrxqU/AAAAAAAAAAI/AAAAAAAARMk/3UHzUqzGAGk/photo.jpg" height="20"/></span>Adolfas Lapsys
+989 - 29248 5 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Ghy8ap8lZtxJGMCxfZ6f2QtYCn4SdAH9eVEV2Bb=s96-c" height="20"/></span>Dave Gwilt
+990 - 31229 5 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/5950007?v=4" height="20"/></span>zigadolar</a>
+991 - 32610 5 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-DUrt975Gv_c/AAAAAAAAAAI/AAAAAAAAdgI/-ip31a3Eezo/photo.jpg" height="20"/></span>Zhongfu Li
+992 - 41868 5 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/8664776?v=4" height="20"/></span>mathiasvr
+993 - 452 4 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mDWiZ_3qkiiPdJwmSTaJ7MAVkUJALGJeaVc2_G9Fg" height="20"/></span>Seshadri R
+994 - 8720 4 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7552754?v=4" height="20"/></span>MetaSean</a>
+995 - 22182 4 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5422246?v=3" height="20"/></span>Eric Kolbusz</a>
+996 - 26759 4 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2qodugzEeik_1dLoIV43mkRszJBT4ZhCWUhgMY=s96-c" height="20"/></span>tinau n.
+997 - 28741 4 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/220325?v=3" height="20"/></span>phill-tornroth</a>
+998 - 30426 4 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #30426)</span>
+999 - 66846 4 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhVeUkhZVCO3y_KyZgfOTk5NKs3wJyVm_Wt6acIMA=s96-c" height="20"/></span>James Fung
+1000 - 534 3 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3589197?v=3" height="20"/></span>osguosgu</a>
+1001 - 10387 3 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5573082?v=4" height="20"/></span>ChevyRay</a>
+1002 - 18197 3 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4315830?v=3" height="20"/></span>gmarquez727</a>
+1003 - 51205 3 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #51205)</span>
+1004 - 67100 3 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1063623?v=3" height="20"/></span>Nifter
+1005 - 472 2 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Robert Mendel
+1006 - 6754 2 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3442554?v=3" height="20"/></span>Sebastian Sarbora
+1007 - 10871 2 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1489958?v=4" height="20"/></span>Corey
+1008 - 17997 2 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp79FyiBrpQczRW2N5E9mDAFcxE7OAf6f6lt4bEtNw=s96-c" height="20"/></span>Patrick Braasch
+1009 - 19451 2 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6WcCYE8RLaNBiMknbz5pudvwxmus7k496o6gXgYg=s96-c" height="20"/></span>Guido Moonen
+1010 - 22750 2 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-dNPFB7_Gnpw/AAAAAAAAAAI/AAAAAAAAB6w/YSjTvu3giwc/photo.jpg" height="20"/></span>Antti Kangasrääsiö
+1011 - 29362 2 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/556782?v=4" height="20"/></span>ryantan</a>
+1012 - 40482 2 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/649117?v=4" height="20"/></span>bretik
+1013 - 46113 2 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-kWWMIFKtRag/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iF4ciNl4n0wkY6qw7dkrkjOfBN1A/mo/photo.jpg" height="20"/></span>Aaron Keller
+1014 - 540 1 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #540)</span>
+1015 - 1475 1 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/613331?v=4" height="20"/></span>xPaw</a>
+1016 - 3579 1 <span class="leaderboard-userphoto"></span>leSpectre
+1017 - 5707 1 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4951211?v=4" height="20"/></span>Ken Giroux</a>
+1018 - 5757 1 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg" height="20"/></span>Mitch Keenan
+1019 - 11071 1 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9980985?v=4" height="20"/></span>kradical</a>
+1020 - 27042 1 <span class="leaderboard-userphoto"></span>Exolent</a>
+1021 - 67088 1 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJxt-Z8BuCAvAE3EPEB0Y-eLRtggJ6y5_qU-qA1r=s96-c" height="20"/></span>Matthew Semeniuk

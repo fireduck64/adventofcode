@@ -18,11 +18,6 @@ public class Nav
   {
     return new Point(in.y, -in.x);
   }
-
-  public static Point rev(Point in)
-  {
-    return new Point(-in.x, -in.y);
-  }
   
 
 }
