@@ -1,0 +1,912 @@
+Running 2019
+Total users: 910
+1 - 32289 3590 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3482833?v=4" height="20"/></span>betaveros</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+2 - 409962 3373 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/548160?v=4" height="20"/></span>David Wahler</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+3 - 67806 3173 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1028734?v=4" height="20"/></span>jonathanpaulson</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+4 - 213366 3159 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/364357?v=4" height="20"/></span>zielmicha</a>
+5 - 475191 3124 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1878074?v=4" height="20"/></span>bluepichu</a>
+6 - 415650 3009 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2389333?v=4" height="20"/></span>tckmn</a>
+7 - 20757 2956 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6820?v=4" height="20"/></span>Sophie Alpert</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+8 - 133207 2882 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/75449?v=4" height="20"/></span>Robert Xiao</a>
+9 - 219649 2645 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7Rt7cQqd8Ta8dZNgit-cjOUveg6BoNZ13Ytt-rjA=s96-c" height="20"/></span>Kevin Sun
+10 - 43100 2569 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12164?v=4" height="20"/></span>glguy</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+11 - 26414 2541 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/178065?v=4" height="20"/></span>mserrano
+12 - 379846 2442 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6179181?v=4" height="20"/></span>Nathan Fenner</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+13 - 436445 2099 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11429656?v=4" height="20"/></span>nthistle</a>
+14 - 75249 2064 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/346181?v=4" height="20"/></span>petertseng</a>
+15 - 122283 2040 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2865426?v=4" height="20"/></span>Tom Holmes</a>
+16 - 237486 1906 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7867810?v=4" height="20"/></span>ZED.Charley William Thairo
+17 - 672438 1805 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/12903942?v=4" height="20"/></span>Fengyang Wang</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+18 - 684990 1684 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6Rf0k5I5iJkIzBHbP6x6szW3reYjdke_LAIXyq=s96-c" height="20"/></span>D. Salgado
+19 - 670534 1634 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1631691?v=4" height="20"/></span>Tomas Rokicki</a>
+20 - 237700 1631 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mBpQZY5NAqTVNKWpLyhm8WY9nggp4bo07XftbgZ" height="20"/></span>Ben Mirtchouk
+21 - 725826 1623 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/72895?v=4" height="20"/></span>George Hotz</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+22 - 396551 1601 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2422716?v=4" height="20"/></span>ttalvitie</a>
+23 - 433725 1597 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/666011?v=4" height="20"/></span>pbfy0</a>
+24 - 614948 1592 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/56802914?v=4" height="20"/></span>Alexander Haupt</a>
+25 - 638222 1547 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #638222)</span>
+26 - 7253 1521 <span class="leaderboard-userphoto"></span>etotheipi1
+27 - 202828 1492 <span class="leaderboard-userphoto"></span>vash3r
+28 - 645723 1492 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/55513173?v=4" height="20"/></span>m-schm</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+29 - 225419 1485 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/19309705?v=4" height="20"/></span>Benedikt Werner</a>
+30 - 242646 1467 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp44-xyWK8DrTruL4cIBsrUIsbe2KhOMufqf0eZl6g=s96-c" height="20"/></span>Matt Gruskin <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+31 - 5528 1465 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1037028?v=4" height="20"/></span>orez-</a>
+32 - 306019 1465 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3887189?v=4" height="20"/></span>Kye W. Shi</a>
+33 - 688160 1456 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3837873?v=4" height="20"/></span>leijurv</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+34 - 671730 1450 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12376116?v=4" height="20"/></span>Anish Singhani</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+35 - 131267 1418 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10119536?v=4" height="20"/></span>ethframe</a>
+36 - 111831 1391 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/23281929?v=4" height="20"/></span>jebouin</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+37 - 453034 1381 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2568722?v=4" height="20"/></span>Epiphane</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+38 - 381635 1365 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjY1S_6pBXdRF7lEtss2ghAqhj2-VZix51cBkDPTw=s96-c" height="20"/></span>Ethan Morgan <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+39 - 484659 1365 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/79941?v=4" height="20"/></span>Craig Gidney</a>
+40 - 44119 1361 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #44119)</span>
+41 - 198289 1349 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/34147627?v=4" height="20"/></span>LukasGelbmann</a>
+42 - 245265 1345 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/548628?v=4" height="20"/></span>gengkev</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+43 - 223377 1338 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1239097?v=4" height="20"/></span>bcc32</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+44 - 144826 1335 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/17862382?v=4" height="20"/></span>Sam Cappleman-Lynes
+45 - 642453 1333 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2tM6FJsT1SlksLe-4MHqBXZ6jNUyjmdRKtaplcAKE=s96-c" height="20"/></span>Jimmy Mårdell <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+46 - 697054 1325 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0w9y_EsBO6PFyEChlz6tLbs9Xhh3gK-yICPWY-Eg=s96-c" height="20"/></span>Cyprien Mangin
+47 - 190115 1323 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/461009?v=4" height="20"/></span>Martin Camacho</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+48 - 410105 1320 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4411471?v=4" height="20"/></span>Matthew Ramina</a>
+49 - 223257 1310 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/540516549035978752/uxSXOmKr.png" height="20"/></span>mcpower</a>
+50 - 18780 1301 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/92814?v=4" height="20"/></span>Jouni K. Seppänen</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a> <a href="https://www.reaktor.com/advent-of-code" target="_blank" onclick="if(ga)ga('send','event','sponsor','badge',this.href);" class="sponsor-badge" title="Member of sponsor: Reaktor">(Sponsor)</a>
+51 - 62993 1294 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1459067?v=4" height="20"/></span>Green Lightning</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+52 - 632862 1293 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/96022003?v=4" height="20"/></span>GregorKikelj</a>
+53 - 379289 1282 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5WA2RB7-lb_XMudrwyq759-feHBABf9auyzE94xA=s96-c" height="20"/></span>Erik Amirell Eklöf (Eae02)
+54 - 312956 1264 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6169306?v=4" height="20"/></span>Søren Fuglede Jørgensen</a>
+55 - 223764 1238 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/87427?v=4" height="20"/></span>Joshua Wise <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+56 - 691122 1236 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/18634257?v=4" height="20"/></span>Max Murin
+57 - 767401 1226 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-WODZ-DLl14Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjjmmUaw_9FKFHgPZ1_p7KOgtgsg/s96-c/photo.jpg" height="20"/></span>Lovemathboy H
+58 - 127306 1222 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4pCrbkStiINbN1VfOlFqiVMtYaiKbjFsTgKgkV=s96-c" height="20"/></span>Colton Pauderis <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+59 - 218680 1220 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/558826?v=4" height="20"/></span>sparkyb</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+60 - 28933 1186 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/499?v=4" height="20"/></span>Magnus Holm</a>
+61 - 50802 1159 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2434728?v=4" height="20"/></span>Kevin Yap</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+62 - 528121 1104 <span class="leaderboard-userphoto"></span>seligman99</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+63 - 10135 1102 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1LWuVWjCoMnibndN-M39Op1n-w3TKSLjQ-F9IAins=s96-c" height="20"/></span>Max Jäger <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+64 - 55305 1093 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5595067?v=4" height="20"/></span>Unihedron</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+65 - 11133 1084 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/340349?v=4" height="20"/></span>msullivan</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+66 - 610124 1073 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/1411280?v=4" height="20"/></span>ExpHP</a>
+67 - 135109 1068 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5678977?v=4" height="20"/></span>tbodt</a>
+68 - 375036 1054 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/35673674?v=4" height="20"/></span>alcatrazEscapee</a>
+69 - 60233 1047 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #60233)</span> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+70 - 336680 1038 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3EkU6BF06zDTi1N7QvqU5SJuTpFmflMdhiDUb4=s96-c" height="20"/></span>val tron
+71 - 662281 1031 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6qq5Gs10cTpELjsujC1UPn4mFoqJrGFbPdjqtkjQ=s96-c" height="20"/></span>Holden Watson
+72 - 388898 1029 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/23331326?v=4" height="20"/></span>Jennifer Zhou</a>
+73 - 406017 1029 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1KbTDVQhSOBroPHMILhYQXKB8UzEoLht9LinRh=s96-c" height="20"/></span>Erik Szalay
+74 - 264367 998 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/34116799?v=4" height="20"/></span>awychong
+75 - 673759 959 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4179698?v=4" height="20"/></span>andy-k
+76 - 768531 944 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/575555?v=4" height="20"/></span>Yoshiap
+77 - 81519 935 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/819253?v=4" height="20"/></span>Matt Bradley</a>
+78 - 231141 922 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16487249?v=4" height="20"/></span>Starwort</a>
+79 - 388409 920 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/250171?v=4" height="20"/></span>mikecheb
+80 - 427936 910 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4Hs55lw8huJjZ5gop_ic5ZP41otuVjKo22vOTk=s96-c" height="20"/></span>Waffle
+81 - 189723 899 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1818806?v=4" height="20"/></span>Joel Jonsson</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+82 - 223928 889 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1139798?v=4" height="20"/></span>Kevin Wang</a>
+83 - 402645 888 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #402645)</span>
+84 - 27281 879 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6J19E1oTvyiMmJ8kT2NONkCwJdJFlt6rx-jR543rQ=s96-c" height="20"/></span>Andrey Anurin <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+85 - 399258 853 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/39479354?v=4" height="20"/></span>katrinafyi</a>
+86 - 63880 852 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/17294527?v=4" height="20"/></span>sburuiana</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+87 - 191560 848 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/520208?v=4" height="20"/></span>Michael Fogleman</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+88 - 225218 843 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7brpSSD70VxWzOo9QpVSlU0qb_mvZQT-7oOsng=s96-c" height="20"/></span>Jerry Chen
+89 - 49064 842 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1123113?v=4" height="20"/></span>Lance Nathan
+90 - 379211 836 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0YZcf5-CyeqvNpBd_lZTWnBsfsEn-a2XhoaLYrHg=s96-c" height="20"/></span>Sahil Kochar
+91 - 146539 825 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4406927?v=4" height="20"/></span>Chris Mohr</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+92 - 644999 825 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp62A6Lw3zVnVCDQHlOcyih4w8tleVjRHOZI-y9q=s96-c" height="20"/></span>Bartosz Szreder
+93 - 404885 810 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1868537?v=4" height="20"/></span>penteract</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+94 - 627919 805 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1PFz0DG3nTPvMTEyYApxUm5ujiPc7_k9kL-8ET=s96-c" height="20"/></span>Graham White
+95 - 107707 798 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2479779?v=4" height="20"/></span>Måns Magnusson</a>
+96 - 198796 797 <span class="leaderboard-userphoto"></span>VeeArr <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+97 - 230381 793 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #230381)</span>
+98 - 59546 791 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1093?v=4" height="20"/></span>jamie</a>
+99 - 423621 779 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7889478?v=4" height="20"/></span>Kroppeb</a>
+100 - 484627 779 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6634592?v=4" height="20"/></span>MarshallOfSound</a>
+101 - 217709 765 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/131752?v=4" height="20"/></span>jhawthorn</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+102 - 380 749 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #380)</span>
+103 - 125866 746 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7225023?v=4" height="20"/></span>Kate Miháliková</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+104 - 16122 728 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3874909?v=4" height="20"/></span>Jonathan Rupp</a>
+105 - 662958 717 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1u-XxPKLsxxXobvh2NEVXVuDHKozEgwiOh9BHw0g=s96-c" height="20"/></span>Robert Tupelo-Schneck
+106 - 135675 714 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5026610?v=4" height="20"/></span>sguest</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+107 - 287 707 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gjfs47slyY6yRHGCSVcYDVFLnxsXz5tmBbr5wg15Q=s96-c" height="20"/></span>Igor Naverniouk <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+108 - 137936 704 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/541703?v=4" height="20"/></span>drougge</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+109 - 196064 704 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6919679?v=4" height="20"/></span>crazymerlyn</a>
+110 - 157545 682 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1r1IG72UBT7eqwg_fR_15VOUzIwuIt2p-4jefl0w=s96-c" height="20"/></span>Snild Dolkow
+111 - 65847 677 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0k0x0sulrPRnuDIIbSfBk0qCm6R2aIBbnmyRzpAA=s96-c" height="20"/></span>Niak
+112 - 120259 667 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/240689?v=4" height="20"/></span>Emily Dobervich
+113 - 642117 663 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/58968312?v=4" height="20"/></span>iTODDLERS-BTFO</a>
+114 - 430902 660 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/345106?v=4" height="20"/></span>Ryan Fitzgerald</a>
+115 - 664459 650 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/52200199?v=4" height="20"/></span>coolcomputery</a>
+116 - 201408 648 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2904179?v=4" height="20"/></span>Tim Vermeulen</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+117 - 34755 643 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14237?v=4" height="20"/></span>jtbandes</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+118 - 726210 641 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4053256?v=4" height="20"/></span>12Me21
+119 - 190750 640 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16310013?v=4" height="20"/></span>HiggstonRainbird</a>
+120 - 152371 638 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-HoDEorQkRBs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnV_on7WytqzWfyz-oFjQGsCOoxLA/s96-c/photo.jpg" height="20"/></span>Andreas Hansson
+121 - 632609 627 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4QJTYqe-K-UO8779RlflDCYIPqsCKzHEfcwbFJ=s96-c" height="20"/></span>Paul Martinez <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+122 - 309740 610 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6611767?v=4" height="20"/></span>Adam Gausmann</a>
+123 - 396788 610 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/45511102?v=4" height="20"/></span>msc-27</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+124 - 492493 601 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/16006418?v=4" height="20"/></span>Liresol
+125 - 40915 597 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/406019?v=4" height="20"/></span>nshepperd</a>
+126 - 209179 593 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9626750?v=4" height="20"/></span>AleksMat</a>
+127 - 30280 579 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3344749?v=4" height="20"/></span>lukechampine</a>
+128 - 226479 576 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3620166?v=4" height="20"/></span>Ryan Norris</a>
+129 - 278817 567 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/31418520?v=4" height="20"/></span>James Arruda
+130 - 21176 565 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6ihgMPrlB2HJUIr-Dx4RiTbQDfkvIK6DWErDnZ=s96-c" height="20"/></span>Matthew Reeder
+131 - 636757 547 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjlD4BQAoxNyoiGTC9tasadUkjbcPjtzbJX3LoD=s96-c" height="20"/></span>Chris Trevisan
+132 - 122818 544 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3654371?v=4" height="20"/></span>Michael Goldwasser
+133 - 646498 538 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/425576?v=4" height="20"/></span>akalin</a>
+134 - 798131 538 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #798131)</span>
+135 - 485887 535 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu39O816xPyI9Efu49563wckJ-eH0CayKSysd8Uyhw=s96-c" height="20"/></span>Edward Keyes <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+136 - 378382 529 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-JSXmJZgEV9o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnXymTHNX0dFnlGg35ju1RwqyyZ3Q/s96-c/photo.jpg" height="20"/></span>Tom Sirgedas
+137 - 129611 514 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/13740658?v=4" height="20"/></span>Arios16</a>
+138 - 386554 509 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8737544?v=4" height="20"/></span>dan144</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+139 - 646032 508 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2813482?v=4" height="20"/></span>awesomelemonade</a>
+140 - 195356 502 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mAoFtHMgQSPf3N8YCaJrK9aTCiAEePORj-HJf2YGg" height="20"/></span>Nathan Shirley
+141 - 357720 502 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8326135?v=4" height="20"/></span>0e4ef622</a>
+142 - 614032 502 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/22699619?v=4" height="20"/></span>smartspot2
+143 - 749862 500 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3197784?v=4" height="20"/></span>cjquines</a>
+144 - 11083 499 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/458997?v=4" height="20"/></span>gwillen</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+145 - 658246 499 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4920043?v=4" height="20"/></span>the-glu
+146 - 390776 493 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/42644678?v=4" height="20"/></span>bradleysigma
+147 - 289309 492 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #289309)</span>
+148 - 118243 491 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/833004?v=4" height="20"/></span>Eric Tzeng
+149 - 529249 489 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5766101?v=4" height="20"/></span>huzecong</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+150 - 824705 489 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6wydT77pi1XrbZ24X5DOyYWYIXv3nOUQqYuomQ=s96-c" height="20"/></span>Mathias Bæk Tejs Langhede
+151 - 369390 480 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu14WXAawnUM0eAeOPkDH2sOWNzm_kxaX3dAcHtC=s96-c" height="20"/></span>Tautvydas Žilys
+152 - 30676 479 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2049910?v=4" height="20"/></span>tomtheisen</a>
+153 - 685733 474 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #685733)</span>
+154 - 385555 470 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2p_jQuSjf0TXwggHlyQ_GH7n8OTa2WWOkqAP5Wfg=s96-c" height="20"/></span>Alex Cornellier
+155 - 422805 464 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/18756274?v=4" height="20"/></span>kajott</a>
+156 - 618035 462 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #618035)</span>
+157 - 104042 461 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11085886?v=4" height="20"/></span>angus-g <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+158 - 638564 455 <span class="leaderboard-userphoto"></span>hltk
+159 - 733186 451 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #733186)</span>
+160 - 295988 449 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7057803?v=4" height="20"/></span>pkktino
+161 - 716964 447 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/29011570?v=4" height="20"/></span>Peter Han</a>
+162 - 350318 443 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/37204445?v=4" height="20"/></span>icicl
+163 - 3397 438 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1646546?v=4" height="20"/></span>Rustywolf
+164 - 777015 433 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6H1Es2HpgALWi1zbEgEU_uKv4Q5Iqkc4WqCGOMyg=s96-c" height="20"/></span>Oleg Rudenko
+165 - 144111 428 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/839071?v=4" height="20"/></span>Nick Frost</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+166 - 418553 428 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3401028?v=4" height="20"/></span>ruuddotorg
+167 - 669130 426 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/771072?v=4" height="20"/></span>msg555
+168 - 299566 422 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13069724?v=4" height="20"/></span>Zeyu Chen</a>
+169 - 390615 421 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #390615)</span>
+170 - 638005 421 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7739220?v=4" height="20"/></span>sswingle</a>
+171 - 243316 420 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12855406?v=4" height="20"/></span>mingmingrr
+172 - 117467 419 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6750671?v=4" height="20"/></span>Springo</a>
+173 - 308033 419 <span class="leaderboard-userphoto"></span>Kragnir
+174 - 746374 417 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/102631?v=4" height="20"/></span>epriestley</a>
+175 - 646179 413 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5400608?v=4" height="20"/></span>joefarebrother</a>
+176 - 66333 411 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0wo3vFXRgjCEtfTiibPy2Y4tFIbgu9TTaAO9bgQQ=s96-c" height="20"/></span>Zack Chroman
+177 - 198392 411 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #198392)</span>
+178 - 772148 411 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/20607141?v=4" height="20"/></span>Joey Marianer</a>
+179 - 12457 409 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/189723?v=4" height="20"/></span>Shane Mc Cormack</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+180 - 681002 409 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/17954071?v=4" height="20"/></span>mateoeh</a>
+181 - 379281 404 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjzwUmODMtEn0xAY2wl6U4zjuPmUIoFmxKCKP7yfQ=s96-c" height="20"/></span>Han Mertens
+182 - 770850 403 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6183894?v=4" height="20"/></span>jorisvr</a>
+183 - 514396 395 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5413757?v=4" height="20"/></span>connorjayr</a>
+184 - 633947 392 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-p_QW8CAx7Vc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdyTPj9BI_ZWFIZqJh92rJLXnnpvw/photo.jpg" height="20"/></span>Jarik Rens
+185 - 384404 391 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5QaB8cZgnomH9ug7FuojvZtLDAZoZe_iXNy-a7rQ=s96-c" height="20"/></span>Samu Jussila
+186 - 260995 390 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #260995)</span>
+187 - 739445 389 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/726075?v=4" height="20"/></span>Neal Wu</a>
+188 - 128058 386 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0xFCZX7WlGv4xu3ZvlidVagcLZYOy2V9FsfLb4=s96-c" height="20"/></span>Elmer Le
+189 - 31339 385 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/522718?v=4" height="20"/></span>Daniel Rejment</a>
+190 - 235780 382 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/23408775?v=4" height="20"/></span>Ikusaba-san</a>
+191 - 220633 369 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp59jXxWsURIFrsI145g4WCgfaN9ocoqIh1LAvYM=s96-c" height="20"/></span>Daniel Taylor
+192 - 385893 366 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #385893)</span>
+193 - 645585 364 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/25856165?v=4" height="20"/></span>Ivan Galakhov</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+194 - 193250 359 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/2236303?v=4" height="20"/></span>sdamashek</a>
+195 - 637980 357 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/9996642?v=4" height="20"/></span>Kaynato</a>
+196 - 389935 351 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10405276?v=4" height="20"/></span>Gabriel Kanegae</a>
+197 - 47678 348 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/14932247?v=4" height="20"/></span>ethankward
+198 - 57185 348 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9122409?v=4" height="20"/></span>Angrevol
+199 - 724353 344 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-gyf4N2tFPsc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMb0-MIKqHaAKB3J-2mBrv8UAl9w/s96-c/photo.jpg" height="20"/></span>Sahil Bhasin
+200 - 844989 344 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/891109?v=4" height="20"/></span>peter50216</a>
+201 - 435163 339 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4056819?v=4" height="20"/></span>jeremyyap</a>
+202 - 609841 339 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7KMLoddAKPrHlLsmi9dh2DHkk4n4PHxmyRhW18=s96-c" height="20"/></span>Arrowbounce
+203 - 189885 335 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1736001?v=4" height="20"/></span>Sampriti Panda</a>
+204 - 25282 334 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6867226?v=4" height="20"/></span>Roderic Day</a>
+205 - 622449 333 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5uwNK182fC4FLDBbAhhbnVA0o7mp_gTNOwxUpB=s96-c" height="20"/></span>Chad Keever
+206 - 142152 332 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/283361?v=4" height="20"/></span>jorendorff</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+207 - 30288 331 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/568036?v=4" height="20"/></span>Asger Hautop Drewsen</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+208 - 640283 330 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4323933?v=4" height="20"/></span>ncfavier</a>
+209 - 286524 328 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5RbrwjJkqcfdr7lPQxIw-YJwz1t8QhIixZz_CS=s96-c" height="20"/></span>Thomas Feld
+210 - 685385 328 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1319079?v=4" height="20"/></span>Victor Pontis</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+211 - 360786 327 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1BYSnkWWaVEXQMfcCDB19rFOQW-AIoXuDz1EsN2w=s96-c" height="20"/></span>Winston Ewert
+212 - 676690 324 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mAxEmBKI0fK6gB7kz-TOdkFV1TgLkgjRJb9b3Pi_Pw" height="20"/></span>Timothy Aveni
+213 - 233439 321 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #233439)</span>
+214 - 384684 319 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4uzStsojMA912msvra6S2F9KkeCrIvtUe1BzV2aw=s96-c" height="20"/></span>Michael Grossfeld
+215 - 535916 318 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/58273?v=4" height="20"/></span>Elliot Nelson</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+216 - 766511 316 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5kl_M5MhO3EFIH-Vi-5Eu1vGkQuZkEiF71-IC9=s96-c" height="20"/></span>Javier Marinkovic
+217 - 18180 312 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #18180)</span>
+218 - 678753 309 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #678753)</span>
+219 - 204638 308 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #204638)</span> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+220 - 370231 308 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4tqTJfTxv9bRpfAgZz3ArbPFs4LbFMMpNPAzPqDQ=s96-c" height="20"/></span>Matthew Ellsworth
+221 - 402840 303 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2553960?v=4" height="20"/></span>Maciej Goszczycki</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+222 - 371564 298 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1810591?v=4" height="20"/></span>asottile</a>
+223 - 493803 297 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6vrWt8lONYZHH_6gB_sfUuEDi9mMOL4HcscP89=s96-c" height="20"/></span>Brian Bucklew <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+224 - 513100 291 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5386360?v=4" height="20"/></span>twattanawaroon
+225 - 390757 282 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5248800?v=4" height="20"/></span>Matthew Merrill</a>
+226 - 117490 281 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/292714?v=4" height="20"/></span>Alexander Udalov</a>
+227 - 680872 279 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #680872)</span>
+228 - 312411 277 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/17090342?v=4" height="20"/></span>skyhawk33
+229 - 355 273 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6210567?v=4" height="20"/></span>malisper</a>
+230 - 641894 264 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14135445?v=4" height="20"/></span>scaredginger
+231 - 418792 261 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1007628?v=4" height="20"/></span>jcmoyer</a>
+232 - 627160 260 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-dxYjff5myv4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf8nNs89rmY9LTsog2J9JAmnWJdhA/photo.jpg" height="20"/></span>Kevin Yim
+233 - 6298 259 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp52y3b7MJBgJTVsgiPOHsiqm-XCqZSHVhq3ueCu4w=s96-c" height="20"/></span>Branimir Filipović
+234 - 123699 259 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1362321?v=4" height="20"/></span>bwakell</a>
+235 - 511139 253 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1692150?v=4" height="20"/></span>Sviridov Sergey</a>
+236 - 111418 251 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1057382?v=4" height="20"/></span>ephemient</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+237 - 15797 250 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0BcK6OU0D5Uutf8cn50sUmA0eLz1kPIaG9qbno=s96-c" height="20"/></span>Samo Kralj
+238 - 375777 249 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3128220?v=4" height="20"/></span>m4tx</a>
+239 - 826427 248 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/297425?v=4" height="20"/></span>jes</a>
+240 - 410460 246 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1157323?v=4" height="20"/></span>Santiclause</a>
+241 - 587072 246 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mBKPYBAzfReYtz48R2SET3F5x8fOt_yym2-Rhsu" height="20"/></span>Jonathan Skeate
+242 - 189170 245 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1820515?v=4" height="20"/></span>ben blum</a>
+243 - 102628 240 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8639?v=4" height="20"/></span>kejadlen</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+244 - 456088 235 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/156585?v=4" height="20"/></span>Barret Rennie</a>
+245 - 5992 233 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1087928?v=4" height="20"/></span>GlenboLake
+246 - 111208 233 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhPdC50oJQ4JC1SQQhHbbD4bflui1f94MPmzbtjrw=s96-c" height="20"/></span>Eric Yang
+247 - 382466 233 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/246003?v=4" height="20"/></span>Patrick Johannessen</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+248 - 113400 231 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8829008?v=4" height="20"/></span>kacredolo</a>
+249 - 289486 231 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #289486)</span>
+250 - 157774 230 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2216177?v=4" height="20"/></span>leaen
+251 - 194064 227 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #194064)</span>
+252 - 446701 226 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/22255669?v=4" height="20"/></span>Tyler Zhang
+253 - 713098 226 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4kzf78-VYE8ljnsYf_pOQkrIUHvYLUhpy1U2Ey=s96-c" height="20"/></span>Matthew Everett <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+254 - 642668 225 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GgzJPvkrn9gb9T4-rnscWZCOSk1i4-UI2KckX4T=s96-c" height="20"/></span>Jinpyo Kim
+255 - 725862 225 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1216545237465739264/h3viLvej.jpg" height="20"/></span>Chris Lambert</a>
+256 - 587077 220 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4155748?v=4" height="20"/></span>HansAnonymous</a>
+257 - 359649 219 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4bANbDncrBjw68hBrvK2swif1RLQeuZt56W1c-Xg=s96-c" height="20"/></span>daviecar
+258 - 764791 219 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJxTkkT6vFL8ZmKs59UPm2s0X1bB1j3iLlTc7skg=s96-c" height="20"/></span>Ed j
+259 - 401699 218 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJwQgY8FWN2RG9X_nBKmeAC328wtiXiBDMo96bkM=s96-c" height="20"/></span>Keypad SDM
+260 - 334314 217 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #334314)</span>
+261 - 766126 217 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7518432?v=4" height="20"/></span>Matias Goldfeld
+262 - 676217 216 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #676217)</span>
+263 - 404779 212 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6010774?v=4" height="20"/></span>pfg</a>
+264 - 112827 210 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/777453?v=4" height="20"/></span>Toni Fadjukoff <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+265 - 402456 206 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/19439952?v=4" height="20"/></span>iainireland</a>
+266 - 65338 205 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2427681?v=4" height="20"/></span>Oleg Godovykh</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+267 - 497477 205 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/12466961?v=4" height="20"/></span>matystroia</a>
+268 - 386588 204 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Ggz3MjoAYYVSFHDPq5Q-BxcTbeBaBpVoHOVZpIhkg=s96-c" height="20"/></span>RJ Walsh
+269 - 76087 202 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2256129?v=4" height="20"/></span>Stovoy</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+270 - 78494 202 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gg3drU04vENQ3gjjak3-ipTD6MJI4AvBn5O4n2K=s96-c" height="20"/></span>John Cornwell
+271 - 236605 201 <span class="leaderboard-userphoto"></span>zergling_Lester
+272 - 722674 201 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4107323?v=4" height="20"/></span>Lewin Gan</a>
+273 - 189889 200 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/489021?v=4" height="20"/></span>Leon Loopik</a>
+274 - 358180 198 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/35517309?v=4" height="20"/></span>James Jiang
+275 - 420872 198 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/374898?v=4" height="20"/></span>nigelzor
+276 - 206784 196 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1344958?v=4" height="20"/></span>StijnSlot</a>
+277 - 246889 195 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5800980?v=4" height="20"/></span>Cameron Aavik</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+278 - 790743 192 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJyyaFxvJbPLULc1m5crWomA_CypILI6bCB6yMpJ=s96-c" height="20"/></span>Chris Whittle
+279 - 143586 191 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Ghu52OyEFtSH2V13rKu_adq9X_JrvL56yteR6UJa2w=s96-c" height="20"/></span>Kyle Lemons
+280 - 5588 190 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6lkjwJGFMNULq5xE7vDJU52rMqH49ufLzv39zBSA=s96-c" height="20"/></span>Matija Herceg <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+281 - 652390 190 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1RTLhIMzEjKsMIbMIy12N_mG4myYaRpVM29AFj=s96-c" height="20"/></span>Michael Broughton
+282 - 450819 189 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/33557709?v=4" height="20"/></span>hughcoleman</a>
+283 - 147180 186 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/187815?v=4" height="20"/></span>Justin Le</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+284 - 536328 185 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8148030?v=4" height="20"/></span>rmcar17
+285 - 636983 185 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/72892032?v=4" height="20"/></span>Yusuf Elsharawy
+286 - 405474 184 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2BU_oAtyPk5ZJncivIdBiUdVvNPQpiX5NWl6mG=s96-c" height="20"/></span>Bryan Clair
+287 - 854467 182 <span class="leaderboard-userphoto"></span>Lopsidation
+288 - 36636 181 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/187831?v=4" height="20"/></span>Keegan Carruthers-Smith</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+289 - 432195 179 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/232606?v=4" height="20"/></span>jannic <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+290 - 681337 179 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/18071645?v=4" height="20"/></span>Alan Chang</a>
+291 - 723149 179 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3888575?v=4" height="20"/></span>Lunderberg
+292 - 434037 178 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/19819605?v=4" height="20"/></span>Colin Stewart
+293 - 119932 176 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6615374?v=4" height="20"/></span>wim glenn</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+294 - 388596 176 <span class="leaderboard-userphoto"></span>SwipedRight
+295 - 534400 176 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1096938?v=4" height="20"/></span>Christopher De Vries</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+296 - 459950 175 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/22216124?v=4" height="20"/></span>yuhan0
+297 - 646323 175 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-nhTqeESDx18/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcKZsUvkoYQdT9tjAB9x3qEIjbUxA/photo.jpg" height="20"/></span>Wassim Omais
+298 - 673908 175 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/400889?v=4" height="20"/></span>smrq</a>
+299 - 674926 175 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/19145587?v=4" height="20"/></span>Markus Dlugi</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+300 - 637942 172 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #637942)</span>
+301 - 647682 170 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/33167175?v=4" height="20"/></span>UnrelatedString
+302 - 389144 166 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1V5sB2f8jdCfJzFyXCAfFRPxJmRl7mDQf4DJ0F=s96-c" height="20"/></span>Tyler Schaltenbrand
+303 - 628938 166 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/58440?v=4" height="20"/></span>Anthony Carapetis</a>
+304 - 270059 165 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16062227?v=4" height="20"/></span>BEN1JEN</a>
+305 - 635847 164 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16443058?v=4" height="20"/></span>ffutop</a>
+306 - 419790 162 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15544577?v=4" height="20"/></span>jacobly0
+307 - 635637 162 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/32986987?v=4" height="20"/></span>Allen Pei</a>
+308 - 663051 162 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/6773880?v=4" height="20"/></span>ethannicholas
+309 - 222153 161 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/191427?v=4" height="20"/></span>echojc</a>
+310 - 625208 160 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7890416?v=4" height="20"/></span>Patrick Hogg</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+311 - 433999 159 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6hVI3_P7JLT3lXZmDD6ywg0hrBdShyZ0wNWxCKvA=s96-c" height="20"/></span>Jonathan Ho
+312 - 106947 158 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gg16To8SVmE0T_e5qyZqzL4s8OqFtt1y3bWI_H8WQ=s96-c" height="20"/></span>Matt Boehm
+313 - 648315 158 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2pjm39hh39l47fU6MiXxXviCeJj6Ug9pamHUOp=s96-c" height="20"/></span>Guillaume AMBAL
+314 - 790842 158 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/28933677?v=4" height="20"/></span>David Rorex
+315 - 115675 157 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1nsvsSEIYn3djsUoLy1LDvWZcw8-d5B2EoIPAjDw=s96-c" height="20"/></span>Tominator <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+316 - 282281 156 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6426074?v=4" height="20"/></span>GeneralYouri</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+317 - 381154 156 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJzXb_P_aT5DD64vkRm_S7PLMIHnjo0Z_Q-JWX7u=s96-c" height="20"/></span>John Rizzo <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+318 - 382266 156 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/977850?v=4" height="20"/></span>cyphase <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+319 - 761872 156 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3511593?v=4" height="20"/></span>Level 51
+320 - 673491 155 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mDueWQMmwzsGDpceDceXYNhg9GQOqX-5h5C6YC8" height="20"/></span>Julia Schatz
+321 - 723398 155 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/18627001?v=4" height="20"/></span>CursedFlames</a>
+322 - 762190 155 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6236424?v=4" height="20"/></span>samiskin <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+323 - 2928 154 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1992555?v=4" height="20"/></span>viceroypenguin</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+324 - 412852 154 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mD3rKAeAMGsPpvWWiV7zRlTuheiGA5loBRzEoN7" height="20"/></span>Doug Strain
+325 - 458961 154 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #458961)</span>
+326 - 270382 153 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #270382)</span>
+327 - 233494 152 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/112699?v=4" height="20"/></span>davedelong</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+328 - 242130 152 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1661903?v=4" height="20"/></span>David Philipson</a>
+329 - 145498 151 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/23530209?v=4" height="20"/></span>mich101mich</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+330 - 685281 151 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GggEO342BPDOm0dLcNc-_hbhBQuFWYIO3D-cZ7p=s96-c" height="20"/></span>Jared Saul
+331 - 163163 150 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1ej4mjZQ1PYasB2LivLbT1nltzc2cST3IJBSpxLF4=s96-c" height="20"/></span>Nathaniel Flath
+332 - 624854 150 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12983479?v=4" height="20"/></span>JBYoshi</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+333 - 133354 149 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1096010?v=4" height="20"/></span>Arnavion</a>
+334 - 553029 149 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4701284?v=4" height="20"/></span>Nick Gavalas</a>
+335 - 645784 149 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhXn57PGwRdKqhSoDwNChoshAogZIdFIHm1opEPdg=s96-c" height="20"/></span>Vladimir Urdešić
+336 - 189244 147 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4495750?v=4" height="20"/></span>Gaelan</a>
+337 - 635626 147 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7frnqf77ekRjWnf3og6RMZTfOluwletsoe2Cs7hw=s96-c" height="20"/></span>Plasmatic</a>
+338 - 107482 145 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu02Y9_fRkkjgoEl8q56qvLLoFQHwghxvUcQZwkIkA=s96-c" height="20"/></span>Christofer Ohlsson <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+339 - 307103 145 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/426145?v=4" height="20"/></span>Dmitry Panin</a>
+340 - 779726 145 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11288319?v=4" height="20"/></span>stenzek</a>
+341 - 452433 144 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7H2qxISK6VZYK9ZZMkgIbjyn4oPQDs_ZBxBgilRQ=s96-c" height="20"/></span>Brandon Yarbrough
+342 - 492898 144 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/1231659?v=4" height="20"/></span>sb8244</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+343 - 38047 143 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/7329064?v=4" height="20"/></span>lapinozz
+344 - 460839 142 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6262296?v=4" height="20"/></span>arjvik</a>
+345 - 673064 142 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15174476?v=4" height="20"/></span>Torsten Stüber</a>
+346 - 723980 142 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5soOR0UgP2RmVDfOJehMT0U6BB-ou9_K6-33hn=s96-c" height="20"/></span>Heikki Kallasjoki
+347 - 32037 141 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4579237?v=4" height="20"/></span>Laguana</a>
+348 - 752285 141 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #752285)</span>
+349 - 444149 140 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3659668?v=4" height="20"/></span>Stef</a>
+350 - 749794 140 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/4087148?v=4" height="20"/></span>hgarrereyn</a>
+351 - 645150 139 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/26513277?v=4" height="20"/></span>lthistle</a>
+352 - 707008 138 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/34285815?v=4" height="20"/></span>jeanlorc
+353 - 51076 137 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #51076)</span>
+354 - 490799 137 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhGinU3cXXzW7_nNdzfr1qYN3MwNooINYNSlJuP7w=s96-c" height="20"/></span>William Li
+355 - 840765 136 <span class="leaderboard-userphoto"></span>larry
+356 - 184890 135 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4xqWZ3jK-7fmJedzC3tjA1SfeCMvHGgYgbOprC=s96-c" height="20"/></span>Jacob Magnuson <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+357 - 750068 135 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9326138?v=4" height="20"/></span>Alex Yu</a>
+358 - 471784 134 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/853423?v=4" height="20"/></span>WildUtah</a>
+359 - 628158 134 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #628158)</span>
+360 - 294446 132 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1kQwcaQ-l5qGA8vU7XdpKVvjHDWtgCezMV9Nsz8w=s96-c" height="20"/></span>David Choo
+361 - 459281 132 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/335451?v=4" height="20"/></span>sonneveld</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+362 - 60887 130 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AD5-WCk8UCO6soLJoRuxsxK9aEVudbu6zB1dAWJSm9cRV56E-VDM5WDUdZXTyUiFr0RVpJCP9tH6_KtaKwxBEWTgqxT3LAeduWekeoypzJqglLQAWiMr30peh0w7rDomttN77cfkjkjEwSEsbfn1uEb6nV" height="20"/></span>Jeremiah Simmons <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+363 - 614199 129 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/36140950?v=4" height="20"/></span>Zeki Gurbuz
+364 - 77026 128 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1ogJLlkj_l-QGyQPMbfzRkihLNfJaU2uW2Mr1bLVM=s96-c" height="20"/></span>Dave Buchfuhrer <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+365 - 304191 128 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2798587?v=4" height="20"/></span>nmutalik</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+366 - 749511 128 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/38578268?v=4" height="20"/></span>digitalagedragon
+367 - 756470 128 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2RVyHZGKBOUU8wm3pzsZDpgqacw2iD8U9cUbmULw=s96-c" height="20"/></span>aditsu
+368 - 645222 127 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2PTAEUyKz3WcMOjkSUUWCIb-WnZiTlwWEOSGV1qtE=s96-c" height="20"/></span>Joshua Martinez
+369 - 756509 127 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1Z_Ci1Kg_dUD1rcStBDWY3lLSSbLHd_vD4Ajol=s96-c" height="20"/></span>Jonathan Wase
+370 - 364471 126 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10072099?v=4" height="20"/></span>Niko Lockenvitz</a>
+371 - 199929 125 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #199929)</span>
+372 - 638494 125 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2322200?v=4" height="20"/></span>TheThirdOne</a>
+373 - 676365 124 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/392653?v=4" height="20"/></span>slycelote</a>
+374 - 726644 124 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1528787?v=4" height="20"/></span>hapsunday
+375 - 630436 123 <span class="leaderboard-userphoto"></span>anotheraccforaoc
+376 - 195997 120 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #195997)</span> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+377 - 200444 120 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1223859?v=4" height="20"/></span>Frederik Andersen</a>
+378 - 224647 120 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/77656?v=4" height="20"/></span>Josh Juran</a>
+379 - 306808 120 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/408825?v=4" height="20"/></span>jriecken
+380 - 381276 120 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1515882?v=4" height="20"/></span>atmz
+381 - 387908 120 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/187787?v=4" height="20"/></span>HumanEquivalentUnit</a>
+382 - 622385 120 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1016104?v=4" height="20"/></span>Kyle Mayes</a>
+383 - 767183 119 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1196060809169756160/0Q3eAcFF.jpg" height="20"/></span>@spacewalker_1
+384 - 423310 118 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #423310)</span>
+385 - 647346 118 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhF-O4pQOvNgHpqgKsYz3-ONO2EYTDKQUeoerAK_Q=s96-c" height="20"/></span>João Caldeira
+386 - 707686 118 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/ACNPEu_WoP0_Oq98epS77JODI3rmrPEmRwWeEwTni3DnN38pJTxnxdkfZ6Wk8OEPCbAGOFvCgUTMXJ7MU4sPAbLFcaQflnReHd9V7W4rii1mNXCh_2f07IvnsIRyVctNPfrQ2gxZX4rrgIKaIisUR-WRyR" height="20"/></span>Benjamin Geiger
+387 - 731762 117 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13897968?v=4" height="20"/></span>Thomas Sewell
+388 - 645058 115 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/27887751?v=4" height="20"/></span>TateKennington</a>
+389 - 691852 115 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/215741?v=4" height="20"/></span>krka</a>
+390 - 35137 114 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1206952?v=4" height="20"/></span>stringham</a>
+391 - 52063 114 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8375463?v=4" height="20"/></span>Tanner Hoke
+392 - 110771 114 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5630336?v=4" height="20"/></span>veryafe <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+393 - 339676 114 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/613320?v=4" height="20"/></span>vincentwoo</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+394 - 122661 113 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp60B-3vEejejVaCWYvF9jQVeFeOMA-Vad27sE2b=s96-c" height="20"/></span>Joshua Berne
+395 - 195594 113 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/502245?v=4" height="20"/></span>Maxim Kulikov</a>
+396 - 190418 112 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/578161?v=4" height="20"/></span>elhu</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+397 - 255211 112 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #255211)</span>
+398 - 224701 111 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/20607854?v=4" height="20"/></span>AlphaKretin
+399 - 309190 111 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1249453?v=4" height="20"/></span>gogoprog</a>
+400 - 664600 110 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-6tjVU9JA07k/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcamyTtEpDL-zgWmmKwpMCu7LRY6Q/photo.jpg" height="20"/></span>Pedro Ferreira
+401 - 780123 110 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #780123)</span>
+402 - 309038 109 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #309038)</span>
+403 - 403690 109 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #403690)</span>
+404 - 225410 108 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1548193?v=4" height="20"/></span>Peter Dowdy</a>
+405 - 391819 108 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5FB_VA2ZbYU5qZA0NsSVJkAiXeo_xQZ764IDoSAQ=s96-c" height="20"/></span>Rasmus Faber-Espensen
+406 - 674430 108 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8898943?v=4" height="20"/></span>Nigel Williams <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+407 - 71192 107 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5aYXS-qu2QKddZ-jCp8MnxYBO5JqaHOSSN86sLoQ=s96-c" height="20"/></span>Mike Forrest <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+408 - 646668 107 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #646668)</span>
+409 - 668284 107 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/2227439?v=4" height="20"/></span>med200
+410 - 748532 107 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #748532)</span>
+411 - 468053 106 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #468053)</span> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+412 - 663612 106 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6298234?v=4" height="20"/></span>llyyr</a>
+413 - 685016 106 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1306244916989833216/kaq1vvhU.png" height="20"/></span>div er</a>
+414 - 717134 106 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1690140?v=4" height="20"/></span>Evan Jeffrey
+415 - 727059 106 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu185_qBHt6vAt-TdYIxz2IBnEYdHeDf9OCjbcCIzg=s96-c" height="20"/></span>Arthur Rudolph
+416 - 477505 105 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7U0l2rtUqntwuODHUZtu34TBPvgrlZCmY7xeUjH1M=s96-c" height="20"/></span>Alex Stephens
+417 - 6173 104 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7647364?v=4" height="20"/></span>nvojkovic</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+418 - 433974 104 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/210843?v=4" height="20"/></span>ddlatham <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+419 - 225520 103 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/61409?v=4" height="20"/></span>lewinski</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+420 - 505111 103 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #505111)</span>
+421 - 633296 102 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/22896740?v=4" height="20"/></span>kudaba</a>
+422 - 662131 102 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/53611?v=4" height="20"/></span>markiz
+423 - 31115 101 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjUebN-pYYxDMqVqGKcUaHQoeK6xXb303LMJtnn=s96-c" height="20"/></span>Peter de Rivaz
+424 - 242666 101 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/181772?v=4" height="20"/></span>divergentdave</a>
+425 - 366175 101 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/820713?v=4" height="20"/></span>btharper</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+426 - 669875 101 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/35119617?v=4" height="20"/></span>dmontagu
+427 - 106129 100 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5046746?v=4" height="20"/></span>mote
+428 - 197375 100 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/33135465?v=4" height="20"/></span>_w
+429 - 382816 99 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1mgyfnFq0DLKsnlO3oQWuCYIoz_ooJLM7aA-J_=s96-c" height="20"/></span>Wojciech Rychlik
+430 - 411926 99 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1355273?v=4" height="20"/></span>Geerten Vink</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+431 - 540959 99 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16778?v=4" height="20"/></span>robinst</a>
+432 - 680700 99 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/202731?v=4" height="20"/></span>asokoloski
+433 - 200010 98 <span class="leaderboard-userphoto"></span>LuxrayPokemon
+434 - 412206 98 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/20424?v=4" height="20"/></span>Rob Shearer</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+435 - 576217 98 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #576217)</span>
+436 - 225759 97 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7462067?v=4" height="20"/></span>Alen
+437 - 415981 97 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu10IY7oBWeK0ByIHinQkuzDuZS93aZikredBhQJ=s96-c" height="20"/></span>Paul Jreidini
+438 - 41102 96 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/500236?v=4" height="20"/></span>zhiayang</a>
+439 - 843950 96 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4-owyKea1TNCbMgSy4CQnMYDZgnNEL9e7EdKZ1ow=s96-c" height="20"/></span>travis meade
+440 - 41823 95 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5hIaqVqycRSY0Vd3EZPyYk_0HNV0sFUmbJTn55=s96-c" height="20"/></span>Paul Zagieboylo
+441 - 388769 95 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GidW1nqkOlkd7lkIHJrqRUYxG1KaaMZSSbBkn5J=s96-c" height="20"/></span>Michelle Yi <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+442 - 63186 94 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #63186)</span>
+443 - 459279 94 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0ckw3wOnRFJxGy5DdKXw1hANEtUgtc8Y46TbFD=s96-c" height="20"/></span>Jeff Hussmann
+444 - 746712 94 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1uKsCjMLsJtneIQy9ZzBNvdBAB34of7gv6bPI9=s96-c" height="20"/></span>Stef Nelson-Lindall
+445 - 645913 93 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11499132?v=4" height="20"/></span>Kirich2323
+446 - 43086 92 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-fqAC-3Q2DG0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcv1mRZGERCsu3vtj3xyekfL5ibHg/photo.jpg" height="20"/></span>Ben Aisen
+447 - 375032 92 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJwBeY4BMKaz7-niYfyAoalS-crdqjLWFb7ALTlj3Q=s96-c" height="20"/></span>Rafał Burczyński
+448 - 552751 92 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mDdnW3sj02SbwIcOG3Ou7hWpEjRJKoaRUtwAXSO" height="20"/></span>Etamar Olpiner <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+449 - 625598 92 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/53280662?v=4" height="20"/></span>salt-die</a>
+450 - 118900 90 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10263984?v=4" height="20"/></span>David</a>
+451 - 540266 90 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1476699?v=4" height="20"/></span>dkesler</a>
+452 - 69681 89 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3751664?v=4" height="20"/></span>tterrag</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+453 - 435949 89 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/911352109844512768/2jtCwX7c.jpg" height="20"/></span>@LaughLax
+454 - 641992 89 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1082883020816707584/p5eOrtjp.jpg" height="20"/></span>@ajaska</a>
+455 - 690411 89 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp72bBmK-l1i_1HuerFOBC5LVCmttbXofvNr7N7sXg=s96-c" height="20"/></span>Luthwyhn
+456 - 286141 88 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1547062?v=4" height="20"/></span>Kyuuhachi</a>
+457 - 803951 88 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6vudJHoX1bPmAafJHNQ5kXkoGG7UYsNynIQDdX=s96-c" height="20"/></span>Shuang Du
+458 - 38579 87 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1354293?v=4" height="20"/></span>dsemi <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+459 - 249202 87 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6230277?v=4" height="20"/></span>tdeo
+460 - 264481 86 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/304214?v=4" height="20"/></span>ichyo</a>
+461 - 332096 86 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7409986?v=4" height="20"/></span>gpergrossi</a>
+462 - 390470 86 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/478458?v=4" height="20"/></span>cushon
+463 - 481099 86 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/308836?v=4" height="20"/></span>gltronred</a>
+464 - 676720 86 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-05fvN0zymiE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4LxmLGk8BvdvoMwjnkLJn7ZplgQ/s96-c/photo.jpg" height="20"/></span>David Hao
+465 - 112021 85 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/188463?v=4" height="20"/></span>ngn
+466 - 113033 84 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5848752?v=4" height="20"/></span>Jean-Noël Monette
+467 - 204385 84 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #204385)</span>
+468 - 373076 84 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/38583655?v=4" height="20"/></span>Thingo314</a>
+469 - 808 82 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12122390?v=4" height="20"/></span>andreasgruenh</a>
+470 - 95393 82 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8356733?v=4" height="20"/></span>elibaldwin</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+471 - 712020 82 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AFdZucqGeftM6vTfqUVQ-FTVMyyAOXsdzRMY712Zx_V4SQ=s96-c" height="20"/></span>Gregory Colella
+472 - 26759 81 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2qodugzEeik_1dLoIV43mkRszJBT4ZhCWUhgMY=s96-c" height="20"/></span>tinau n.
+473 - 350277 81 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3mVBXodRtpsOGt0SDreoNyAGN-yc7i_moZqHdfHw=s96-c" height="20"/></span>Xavier Cooney
+474 - 365713 81 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #365713)</span> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+475 - 381872 81 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1042382?v=4" height="20"/></span>HeyItsBATMAN</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+476 - 412922 81 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1613332?v=4" height="20"/></span>Jonas Hahnfeld</a>
+477 - 693854 80 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0saqYOyi9CObm-HZActB5us_2FRUiZwHEhsKYi=s96-c" height="20"/></span>Maarten van der Zwaart
+478 - 762898 80 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mCwcdZ-G9Dn090xXZvLLQxdGWljb68eviDYXq4EMg" height="20"/></span>James Bell
+479 - 199077 79 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp71AmpgyXxvG6GZEd2m83jg4W1nbG2TR2CNpYv2=s96-c" height="20"/></span>Rich Hogg <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+480 - 643545 79 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #643545)</span>
+481 - 646296 79 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mCtzW2eMicIXOQtOYrpW3VuKcl78zqFV2itX0Uh" height="20"/></span>Urim Jung
+482 - 180094 78 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11230858?v=4" height="20"/></span>Xavier Villaneau</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+483 - 199253 77 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4750540?v=4" height="20"/></span>Henry Steere</a>
+484 - 205228 77 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1085568?v=4" height="20"/></span>Nick Massey</a>
+485 - 389716 77 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu13sUwmEpz8LB0weNcCPDLOS3bdQg1H-qWuBA3pBQ=s96-c" height="20"/></span>Dan Roche
+486 - 546222 77 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15620796?v=4" height="20"/></span>Sarah Shader
+487 - 605427 77 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/52330651?v=4" height="20"/></span>void</a>
+488 - 18207 76 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2846855?v=4" height="20"/></span>mgersh
+489 - 124054 76 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/31878?v=4" height="20"/></span>sblom</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+490 - 377649 75 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8556898?v=4" height="20"/></span>Steven Cook
+491 - 181125 74 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/119268?v=4" height="20"/></span>PaulTaykalo
+492 - 343921 74 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11722214?v=4" height="20"/></span>Mustafa Haddara</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+493 - 436313 74 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/33339104?v=4" height="20"/></span>David Kim
+494 - 640302 74 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp55MJ-Cnu1ZS-TdfbV2m7oWJIW6065-fCzV-tWt=s96-c" height="20"/></span>Matteo Biasielli
+495 - 657797 74 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJy_6sJPubwA86Kt0PcsjGQu8rza52kvRxea687r=s96-c" height="20"/></span>Jan Kuipers
+496 - 411543 73 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/19691112?v=4" height="20"/></span>Marcell Nemes</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+497 - 684125 73 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1505019569215356932/-4c7BTOM.jpg" height="20"/></span>@K13205
+498 - 59686 72 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1186656?v=4" height="20"/></span>Sukasa
+499 - 148112 72 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #148112)</span>
+500 - 291561 72 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5432214?v=4" height="20"/></span>Kai Si
+501 - 741905 72 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12817106?v=4" height="20"/></span>Sławek Biel <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+502 - 150546 71 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu32mwOByCwWM2v1joA03GCeZy2OCOqdMuUZYBIskA=s96-c" height="20"/></span>Tom Dryer
+503 - 191268 71 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/407115?v=4" height="20"/></span>Kevin Scannell</a>
+504 - 199739 71 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5317977?v=4" height="20"/></span>Jacob Lambert</a>
+505 - 760317 71 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4860131?v=4" height="20"/></span>jomipo123 <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+506 - 386927 70 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3421675?v=4" height="20"/></span>AKQuaternion</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+507 - 683017 70 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mCjtrA-gWgC3RUxP29_khp7evpnv5hoK_odaNHP8w" height="20"/></span>Brian Gomberg <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+508 - 727389 70 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9354539?v=4" height="20"/></span>Ryan Henning</a>
+509 - 750239 70 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/19941774?v=4" height="20"/></span>jk-jung
+510 - 6755 69 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhDOCE35LeV8HkT_B820TanDQTNBb-U7urugGr81g=s96-c" height="20"/></span>Alex Crimi
+511 - 164393 69 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/5551944?v=4" height="20"/></span>kaivanes</a>
+512 - 219522 69 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4474874?v=4" height="20"/></span>Tim Hill</a>
+513 - 257195 69 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1546215?v=4" height="20"/></span>Justin Nesselrotte</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+514 - 44398 68 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1841436?v=4" height="20"/></span>ollanta</a>
+515 - 647900 68 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-fXxy--XVZ2E/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcz18qWCakLBzBbmKojHpfEvFNaFQ/photo.jpg" height="20"/></span>Shubham Lagwankar
+516 - 453320 67 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #453320)</span>
+517 - 736896 67 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/32348689?v=4" height="20"/></span>mbaumfalk
+518 - 663222 66 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1191029757544144896/RvLlAVES.png" height="20"/></span>Nick
+519 - 382925 65 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjraA6M9SYJ1abZEc5pmODxRSITPjuU8bWxEvoI=s96-c" height="20"/></span>Kieran Nirkko <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+520 - 414713 65 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJy6DZZyFIxA_3F_0G8ksWL3Ckhf29WT3Out2qUB=s96-c" height="20"/></span>AJ Manning
+521 - 365560 64 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/24620377?v=4" height="20"/></span>noahiscool13
+522 - 366813 64 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1330346?v=4" height="20"/></span>swerder
+523 - 369452 64 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2n0s9IPwPYK2OS1IWGLeZWlA9MTfSATjWEUAP10w=s96-c" height="20"/></span>Iurii Zakipnyi
+524 - 681892 64 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2541209?v=4" height="20"/></span>Kunal Marwaha</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+525 - 746668 63 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/955423?v=4" height="20"/></span>cmears</a>
+526 - 17158 62 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/6138955?v=4" height="20"/></span>starfys <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+527 - 28134 62 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/10399841?v=4" height="20"/></span>zirkonit
+528 - 387815 62 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/63004?v=4" height="20"/></span>Richard Clark
+529 - 437401 62 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8504888?v=4" height="20"/></span>Amon Al-Khatib
+530 - 455850 62 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1514771?v=4" height="20"/></span>Chad Groft</a>
+531 - 678100 62 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1762255?v=4" height="20"/></span>Andrew Magee
+532 - 748644 62 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/575174?v=4" height="20"/></span>rpeng
+533 - 51230 61 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2Vx4FM10bGI8oYGN4-KtBFsmJNCR46zVijinz4hQ=s96-c" height="20"/></span>David Whittaker <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+534 - 111306 61 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #111306)</span>
+535 - 270061 61 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/880100?v=4" height="20"/></span>drumhacker72</a>
+536 - 189626 60 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1KdJgvC287MZ-hWXfMSi8zrUpVSuMxbNo5ii9r=s96-c" height="20"/></span>Mårten Selin <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+537 - 381908 60 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/5391162?v=4" height="20"/></span>Geert Konijnendijk</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+538 - 622995 60 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Ghyg4_h5Cp0Kbv0Z3X9Ai7r1dcPMmmUSrxqtxiNbA=s96-c" height="20"/></span>Chris Glencross <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+539 - 641063 60 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15718297?v=4" height="20"/></span>UnderKoen</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+540 - 822993 60 <span class="leaderboard-userphoto"><img src="https://lh5.googleusercontent.com/-OT3_sKTT_qU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0tUJtnh61ptQzZmDVCgIsDathQA/s96-c/photo.jpg" height="20"/></span>kagami hiiragi
+541 - 188124 59 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5695960?v=4" height="20"/></span>Tom Scallon</a>
+542 - 380973 59 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #380973)</span>
+543 - 621374 59 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0QIxHCUfncrk4uHLXBozmtJe8qu96vehXCVi1m=s96-c" height="20"/></span>Steve N
+544 - 669475 59 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1700831?v=4" height="20"/></span>mfgmfg
+545 - 26328 58 <span class="leaderboard-userphoto"><img src="https://lh4.googleusercontent.com/-U_28OxLEeSc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMTxZ1fLXsckglhjlib8KaTzC3pg/s96-c/photo.jpg" height="20"/></span>Jonathan Lie
+546 - 111741 58 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/12367556?v=4" height="20"/></span>terry-wen
+547 - 379229 58 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #379229)</span>
+548 - 538844 58 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2oeZdkpc2sE8feoiIiDu4FnxZyATGVI4mQFoVu=s96-c" height="20"/></span>Kevin An
+549 - 749723 58 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp62oqhHVBvbm1nnhqqwK8fg2QXpK2OTQMVt6NL4=s96-c" height="20"/></span>Theron Tock
+550 - 797711 58 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1385766944712708102/-2XLUtxR.jpg" height="20"/></span>@matthewhuang97</a>
+551 - 227649 57 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/28293838?v=4" height="20"/></span>Valokoodari</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+552 - 231124 57 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1YxyJXMHx62yaJfAA4zl7N-DbDx12fEj2c4lSn6g=s96-c" height="20"/></span>Ian Collier
+553 - 394534 57 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/130804?v=4" height="20"/></span>Paweł Obrok</a>
+554 - 452294 57 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6596486?v=4" height="20"/></span>Joachim
+555 - 28376 56 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/540652?v=4" height="20"/></span>m1el
+556 - 160121 56 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/361840?v=4" height="20"/></span>Thomas Broquist
+557 - 379088 56 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1302406?v=4" height="20"/></span>Aesthetikx</a>
+558 - 433635 56 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/635580?v=4" height="20"/></span>Sebastian Pauka <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+559 - 679030 56 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1033286155062730759/-iJ82ugZ.jpg" height="20"/></span>Oskar Larsson
+560 - 65594 55 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/968130?v=4" height="20"/></span>Andrey</a>
+561 - 226732 55 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #226732)</span>
+562 - 274039 55 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1799685?v=4" height="20"/></span>101100</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+563 - 378448 55 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/17185986?v=4" height="20"/></span>mjsir911</a>
+564 - 434994 55 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5154439?v=4" height="20"/></span>isnbh0
+565 - 264938 54 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gjd-cxizfbw_jH8UOul_wcRo_u8CD_H3cfwraQl=s96-c" height="20"/></span>Just Luke
+566 - 505418 54 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3XSUGvkUvDqrqai09UEruGZevce3L7CTlZvFsk=s96-c" height="20"/></span>Justin Kao
+567 - 518610 54 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3673315?v=4" height="20"/></span>Matt West</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+568 - 684191 54 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/56283269?v=4" height="20"/></span>hotdoglover86</a>
+569 - 221184 53 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6X0NsPel887QBOjloC38aoCJ8BDve9EDAIyiJVoQ=s96-c" height="20"/></span>Christian Rinjes <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+570 - 223509 53 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1697224?v=4" height="20"/></span>iarwain</a>
+571 - 524080 53 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4bBfk61BFvyTMZjyntQr9DgdXqUzyIF3AU2qe9=s96-c" height="20"/></span>Daniel Guerber
+572 - 640385 53 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1doiR6cN7r_a-ZVC3KsENBoTABu8b7giW52id_=s96-c" height="20"/></span>Louis Pierre Joseph Clergue <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+573 - 288790 52 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/17646399?v=4" height="20"/></span>Kosi Nwabueze
+574 - 647401 52 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/376616?v=4" height="20"/></span>Zachary Liu</a>
+575 - 747074 52 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/442117?v=4" height="20"/></span>Stefano Rivera</a>
+576 - 18344 51 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1182969?v=4" height="20"/></span>gchan</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+577 - 123048 51 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/877077?v=4" height="20"/></span>rbenua
+578 - 152693 51 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1_DykGSLvhQryVqmbgQJjHtskBiu8ICt5wIrIL=s96-c" height="20"/></span>Lars Haulin
+579 - 193907 51 <span class="leaderboard-userphoto"></span>ka-splam
+580 - 194820 51 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0KXrsc-UFmhVC80L7LMMqy1IexJ18fMQbhksGv=s96-c" height="20"/></span>Hampus Skystedt
+581 - 646399 51 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/585881626959192064/MmTaHx6_.jpg" height="20"/></span>Ry</a>
+582 - 682402 51 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/674165?v=4" height="20"/></span>Ryan Lewis</a>
+583 - 61711 50 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9099577?v=4" height="20"/></span>sorawee</a>
+584 - 207542 50 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/6822967?v=4" height="20"/></span>KungA</a>
+585 - 260854 50 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6qBDdsiMYb8HTiAYiAFf5a_9_gJKADgz4G_fD4=s96-c" height="20"/></span>ashish mahto
+586 - 684908 50 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/44381027?v=4" height="20"/></span>risky998
+587 - 89991 49 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu08HIpywTz7G9NUr_TRMdqhe2YjRaYYNg9L06qA=s96-c" height="20"/></span>Dylan Smith <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+588 - 184900 49 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3756869?v=4" height="20"/></span>Daniele Venier</a>
+589 - 235482 49 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4qQCs6tVEpTU52yQ2O7u3cKNUbtJwWSiMvhonwuQ=s96-c" height="20"/></span>Stephen
+590 - 683920 49 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/11496137?v=4" height="20"/></span>zmzmdr</a>
+591 - 668704 48 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/29615021?v=4" height="20"/></span>JustinZhengBC</a>
+592 - 832400 48 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/32450883?v=4" height="20"/></span>akkaakka
+593 - 192871 47 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1yqfk7UFz0zswkkqT24L9fG861K3VbPZgP4XUj=s96-c" height="20"/></span>Thomas Zumsteg
+594 - 130597 46 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #130597)</span>
+595 - 349947 46 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9636374?v=4" height="20"/></span>Ashley Kim
+596 - 633830 46 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7cbAybf33vc1TSTfSyBDnnTDqudVoO17mwqFbA=s96-c" height="20"/></span>Blaž Peterlin
+597 - 716878 46 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5081356?v=4" height="20"/></span>Alexerson
+598 - 719424 46 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mC8wz9O5kOXJ6g4AkEuTBHz4SGmJftb2zV3Veaf" height="20"/></span>Michael Fatemi
+599 - 772758 46 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #772758)</span>
+600 - 32282 45 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6687043?v=4" height="20"/></span>triazo
+601 - 331160 45 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14198070?v=4" height="20"/></span>mebeim</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+602 - 474703 45 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-WDG1tBDgcdg/AAAAAAAAAAI/AAAAAAAAEao/AMZuuckBOOE-tIJqjTgtnkJHKtl9QK-uYg/s96-c/photo.jpg" height="20"/></span>Huy Truong Nam Nguyen
+603 - 488264 45 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp75WCq39fUu1Ld65_ot09eC8vofclJU8Ge-FQ4R5Q=s96-c" height="20"/></span>Jonathan Soo
+604 - 684342 45 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5DidL8ZXygOhNWse14WaI-9Ew0m-RuZpwYCqe97g=s96-c" height="20"/></span>Kurt Steinkraus
+605 - 738291 45 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1687453?v=4" height="20"/></span>saltyeyes
+606 - 203926 44 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13345708?v=4" height="20"/></span>MissingNoShiny</a>
+607 - 211689 44 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/247453?v=4" height="20"/></span>cadetstar</a>
+608 - 626862 44 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjsLntxmEb78Aje6MPLwLTa78l16u6CE7xH7pww=s96-c" height="20"/></span>Cecilia ARENAS
+609 - 397059 43 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7688804?v=4" height="20"/></span>ismailkuruca</a>
+610 - 484047 43 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/30073148?v=4" height="20"/></span>Christopher Pritchard</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+611 - 493140 43 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3987039?v=4" height="20"/></span>Philipp Lenk</a>
+612 - 624088 43 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0rCDLu2JAfoPWnK5-JJcfym7UPoDz4hvOdP5wG=s96-c" height="20"/></span>Branflakes2415
+613 - 632701 43 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2sSTo_ZHamWgI93uNEBlJv_ZAT8SacSK7a2UMRtw=s96-c" height="20"/></span>Shalini Kumar
+614 - 67338 42 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7442384?v=4" height="20"/></span>Zefick</a>
+615 - 632779 42 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1269298?v=4" height="20"/></span>virodoran
+616 - 680686 42 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Ghq7dcuzGqdX7wxsgJ67WCDKVu2efF7EP34E-O_=s96-c" height="20"/></span>James Sun
+617 - 152138 41 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2447416?v=4" height="20"/></span>Justin Kaufman</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+618 - 381579 41 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #381579)</span>
+619 - 389078 41 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/31573882?v=4" height="20"/></span>Nicholas Hollander</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+620 - 715511 41 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/58443007?v=4" height="20"/></span>sergei_mar
+621 - 47914 40 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1666345?v=4" height="20"/></span>lucy</a>
+622 - 289502 40 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6804206?v=4" height="20"/></span>Atreju Tauschinsky</a>
+623 - 646595 40 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8386369?v=4" height="20"/></span>Joseph Marinier</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+624 - 723917 40 <span class="leaderboard-userphoto"></span>dnpp123
+625 - 367895 39 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4862992?v=4" height="20"/></span>Primetalk</a>
+626 - 370839 39 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8452446?v=4" height="20"/></span>Howard Yun</a>
+627 - 660304 39 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1431926?v=4" height="20"/></span>incnone</a>
+628 - 719852 39 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/45135345?v=4" height="20"/></span>ShawnPence</a>
+629 - 69076 38 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3akasw02I0iUhp9HD-IoCURx6Sh0Yges45eLuyXg=s96-c" height="20"/></span>Daniel Silverstone <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+630 - 253269 38 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gj6smfUXnm3q7H8Ej2Vp3co5yORSb1vWU1Mb557=s96-c" height="20"/></span>Bill Rockenbeck
+631 - 385903 38 <span class="leaderboard-userphoto"></span>agent_who_glows <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+632 - 477756 38 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-KcnsjtYTCRY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc3rhO_w1S68Nr-xESPuTqmxXioAQ/photo.jpg" height="20"/></span>Krzysztof Stanisławek
+633 - 691625 38 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/18720786?v=4" height="20"/></span>Tomáš Kubín</a>
+634 - 747925 38 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/51554994?v=4" height="20"/></span>Tamamoball
+635 - 365228 37 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0LNmgfsKFn7lIkdPyrBZKxixGhgD_53bGPYH-78w=s96-c" height="20"/></span>Andy Liang
+636 - 371801 37 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16451391?v=4" height="20"/></span>Taras Petruk</a>
+637 - 525266 37 <span class="leaderboard-userphoto"></span>darkgray
+638 - 637730 37 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10947958?v=4" height="20"/></span>vukonen</a>
+639 - 646730 37 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5874646?v=4" height="20"/></span>Jeffrey Limbacher
+640 - 658245 37 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/18023898?v=4" height="20"/></span>lin-ll
+641 - 681412 37 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #681412)</span>
+642 - 684782 37 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/520669?v=4" height="20"/></span>Danny Hermes</a>
+643 - 726429 37 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #726429)</span>
+644 - 51437 36 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #51437)</span>
+645 - 210260 36 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4186708?v=4" height="20"/></span>Jocelyn Stericker</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+646 - 81464 35 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2Bt3VlLlBykPUqpcuAZSOjXAwKnz_-EtJn1owiKA=s96-c" height="20"/></span>George Mocanu <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+647 - 234636 35 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJzE2iBAhsmZDfK_1t1zqDgPYAxevafhiNHro-il=s96-c" height="20"/></span>Luke Moran <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+648 - 246544 35 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3jQW5ug8XtBB2DjZhMG6-JXOWxGZlFjuWn2Qyb=s96-c" height="20"/></span>Aliaksei Danchanka <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+649 - 381869 35 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/102023?v=4" height="20"/></span>fryguy1013</a>
+650 - 383342 35 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1454722?v=4" height="20"/></span>coreymatyas
+651 - 466260 35 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu2n0lSvT-pu_dnESKYIvLm_-GS5DHvQ9xu9BSlYwg=s96-c" height="20"/></span>Clifford Richardson
+652 - 499861 35 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7484417?v=4" height="20"/></span>James Freeman
+653 - 529149 35 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8635155?v=4" height="20"/></span>Matt Rollins
+654 - 673173 35 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5328759?v=4" height="20"/></span>drrelyea</a>
+655 - 9036 34 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1308313?v=4" height="20"/></span>Joel Grus</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+656 - 55355 34 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/704200?v=4" height="20"/></span>Antti Haapala</a>
+657 - 75804 34 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1072924?v=4" height="20"/></span>Mason Bially</a>
+658 - 211646 34 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/29973757?v=4" height="20"/></span>ivceh</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+659 - 379542 34 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7007361?v=4" height="20"/></span>Alex Wilson</a>
+660 - 380235 34 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6655803?v=4" height="20"/></span>Alex Curtiss</a>
+661 - 429908 34 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJxwPKIOvzJHDxBNAAV4r8mInIxSFV9u6-VSQ0Tt=s96-c" height="20"/></span>Ranjithkumar Rajagopalan
+662 - 538295 34 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1593199024189874182/LjaYR4Dq.jpg" height="20"/></span>@liviuchircu</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+663 - 630942 34 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3DNOBwVHOUsp3kFwqS0wewCcdKLA8sSqxmOruc=s96-c" height="20"/></span>Chris Olson
+664 - 639163 34 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8157805?v=4" height="20"/></span>vishal chauhan
+665 - 684749 34 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #684749)</span>
+666 - 802623 34 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #802623)</span>
+667 - 5017 33 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9655322?v=4" height="20"/></span>Lukas Huwald</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+668 - 75062 33 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/221526?v=4" height="20"/></span>Ryan May</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+669 - 151959 33 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp49OVMurJMtgiLSG7dA1aqkl7YYcP8SYY5ZFfRk=s96-c" height="20"/></span>Leo Tenenbaum
+670 - 230395 33 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16351560?v=4" height="20"/></span>loigom</a>
+671 - 378556 33 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8504000?v=4" height="20"/></span>romellem</a>
+672 - 426829 33 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #426829)</span>
+673 - 639671 33 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mCZ7N082OyPyQRN_KM-YnFnjIcZyc4zQ6pJF79x-Q" height="20"/></span>Linas Medžiūnas
+674 - 648970 33 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0LqEW-5uxQSQjCjhJQ50wLwoMZpQG_tOQJE5fA=s96-c" height="20"/></span>Bradley Gallon
+675 - 684976 33 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13115853?v=4" height="20"/></span>Nathan Lawrence
+676 - 699256 33 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/853853?v=4" height="20"/></span>Morgan Ericsson
+677 - 51454 32 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4619737?v=4" height="20"/></span>wision</a>
+678 - 65315 32 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5ysQK6yCAcWMRxCoVdqNOCTGAbYQRAfmnA9zCx=s96-c" height="20"/></span>Jacob Danks
+679 - 311240 32 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5771789?v=4" height="20"/></span>nwn
+680 - 445032 32 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2115470?v=4" height="20"/></span>freedomofkeima</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+681 - 508702 32 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1968460?v=4" height="20"/></span>aropan
+682 - 772843 32 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2111401?v=4" height="20"/></span>maneframe</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+683 - 1995 31 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/804919?v=4" height="20"/></span>1lann</a>
+684 - 250951 31 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0V3SD04lJSlUr0iCqbKfHUQqNGBgcJPvBQBtDb=s96-c" height="20"/></span>narwhaler
+685 - 279226 31 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4673620?v=4" height="20"/></span>kevinmchung</a>
+686 - 412700 31 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/36343521?v=4" height="20"/></span>Vipul
+687 - 413381 31 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/937354?v=4" height="20"/></span>Matthew Reishus</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+688 - 416483 31 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4A4qaoCbzMK6GMNhYKZ4M5ehPA-B5nOE0lqnQI=s96-c" height="20"/></span>Vorname Nachname
+689 - 506935 31 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0CsqixyThDIMuTMCW1PdlH2XUOpD5h_JOPsVFe=s96-c" height="20"/></span>Giacomo Stevanato
+690 - 680756 31 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/330805?v=4" height="20"/></span>grahame</a>
+691 - 73928 30 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/47952?v=4" height="20"/></span>Gustav Westling</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+692 - 181598 30 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/26678918?v=4" height="20"/></span>nwtnni</a>
+693 - 200138 30 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1311149?v=4" height="20"/></span>haaawk</a>
+694 - 237242 30 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/19613273?v=4" height="20"/></span>cole
+695 - 288984 30 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5q5c8FKQdrke_4Y_yG464aBjcygv0Jh3E3l9rO=s96-c" height="20"/></span>Ryan Leeson
+696 - 628737 30 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #628737)</span>
+697 - 643860 30 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/448918?v=4" height="20"/></span>Borja Sotomayor</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+698 - 699476 30 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1822811?v=4" height="20"/></span>inzanity
+699 - 716657 30 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1653966?v=4" height="20"/></span>incertia</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+700 - 189942 29 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/2709620581/33127c63c67a37fd5bcf00d97d49e7d9.png" height="20"/></span>jelder
+701 - 268002 29 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7ZOaZ5J-SS5yvuQQoNWDgH-AQhePvJbF7Fbulz=s96-c" height="20"/></span>Frode Johannesen <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+702 - 344493 29 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3968542?v=4" height="20"/></span>leppyr64</a>
+703 - 436364 29 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/24769973?v=4" height="20"/></span>coreydexter
+704 - 553988 29 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #553988)</span>
+705 - 669125 29 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2389445?v=4" height="20"/></span>Daniel Prilik</a>
+706 - 681165 29 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3CoXYEft2utL6TCuoR1ibjitthCNLNC1xLU3Vn1iI=s96-c" height="20"/></span>Johan Lindell
+707 - 9664 28 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/676264?v=4" height="20"/></span>@xAndy</a>
+708 - 112860 28 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/677799?v=4" height="20"/></span>Maerig</a>
+709 - 198207 28 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1051540?v=4" height="20"/></span>crum</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+710 - 199174 28 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1-Z5C1wiLaffYu7Y2VPZukWKvz2jX2l3WsNJo4=s96-c" height="20"/></span>Maxime Goyette
+711 - 643522 28 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/103087?v=4" height="20"/></span>Eric Fritz
+712 - 724414 28 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6483729?v=4" height="20"/></span>Gab0</a>
+713 - 817453 28 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GgRq2wNfboG8xoUdQ7wFOMLJLrmAKuQ0XN9K-nMGOQ=s96-c" height="20"/></span>Lars Brünjes
+714 - 245090 27 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10970791?v=4" height="20"/></span>Arash Rai</a>
+715 - 369697 27 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2871375?v=4" height="20"/></span>Peter Toth</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+716 - 381293 27 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/18515648?v=4" height="20"/></span>Jacob G.</a>
+717 - 716562 27 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13790237?v=4" height="20"/></span>kjsatz</a>
+718 - 827180 27 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1250267988487327744/Xn7OWi4z.png" height="20"/></span>@Kizby_</a>
+719 - 120003 26 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14057244?v=4" height="20"/></span>Michael Lazear</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+720 - 126616 26 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/47205?v=4" height="20"/></span>jwalck <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+721 - 156726 26 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu13HSMFwRzVzS2EFmgfD-VRCz_EC2j3OIVtPhbOQA=s96-c" height="20"/></span>Ernst Roos <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+722 - 187273 26 <span class="leaderboard-userphoto"></span>CanGreenBeret
+723 - 257151 26 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3638901?v=4" height="20"/></span>usbpc</a>
+724 - 493105 26 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5652368?v=4" height="20"/></span>Troy Unverdruss <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+725 - 499411 26 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #499411)</span>
+726 - 703998 26 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/19617310?v=4" height="20"/></span>Kehvarl <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+727 - 789686 26 <span class="leaderboard-userphoto"></span>mb0x40
+728 - 1980 25 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/853261?v=4" height="20"/></span>nathanchere</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+729 - 37093 25 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu35YEgHahXvWFcLncU6gx3xCg30sft-b2mGuNgmvQ=s96-c" height="20"/></span>Marko Puza
+730 - 60758 25 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/967877?v=4" height="20"/></span>Connie Hilarides</a>
+731 - 229600 25 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/428637?v=4" height="20"/></span>Marshall Polaris</a>
+732 - 678607 25 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/40774387?v=4" height="20"/></span>Ian Steptoe
+733 - 42760 24 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1301771?v=4" height="20"/></span>Toby Craig</a>
+734 - 535431 24 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/6373153?v=4" height="20"/></span>Igor Dubinskiy</a>
+735 - 4121 23 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5420261?v=4" height="20"/></span>kms70847
+736 - 296993 23 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/941276173954318336/1XN1P_ar.jpg" height="20"/></span>@GasperRugelj <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+737 - 314615 23 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16827347?v=4" height="20"/></span>aleloi <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+738 - 398955 23 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/222707?v=4" height="20"/></span>pseligman <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+739 - 741007 23 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/38995121?v=4" height="20"/></span>ajgrinds</a>
+740 - 171186 22 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3E8k04dZHAjIMBKnuCEX95G4e437NxFBAHTs72UQ=s96-c" height="20"/></span>Jace Brewster
+741 - 243678 22 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/21999?v=4" height="20"/></span>bbeck</a>
+742 - 284704 22 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4798822?v=4" height="20"/></span>Olaf Gottschalk</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+743 - 337612 22 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14116796?v=4" height="20"/></span>Olivier Bellone</a>
+744 - 364898 22 <span class="leaderboard-userphoto"></span>Lux_Stella</a>
+745 - 413824 22 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3Vz_aSMzEeoil50wezA8vms768ZhrvP3aajUOL=s96-c" height="20"/></span>Luke Dixon <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+746 - 420343 22 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1252565347917586434/1qjlhDDk.jpg" height="20"/></span>Robert Antonio</a>
+747 - 421070 22 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11308928?v=4" height="20"/></span>pancelor</a>
+748 - 645051 22 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/34669874?v=4" height="20"/></span>fluffdotexe
+749 - 744852 22 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/1817677?v=4" height="20"/></span>Jennifer Thakar</a>
+750 - 409393 21 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7532336?v=4" height="20"/></span>c-Viorel</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+751 - 691731 21 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5228452?v=4" height="20"/></span>Chris Charles</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+752 - 33297 20 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5UA5GdTw1tJHPotjisvU6UAzZRMIqfefJyGr8=s96-c" height="20"/></span>Michal Maršálek
+753 - 36826 20 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7GQ4JdATjjcblQOQr9GSIWjpy1K5Bp1DViNrLHeQ=s96-c" height="20"/></span>Erik Dyrelius <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+754 - 52463 20 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/137988?v=4" height="20"/></span>markolson</a>
+755 - 296150 20 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mCC9K4Apjd6MqRg8rmVDMluSGhrkHnojh8xTBkF5w" height="20"/></span>Justin Choi
+756 - 535131 20 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #535131)</span>
+757 - 646318 20 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9067780?v=4" height="20"/></span>Caleb</a>
+758 - 778501 20 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5WqMdLS6i26sW8jYIGtE8_7C92Vu-PJMD_JaBK=s96-c" height="20"/></span>Andrew Schor
+759 - 138806 19 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1816456?v=4" height="20"/></span>copy</a>
+760 - 169617 19 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1978117?v=4" height="20"/></span>asishm</a>
+761 - 218360 19 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5188292?v=4" height="20"/></span>Jean-Paul Balabanian <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+762 - 427149 19 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJw2EZRDyUhfeo8hM3VfuMfGnWiJdyJsOGbLN09a=s96-c" height="20"/></span>Alex Quenon
+763 - 460805 19 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1510856?v=4" height="20"/></span>Stefano Prosperi</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+764 - 594261 19 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/11497102?v=4" height="20"/></span>ApexWeed</a>
+765 - 629380 19 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3437958?v=4" height="20"/></span>Sondre Sortland <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+766 - 677964 19 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0yQnBaHRFQPDXtmdNHHO89ZINpX79zT6OlFNASS3k=s96-c" height="20"/></span>Bart Wronski
+767 - 4961 18 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7XTVCv31b6G7Mpx7u-QSiBgyHCbrx8nY8LotUKoA=s96-c" height="20"/></span>Mark Haines <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+768 - 261691 18 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4913552?v=4" height="20"/></span>Adrien Pyke</a>
+769 - 371256 18 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/17814290?v=4" height="20"/></span>Dodomix
+770 - 380204 18 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #380204)</span>
+771 - 382329 18 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/8992060?v=4" height="20"/></span>David Yan</a>
+772 - 387216 18 <span class="leaderboard-userphoto"></span>porilukkk
+773 - 391780 18 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/3055384?v=4" height="20"/></span>mispy</a>
+774 - 630982 18 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/22396042?v=4" height="20"/></span>rkc007</a>
+775 - 757851 18 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu1mdLVOHVf15zPbTpyEIFi-pf97vr5NCYW4_3Ja=s96-c" height="20"/></span>Mathieu Lafon
+776 - 42862 17 <span class="leaderboard-userphoto"></span>oantolin</a>
+777 - 233687 17 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/34193547?v=4" height="20"/></span>Maj Stenmark
+778 - 256522 17 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6006837?v=4" height="20"/></span>cmdd
+779 - 367704 17 <span class="leaderboard-userphoto"></span>lapilo
+780 - 368083 17 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13141618?v=4" height="20"/></span>Brian Uri!</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+781 - 392756 17 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/19509185?v=4" height="20"/></span>Graham Place</a>
+782 - 396430 17 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11212336?v=4" height="20"/></span>vkolobara
+783 - 436600 17 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #436600)</span>
+784 - 470071 17 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu16H04IlJcqCy0I52qcT2mXi64bdzASNx-mAD8knPo=s96-c" height="20"/></span>Henrico Pops <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+785 - 704870 17 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6398635?v=4" height="20"/></span>crvv</a>
+786 - 749942 17 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/16506055?v=4" height="20"/></span>lmawarid
+787 - 20980 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/172523?v=4" height="20"/></span>jholman <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+788 - 147397 16 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/23636854?v=4" height="20"/></span>abhatt349
+789 - 202902 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/795010?v=4" height="20"/></span>provegard</a>
+790 - 381985 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/32518891?v=4" height="20"/></span>gabriel-mocioaca</a>
+791 - 406833 16 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #406833)</span>
+792 - 508078 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1232044?v=4" height="20"/></span>Francisco Martínez Lasaca</a>
+793 - 541524 16 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5-M8y1CV46xWZM3FUUOrkPpQCrq-DqJyZcxSfZ=s96-c" height="20"/></span>Sebastian Yuen
+794 - 706951 16 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/977623?v=4" height="20"/></span>w-flo
+795 - 726406 16 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #726406)</span>
+796 - 780025 16 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/-SqczEimOyZs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcPD7U4nlhw-u6Vc1BEwe0Sve_Fcg/photo.jpg" height="20"/></span>aaa chen
+797 - 10211 15 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2031762?v=4" height="20"/></span>Alex</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+798 - 132730 15 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7028615?v=4" height="20"/></span>bob-white</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+799 - 282230 15 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #282230)</span> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+800 - 282923 15 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3676859?v=4" height="20"/></span>Shu Ding</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+801 - 635829 15 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5DwcZd7_W-iN2OMy5UJ5itxJP20a8h1HYbWqTD=s96-c" height="20"/></span>Jozef Kubík
+802 - 767879 15 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/1387653?v=4" height="20"/></span>Chris Wendt</a>
+803 - 24811 14 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/706257?v=4" height="20"/></span>Benjamin Congdon</a>
+804 - 70644 14 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/159571?v=4" height="20"/></span>Blake Winton</a>
+805 - 222179 14 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4xVyzZVlp7EB0TFgxtbn2k8g_urbLBhV7onKUJZg=s96-c" height="20"/></span>Joe Fowler
+806 - 378552 14 <span class="leaderboard-userphoto"></span>Sedsarq
+807 - 388619 14 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu0yndTlBJfbu8XTJtZ1ygfWDPbhHxvDEaasPKmx=s96-c" height="20"/></span>Chance Roberts
+808 - 524473 14 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GjrhoPyhDxtm0PGMD-D7Diq-Rncndhs7Ei6ACy-uQ=s96-c" height="20"/></span>Balázs Lajtha
+809 - 644883 14 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/37640160?v=4" height="20"/></span>glipR</a>
+810 - 683421 14 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2177394?v=4" height="20"/></span>Darsein</a>
+811 - 109563 13 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8149717?v=4" height="20"/></span>cNille</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+812 - 111474 13 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9289224?v=4" height="20"/></span>jessetham</a>
+813 - 132618 13 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/377991?v=4" height="20"/></span>kunalb</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+814 - 145526 13 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5855503?v=4" height="20"/></span>Virgile Andreani
+815 - 514666 13 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11715098?v=4" height="20"/></span>Zevenberge</a>
+816 - 809390 13 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AFdZucoH7H7SIOue3XcukuUy1Naj1VukZ9oya6WpFzTY=s96-c" height="20"/></span>Joseph Gleason <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+817 - 22367 12 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/89686?v=4" height="20"/></span>nomatteus</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+818 - 39196 12 <span class="leaderboard-userphoto"></span>yammajr
+819 - 365274 12 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6380084?v=4" height="20"/></span>Mark Polyakov</a>
+820 - 388914 12 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #388914)</span>
+821 - 564283 12 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1854431?v=4" height="20"/></span>Jakub Kotrs
+822 - 659731 12 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14090705?v=4" height="20"/></span>lingxz
+823 - 693814 12 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/14200546?v=4" height="20"/></span>ms-boom
+824 - 748408 12 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/28708963?v=4" height="20"/></span>mfornet
+825 - 764613 12 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7sppbd8sqEjfRApQmRolyQ-jaqjrjlpCUPoZJL4A=s96-c" height="20"/></span>Curtis Liu
+826 - 779970 12 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5459661?v=4" height="20"/></span>Andreas Grapentin</a>
+827 - 161397 11 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/314689?v=4" height="20"/></span>bl00mie</a>
+828 - 211792 11 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/5677850?v=4" height="20"/></span>barkefors <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+829 - 374060 11 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #374060)</span>
+830 - 388309 11 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/22308559?v=4" height="20"/></span>Andrew Litteken</a>
+831 - 649260 11 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7342352?v=4" height="20"/></span>Bowserinator
+832 - 726267 11 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/24142?v=4" height="20"/></span>Benjamin Herr
+833 - 21282 10 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1071094?v=4" height="20"/></span>Keith Wissing</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+834 - 117458 10 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6eUw7uNfMx1VmB1DtICGVEpLm6mcxWtuOeUsuk=s96-c" height="20"/></span>Daniel Roy <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+835 - 130073 10 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6yR7p_hW2KmHHluCm7QreC9EAC8SoXANL8o09f=s96-c" height="20"/></span>Анна Сентякова
+836 - 550830 10 <span class="leaderboard-userphoto"><img src="https://avatars1.githubusercontent.com/u/1093482?v=4" height="20"/></span>snir
+837 - 643312 10 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #643312)</span>
+838 - 647466 10 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4ZWUU94cL0xhOsZY3yoWMdk5uvsiHv-4G07ghW=s96-c" height="20"/></span>Ian Su
+839 - 682404 10 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #682404)</span>
+840 - 31436 9 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2784791?v=4" height="20"/></span>Oskar Haarklou Veileborg</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+841 - 34992 9 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GgnFMgLhlX7wtbO14gwsLKf_3c8ykqr7lOoWQ-m=s96-c" height="20"/></span>G NDA
+842 - 49129 9 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp7neHNfQ-bls2hx-PQD000ucY0bzqKnXai3LvCq=s96-c" height="20"/></span>Peter Trebaticky <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+843 - 53774 9 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #53774)</span>
+844 - 197042 9 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/831355?v=4" height="20"/></span>rokob
+845 - 341150 9 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1923531?v=4" height="20"/></span>epiphone</a>
+846 - 411796 9 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/13230281?v=4" height="20"/></span>Paul Horton</a>
+847 - 714843 9 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/10962267?v=4" height="20"/></span>Aditya Arora</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+848 - 758953 9 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15951695?v=4" height="20"/></span>richzli</a>
+849 - 1082 8 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4671570?v=4" height="20"/></span>fnuttplus
+850 - 4847 8 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1174663?v=4" height="20"/></span>KrzaQ</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+851 - 70555 8 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/12528933?v=4" height="20"/></span>schn27</a>
+852 - 198155 8 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/36186?v=4" height="20"/></span>Josh Stone</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+853 - 218805 8 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/4912048?v=4" height="20"/></span>degemer
+854 - 633919 8 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/284414?v=4" height="20"/></span>Boris Letocha</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+855 - 641557 8 <span class="leaderboard-userphoto"><img src="https://lh6.googleusercontent.com/-Hc9YEmF7cpg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdUZ_tk41QNsJS3kQcOGdwpX35Qqg/photo.jpg" height="20"/></span>Daniel Hong
+856 - 670577 8 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #670577)</span>
+857 - 18777 7 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3XV56_6IIg44ZoPLrjcr-hM9g7VoGZ0qrlqGiGGA=s96-c" height="20"/></span>Eric Aderhold
+858 - 146430 7 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15983731?v=4" height="20"/></span>tbobo
+859 - 195668 7 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp6jueDLb0_m9ppewZXoC2tbk8pGqs9ROTj6krvR=s96-c" height="20"/></span>Андрей Третьяков
+860 - 196695 7 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14Gj2gkdWuapM2SUz0B0m6YWfJY4kw_L6DkE23MQY=s96-c" height="20"/></span>Chuck Walker
+861 - 376374 7 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/40616000?v=4" height="20"/></span>A5rocks</a>
+862 - 450045 7 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #450045)</span>
+863 - 7662 6 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/2684685?v=4" height="20"/></span>Tunaki
+864 - 118609 6 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7812116?v=4" height="20"/></span>Michael Tardibuono</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+865 - 245527 6 <span class="leaderboard-userphoto"></span>leftylink
+866 - 273106 6 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/11592046?v=4" height="20"/></span>jaspercb</a>
+867 - 367849 6 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/6568804?v=4" height="20"/></span>ajdranse</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+868 - 434883 6 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/18125158?v=4" height="20"/></span>nick hansen
+869 - 633174 6 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9790772?v=4" height="20"/></span>anna</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+870 - 641957 6 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/17488630?v=4" height="20"/></span>mikaelmello</a>
+871 - 678639 6 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp4agwxt8AZLMSJ9UY02XbBxEmKMmV3wRGI9ctWtMA=s96-c" height="20"/></span>Caleb Spare
+872 - 177332 5 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/9152032?v=4" height="20"/></span>Cal Jacobson</a>
+873 - 359820 5 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16728534?v=4" height="20"/></span>jimscchen
+874 - 397013 5 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp5IADefjTBZzFswotr-0jAMsHLI013noy76QLkJxO0=s96-c" height="20"/></span>Troels Bjerre Lund
+875 - 418513 5 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #418513)</span>
+876 - 530797 5 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #530797)</span>
+877 - 544607 5 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/16943720?v=4" height="20"/></span>fynngodau <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+878 - 648293 5 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/41114652?v=4" height="20"/></span>attilusleung
+879 - 689373 5 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/128921?v=4" height="20"/></span>Alexander Tsidaev</a>
+880 - 712335 5 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1203925?v=4" height="20"/></span>stristr</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+881 - 727666 5 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7642330?v=4" height="20"/></span>preslavmihaylov</a>
+882 - 94132 4 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/3656594?v=4" height="20"/></span>Deveritas
+883 - 122503 4 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15916123?v=4" height="20"/></span>chrisvittal</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+884 - 227033 4 <span class="leaderboard-userphoto"><img src="https://avatars2.githubusercontent.com/u/1429912?v=4" height="20"/></span>daveagp</a>
+885 - 322629 4 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/25749440?v=4" height="20"/></span>AuroransSolis</a>
+886 - 405190 4 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8072896?v=4" height="20"/></span>olson-dan</a>
+887 - 628790 4 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #628790)</span> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+888 - 645549 4 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/ALm5wu3jLXJOYWMFLxsGixyz9nPBRrAwsVt9cu8B6Ihw=s96-c" height="20"/></span>Sam Shideler
+889 - 671355 4 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AATXAJxGfWfXSySgAcaDiCWlCfXZOtBBt3uBLnnNddr_=s96-c" height="20"/></span>Adam Hofmann <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+890 - 453141 3 <span class="leaderboard-userphoto"><img src="http://pbs.twimg.com/profile_images/1535214962473177088/a50230qQ.jpg" height="20"/></span>@ShaneHuntley <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+891 - 476068 3 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/152192?v=4" height="20"/></span>Erik Aderstedt</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+892 - 477563 3 <span class="leaderboard-userphoto"><img src="https://avatars3.githubusercontent.com/u/123800?v=4" height="20"/></span>randName</a>
+893 - 489316 3 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/15268706?v=4" height="20"/></span>algmyr</a>
+894 - 638790 3 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/4922699?v=4" height="20"/></span>Kirill Teplinskiy</a>
+895 - 672567 3 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8823461?v=4" height="20"/></span>Noeri Huisman</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+896 - 225109 2 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/7821721?v=4" height="20"/></span>Tyler Sontag</a>
+897 - 318415 2 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/70944?v=4" height="20"/></span>Niklas Gustavsson</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+898 - 414653 2 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/1347389?v=4" height="20"/></span>Chris Forrence</a> <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+899 - 540935 2 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a/AEdFTp56aQhpTyDFgLiOQR_ogsb6BMg52DF3DXs4Z7jD=s96-c" height="20"/></span>David Garber
+900 - 645477 2 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/8453480?v=4" height="20"/></span>oparkerj
+901 - 691921 2 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/1614945?v=4" height="20"/></span>Olaf Tomalka</a>
+902 - 750627 2 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #750627)</span>
+903 - 376241 1 <span class="leaderboard-userphoto"></span>Burntmace
+904 - 397545 1 <span class="leaderboard-userphoto"><img src="https://avatars.githubusercontent.com/u/19920458?v=4" height="20"/></span>virtuNat</a>
+905 - 435935 1 <span class="leaderboard-userphoto"><img src="https://avatars0.githubusercontent.com/u/16216757?v=4" height="20"/></span>AndyShafer
+906 - 460718 1 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhZb_UYKFHKXw01wptLNPm6jfnuP6HfwY27H-bd=s96-c" height="20"/></span>Joseph Gaasbeck
+907 - 531370 1 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AFdZucoNmp67EJSurKfAchUgXASsxHdFxEomw2PpNvYf7ks=s96-c" height="20"/></span>Sean Abraham <a href="/2019/support" class="supporter-badge" title="Advent of Code Supporter">(AoC++)</a>
+908 - 741683 1 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AAuE7mC1W4KBW_6YDkms13tw0Rhy2Zrj8OPqi8JxUqGPxg" height="20"/></span>Reid Price
+909 - 764970 1 <span class="leaderboard-userphoto"><img src="https://lh3.googleusercontent.com/a-/AOh14GhMpoUoX9ewJo--50Wkjv1h5HzeC3mq_b5hyLjZe2o=s96-c" height="20"/></span>Rita Chen
+910 - 803829 1 <span class="leaderboard-userphoto"></span><span class="leaderboard-anon">(anonymous user #803829)</span>

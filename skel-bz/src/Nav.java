@@ -28,7 +28,9 @@ public class Nav
 
     throw new RuntimeException("Bad dir:" + z);
 
+  public static Point rev(Point in)
+  {
+    return new Point(-in.x, -in.y);
   }
-  
 
 }

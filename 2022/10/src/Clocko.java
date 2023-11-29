@@ -27,11 +27,11 @@ public class Clocko
 
     if (dist <= 1)
     {
-      map.set(crt_pos_x, crt_pos_y, '#');
+      map.set(crt_pos_x, crt_pos_y, '█');
     }
     else
     {
-      map.set(crt_pos_x, crt_pos_y, ' ');
+      map.set(crt_pos_x, crt_pos_y, '░');
     }
   }
 
