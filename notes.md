@@ -3,6 +3,11 @@ My slightly profane and crass notes for Advent of Code Problems.
 Nothing I put here should be taken as a critizism of the contest itself,
 which is amazingly well done and awesome.
 
+# 2022
+
+## Day 16 - Proboscidea Volcanium
+
+
 # 2021 
 
 ## Day 1 - Sonar Sweep
