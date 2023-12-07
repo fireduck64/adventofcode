@@ -63,6 +63,7 @@ public class Prob
     System.out.println(sols);
     System.out.println("P1: " + sols.first());
 
+    // Single thread solution
     /*long best_sol = -1;
     for(int i=0; i<seeds.size(); i+=2)
     {
@@ -152,15 +153,6 @@ public class Prob
       return String.format("Rule: dest: %d src: %d range: %d", dest, src,range);
     }
 
-    public long matchR(long d)
-    {
-      if ((d >= dest) && (d < dest+range))
-      {
-        long diff = d - dest;
-        return src + diff;
-      }
-      return -1L;
-    }
 
     public long match(long s)
     {
