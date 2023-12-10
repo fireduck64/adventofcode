@@ -65,6 +65,19 @@ public class Prob
 
     }
 
+    // Ok, the basic idea here is that when we flood fill from outside, the pipes that don't connect
+    // don't actually touch.
+    // Example:
+    // .||.
+    // .||.
+    // -JL.
+    // ....
+    // The flood fill can infiltrate between then J and L, since they don't connect.
+    // So we zoom this in to draw it as:
+    // --J.L--
+    // in short, we expand the space between things and fill in pipes as is correct.
+   
+
     for(Point p : main_pipe.getAllPoints())
     {
       if (main_pipe.get(p) >= 0)
