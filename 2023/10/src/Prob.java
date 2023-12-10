@@ -102,8 +102,8 @@ public class Prob
     // Flood fill the zoom map
     fillOutside();
 
-    picture.print();
-    zoom.print();
+    //picture.print();
+    //zoom.print();
 
     // Count dots remaining in zoom map if they are even (meaning real points)
     long p2=0;
@@ -115,7 +115,7 @@ public class Prob
       p2++;
 
     }
-    System.out.println("PArt2 : " + p2);
+    System.out.println("Part 2: " + p2);
     
 
   }
