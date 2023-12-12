@@ -26,9 +26,10 @@ public class Prob
       ArrayList<Integer> dmg_lst = new ArrayList<>();
       dmg_lst.addAll( Tok.ent(line.split(" ")[1], ",") );
 
-      opt_map.clear();
+      //opt_map.clear();
       //System.out.println("Problem: " + springs);
-      p1 += countOptions(springs, dmg_lst);
+      //p1 += countOptions(springs, dmg_lst);
+      p1 += rec(springs, new LinkedList<Integer>(dmg_lst), 0);
 
 
       String p2_sp = "";
@@ -39,7 +40,8 @@ public class Prob
         p2_sp += springs;
         dmg_lst2.addAll(dmg_lst);
       }
-      p2 += countOptions(p2_sp, dmg_lst2);
+      //p2 += countOptions(p2_sp, dmg_lst2);
+      p2 += rec(p2_sp, new LinkedList<Integer>(dmg_lst2), 0);
 
     }
     System.out.println("P1: " + p1);
@@ -48,6 +50,89 @@ public class Prob
 
   
   HashMap<String, Long> opt_map = new HashMap<>();
+
+  // This is my supposed "cleaner" solution after thinking about it over night
+  long rec(String rem_str, LinkedList<Integer> rem_dmg_lst, int dmg_run_len)
+  {
+    rem_dmg_lst = new LinkedList<Integer>(rem_dmg_lst);
+    if (rem_dmg_lst.size() == 0)
+    if (dmg_run_len > 0)
+    {
+      return 0L;
+    }
+
+    // End of stirng, do all the checks
+    if (rem_str.length() == 0)
+    {
+      if (dmg_run_len > 0)
+      {
+        if (dmg_run_len == rem_dmg_lst.get(0))
+        {
+          dmg_run_len = 0;
+          rem_dmg_lst.pollFirst();
+        }
+        else
+        {
+          return 0L;
+        }
+      }
+      if (rem_dmg_lst.size() == 0)
+      {
+        if (dmg_run_len == 0)
+        {
+          return 1L;
+        }
+        return 0L;
+
+      }
+
+      return 0L;
+    }
+
+    String key = rem_str + "/" + rem_dmg_lst +"/"+dmg_run_len;
+    if (opt_map.containsKey(key)) return opt_map.get(key);
+
+    char z = rem_str.charAt(0);
+    if (z == '#')
+    {
+      // Just continue the run
+      return rec(rem_str.substring(1), rem_dmg_lst, dmg_run_len+1);
+    }
+    if (z == '.')
+    {
+      
+      if (dmg_run_len > 0)
+      {
+        // Existing run must end correctly
+        if (dmg_run_len == rem_dmg_lst.get(0))
+        {
+          dmg_run_len = 0;
+          rem_dmg_lst.pollFirst();
+        }
+        else
+        {
+          return 0L;
+        }
+ 
+      }
+      // Continue the non-run
+      return rec(rem_str.substring(1), rem_dmg_lst, 0);
+    }
+    if (z=='?')
+    {
+      long v = 0;
+      v+= rec("." + rem_str.substring(1), rem_dmg_lst, dmg_run_len);
+      v+= rec("#" + rem_str.substring(1), rem_dmg_lst, dmg_run_len);
+      opt_map.put(key, v);
+    
+      return v;
+
+    }
+
+    E.er();
+    return 0L;
+
+  }
 
   long countOptions(String springs, List<Integer> dmg_lst)
   {
