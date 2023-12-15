@@ -43,7 +43,10 @@ public class Prob
         long cycle_len = cycle_count - states.get(hash);
         while(cycle_count + cycle_len <= 1000000000L) cycle_count+=cycle_len;
       }
-      states.put(hash, cycle_count);
+      else
+      {
+        states.put(hash, cycle_count);
+      }
 
     }
     System.out.println("Part 2: " + getLoadN(p2m));
