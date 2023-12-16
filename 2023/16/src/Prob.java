@@ -19,6 +19,7 @@ public class Prob
   Map2D<Character> lit = new Map2D<Character>(' ');
 
 
+
   public Prob(Scanner scan)
   {
 
@@ -27,7 +28,7 @@ public class Prob
     // Mangling my search to never terminate
     // but paint another map as it goes
     // basically, using my A* code to do a flood fill
-    Search.search(new SS(new Point(0,0), Nav.E, 0));
+    Search.search(new SS(new Point(0,0), Nav.E));
 
     long p1 = lit.getCounts().get('#');
     System.out.println("Part 1: " + p1);
@@ -38,22 +39,22 @@ public class Prob
     for(long x = input.low_x; x<=input.high_x; x++)
     {
       lit = new Map2D<Character>(' ');
-      Search.search(new SS(new Point(x, 0), Nav.S, 0));
+      Search.search(new SS(new Point(x, 0), Nav.S));
       p2 = Math.max(p2, lit.getCounts().get('#'));
 
       lit = new Map2D<Character>(' ');
-      Search.search(new SS(new Point(x, input.high_y), Nav.N, 0));
+      Search.search(new SS(new Point(x, input.high_y), Nav.N));
       p2 = Math.max(p2, lit.getCounts().get('#'));
     }
 
     for(long y = input.low_y; y<=input.high_y; y++)
     {
       lit = new Map2D<Character>(' ');
-      Search.search(new SS(new Point(0, y), Nav.E, 0));
+      Search.search(new SS(new Point(0, y), Nav.E));
       p2 = Math.max(p2, lit.getCounts().get('#'));
 
       lit = new Map2D<Character>(' ');
-      Search.search(new SS(new Point(input.high_x, y), Nav.W, 0));
+      Search.search(new SS(new Point(input.high_x, y), Nav.W));
       p2 = Math.max(p2, lit.getCounts().get('#'));
     }
     System.out.println("Part 1: " + p1);
@@ -63,20 +64,16 @@ public class Prob
   }
 
 
-  public class SS extends State
+  public class SS extends Flood
   {
     Point loc;
     Point dir;
-    int steps;
     //This means the beam is entering this loc traveling in dir
-    public SS(Point loc, Point dir, int steps)
+    public SS(Point loc, Point dir)
     {
       this.loc = loc;
       this.dir = dir;
-
     }
-    public double getCost(){return steps;}
-    public boolean isTerm(){return false;}
 
     public String toString()
     {
@@ -90,33 +87,34 @@ public class Prob
       if (z == ' ') return lst;
 
       lit.set(loc, '#');
+
       if (z == '.')
       {
         Point q = loc.add(dir);
-        lst.add(new SS(q, dir, steps+1));
+        lst.add(new SS(q, dir));
       }
       if (z == '-')
       {
         if (Math.abs(dir.x) > 0)
         { // point on
-          lst.add(new SS(loc.add(dir), dir, steps+1));
+          lst.add(new SS(loc.add(dir), dir));
         }
         else
         {
-          lst.add(new SS(loc.add(Nav.E), Nav.E, steps+1));
-          lst.add(new SS(loc.add(Nav.W), Nav.W, steps+1));
+          lst.add(new SS(loc.add(Nav.E), Nav.E));
+          lst.add(new SS(loc.add(Nav.W), Nav.W));
         }
       }
       if (z == '|')
       {
         if (Math.abs(dir.y) > 0)
         { // point on
-          lst.add(new SS(loc.add(dir), dir, steps+1));
+          lst.add(new SS(loc.add(dir), dir));
         }
         else
         {
-          lst.add(new SS(loc.add(Nav.N), Nav.N, steps+1));
-          lst.add(new SS(loc.add(Nav.S), Nav.S, steps+1));
+          lst.add(new SS(loc.add(Nav.N), Nav.N));
+          lst.add(new SS(loc.add(Nav.S), Nav.S));
         }
       }
 
@@ -127,7 +125,7 @@ public class Prob
         if (dir.equals(Nav.S)) out = Nav.W;
         if (dir.equals(Nav.E)) out = Nav.N;
         if (dir.equals(Nav.W)) out = Nav.S;
-        lst.add(new SS(loc.add(out), out, steps+1));
+        lst.add(new SS(loc.add(out), out));
       }
       if (z == '\\')
       {
@@ -136,7 +134,7 @@ public class Prob
         if (dir.equals(Nav.S)) out = Nav.E;
         if (dir.equals(Nav.E)) out = Nav.S;
         if (dir.equals(Nav.W)) out = Nav.N;
-        lst.add(new SS(loc.add(out), out, steps+1));
+        lst.add(new SS(loc.add(out), out));
       }
       return lst;
 
