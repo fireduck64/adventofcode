@@ -43,13 +43,10 @@ public class Prob
 
     pit_copy = pit.copy();
 
-    pit.print();
-
     for(long i=pit_copy.low_x; i<=pit_copy.high_x; i++)
     for(long j=pit_copy.low_y; j<=pit_copy.high_y; j++)
     {
       if (pit.get(i,j) == 0) pit.set(i,j,0);
-
     }
 
     Search.search(new F( new Point(pit.low_x-1, pit.low_y -1)));
@@ -57,7 +54,7 @@ public class Prob
     pit.print();
 
     long p1 = pit.getCounts().get(0) + pit.getCounts().get(1);
-    System.out.println(p1);
+    System.out.println("Part 1: " + p1);
 
     p2calc();
 
@@ -265,7 +262,7 @@ public class Prob
 
     Search.search(new F2(new Point(0,0)));
 
-    p2_states.print();
+    //p2_states.print();
 
     for(Point p : p2_states.getAllPoints())
     {
@@ -279,6 +276,8 @@ public class Prob
       }
 
     }
+
+    //p2_states.print();
 
 
     System.out.println("p2 area: " + p2_area);
