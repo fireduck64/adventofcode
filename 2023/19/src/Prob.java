@@ -55,12 +55,10 @@ public class Prob
         for(long v : p.vals.values())
         {
           p1 += v;
-
         }
-
       }
     }
-    System.out.println("PArt 1: " + p1);
+    System.out.println("Part 1: " + p1);
 
     TreeMap<String, TreeSet<Integer> > allows = new TreeMap<>();
     allows.put("x", new TreeSet<>());
@@ -120,8 +118,6 @@ public class Prob
 
       E.er();
       return null;
-
-
     }
 
   }
