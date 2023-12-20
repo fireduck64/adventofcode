@@ -233,6 +233,11 @@ public class Prob
       }
       if (type.equals("conj"))
       {
+
+        // From manual inspection of the input
+        // all these inputs to NS need to be true
+        // wild ass assumption that they are cyclical from zero
+        // so do LCM to get the cycle length
         if (p.signal)
         if (name.equals("ns"))
         {
