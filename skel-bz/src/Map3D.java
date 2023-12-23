@@ -11,12 +11,12 @@ public class Map3D<V>
   public HashMap<Point,V > map;
   private V default_value;
 
-  private long high_x;
-  private long high_y;
+  public long high_x;
+  public long high_y;
   public long high_z;
 
-  private long low_x;
-  private long low_y;
+  public long low_x;
+  public long low_y;
   public long low_z;
 
   public Map3D(V def)
