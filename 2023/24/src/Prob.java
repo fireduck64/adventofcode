@@ -94,7 +94,7 @@ public class Prob
 		}
 
   }
-  int range=1000;
+  int range=250;
 
 	public class RangeCheck extends Thread
   {

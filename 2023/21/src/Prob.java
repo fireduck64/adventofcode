@@ -20,7 +20,8 @@ public class Prob
   Map2D<Character> garden = null;
   Map2D<Character> p1t = new Map2D<>('.');
 
-  int max_step=100;
+  int max_step=350;
+  int p1_steps=64;
 
   public Prob(Scanner scan)
   {
@@ -52,6 +53,11 @@ public class Prob
 
     for(int i=0; i<max_step; i++)
     {
+      if (i == p1_steps)
+      {
+        System.out.println("Part 1: " + p1.getCounts().get('O'));
+
+      }
       if (i>10)
       {
         if ((i - 65) % 131 == 0)
@@ -65,7 +71,7 @@ public class Prob
           System.out.println("Clean at: " + i + " " + p1.getCounts().get('O') + " " + getArea(p1, start));
           System.out.println("data: " + i + " " + p1.getCounts().get('O'));
 
-          p1.print();
+          //p1.print();
         }
 
       }

@@ -83,7 +83,7 @@ public class Prob
     }*/
 
     ArrayList<WorkThread> wts = new ArrayList();
-    System.out.println(seeds.size());
+    System.out.println("Starting some threads: " + seeds.size());
     long total=0;
     for(int i=0; i<seeds.size(); i+=2)
     {
@@ -94,7 +94,7 @@ public class Prob
     }
     System.out.println("Total comp: " + total);
 
-    long bbb = 86090482900L;
+    long bbb = Long.MAX_VALUE;
     for(WorkThread wt : wts)
     {
       wt.join();
@@ -110,7 +110,7 @@ public class Prob
   {
     long start;
     long range;
-    volatile long best=86090482900L;
+    volatile long best=Long.MAX_VALUE;
     public WorkThread(long start, long range)
     {
       this.start = start;

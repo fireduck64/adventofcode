@@ -37,7 +37,16 @@ public class Point implements Comparable<Point>
   @Override
   public boolean equals(Object o)
   {
-    return toString().equals(o.toString());
+    if (o instanceof Point)
+    {
+      Point op = (Point) o;
+      if (x != op.x) return false;
+      if (y != op.y) return false;
+      if (z != op.z) return false;
+      if (w != op.w) return false;
+      return true;
+    }
+    return false;
   }
 
   @Override

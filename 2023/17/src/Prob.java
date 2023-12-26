@@ -22,14 +22,14 @@ public class Prob
 
     SS p1 = (SS)Search.search(new SS(new Point(0,0), 0, Nav.E, 0));
 
-    System.out.println("Part 1: " + p1.getCost());
+    System.out.println("Part 1: " + p1.cost);
     SS2 p2 = (SS2)Search.searchM(
      ImmutableList.of(
         new SS2(new Point(0,0), 0, Nav.E, 0),
         new SS2(new Point(0,0), 0, Nav.S, 0))
     );
 
-    System.out.println("Part 2: " + p2.getCost());
+    System.out.println("Part 2: " + p2.cost);
 
   }
 

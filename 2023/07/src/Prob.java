@@ -9,7 +9,8 @@ public class Prob
 
   public static void main(String args[]) throws Exception
   {
-    new Prob(new Scanner(new FileInputStream(args[0])));
+    new Prob(new Scanner(new FileInputStream(args[0])),false);
+    new Prob(new Scanner(new FileInputStream(args[0])),true);
   }
 
   Random rnd=new Random();
@@ -21,12 +22,14 @@ public class Prob
   boolean part2=true;
 
 
-  public Prob(Scanner scan)
+  public Prob(Scanner scan, boolean part2)
   {
+    this.part2=part2;
+
     card_order.add('A');
     card_order.add('K');
     card_order.add('Q');
-    //card_order.add('J');
+    if (!part2) card_order.add('J');
     card_order.add('T');
     card_order.add('9');
     card_order.add('8');
@@ -36,7 +39,7 @@ public class Prob
     card_order.add('4');
     card_order.add('3');
     card_order.add('2');
-    card_order.add('J');
+    if (part2) card_order.add('J');
 
     for(int i=0; i<card_order.size(); i++)
     {
@@ -51,7 +54,6 @@ public class Prob
     {
       String cards = scan.next();
       int bid = scan.nextInt();
-
 
       Hand h = new Hand(cards, bid);
 
@@ -69,7 +71,16 @@ public class Prob
 
     }
     //System.out.println(hands);
-    System.out.println(p1);
+    if (part2)
+    {
+      System.out.println("Part 2: " + p1);
+    }
+    if (!part2)
+    {
+      System.out.println("Part 1: " + p1);
+    }
+
+
 
 
   }
@@ -95,7 +106,7 @@ public class Prob
       }
 
       rank = toRankString();
-      System.out.println("" + cards + " " + rank);
+      //System.out.println("" + cards + " " + rank);
     }
     public String toString()
     {
@@ -126,21 +137,29 @@ public class Prob
 
     public String getKind(int n)
     {
-      int jokers = counts.get('J');
-      for(char z : counts.keySet())
+      if (part2)
       {
-        if (z != 'J')
+        int jokers = counts.get('J');
+        for(char z : counts.keySet())
         {
-          if (counts.get(z) + jokers >= n) return inOrderRankString();
-        }
-        else
-        {
-          if (jokers >= n) return inOrderRankString();
+          if (z != 'J')
+          {
+            if (counts.get(z) + jokers >= n) return inOrderRankString();
+          }
+          else
+          {
+            if (jokers >= n) return inOrderRankString();
+          }
         }
       }
-
+      else
+      {
+        for(char z : counts.keySet())
+        {
+          if (counts.get(z) >= n) return inOrderRankString();
+        }
+      }
       return "zzzzz";
-
     }
 
     public String getFullHouse()
@@ -154,6 +173,7 @@ public class Prob
         if (counts.get(z) == 3) h3++;
       }
       int jokers = counts.get('J');
+      if (!part2) jokers=0;
 
       // if we have h3 and a joker, then 4 of a kind
       // if we have h2=1, then we can't make a full house

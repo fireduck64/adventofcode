@@ -26,7 +26,7 @@ public class Prob
 
       cards.put(c.card_id, c);
     }
-    System.out.println(p1);
+    System.out.println("Part 1: " + p1);
 
     long p2=0;
 
@@ -34,7 +34,7 @@ public class Prob
     {
       p2+= getCount(c);
     }
-    System.out.println(p2);
+    System.out.println("Part 2: " + p2);
   }
 
   public long getCount(int card)

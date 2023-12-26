@@ -45,6 +45,7 @@ public class Prob
       count_map.put(wire_counts.get(w) + rnd.nextDouble(), w);
 
     }
+
     for(Map.Entry<Double, Wire> me : count_map.entrySet())
     {
       System.out.println(me);
@@ -55,6 +56,7 @@ public class Prob
     for(int i=0; i<3; i++)
     {
       Wire w = count_map.pollLastEntry().getValue();
+      System.out.println("Removing wire: " + w);
 
       map.get(w.a).remove(w.b);
       map.get(w.b).remove(w.a);
