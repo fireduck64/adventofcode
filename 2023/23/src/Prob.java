@@ -358,7 +358,7 @@ public class Prob
     long ans = -1L;
     if (sol) return ans=best;
 
-    //stepv_memo.put(key, ans);
+    stepv_memo.put(key, ans);
     return ans;
 
 

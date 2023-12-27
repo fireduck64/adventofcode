@@ -4,6 +4,13 @@ import java.util.*;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
 
+import com.microsoft.z3.Context;
+import com.microsoft.z3.Solver;
+import com.microsoft.z3.StringSymbol;
+import com.microsoft.z3.IntExpr;
+import com.microsoft.z3.IntNum;
+import com.microsoft.z3.Expr;
+
 public class Prob
 {
 
@@ -61,7 +68,63 @@ public class Prob
       int hit = checkCollisions(toss);
       System.out.println("" + toss + " " + hit);
     }
+    { // use solver
 
+      Context ctx = new Context();
+
+
+      Solver s = ctx.mkSolver();
+
+      IntExpr px = ctx.mkIntConst(ctx.mkSymbol("px"));
+      IntExpr py = ctx.mkIntConst(ctx.mkSymbol("py"));
+      IntExpr pz = ctx.mkIntConst(ctx.mkSymbol("pz"));
+      IntExpr vx = ctx.mkIntConst(ctx.mkSymbol("vx"));
+      IntExpr vy = ctx.mkIntConst(ctx.mkSymbol("vy"));
+      IntExpr vz = ctx.mkIntConst(ctx.mkSymbol("vz"));
+
+      int stone_count = 5;
+
+      LinkedList<Integer> index_lst = new LinkedList<>();
+      for(int i=0; i<stones.size(); i++) index_lst.add(i);
+
+      Collections.shuffle(index_lst);
+      while(index_lst.size() > stone_count) index_lst.pollLast();
+
+      System.out.println(index_lst);
+      for(int stone_idx : index_lst)
+      {
+        Stone a = stones.get(stone_idx);
+        Expr t = ctx.mkIntConst(ctx.mkSymbol("t_" + stone_idx));
+
+        s.add( ctx.mkEq( 
+          ctx.mkAdd(px, ctx.mkMul(t, vx)),
+          ctx.mkAdd(ctx.mkInt((long)a.pos.x), ctx.mkMul(t, ctx.mkInt((long)a.v.x)))
+          ));
+
+        s.add( ctx.mkEq( 
+          ctx.mkAdd(py, ctx.mkMul(t, vy)),
+          ctx.mkAdd(ctx.mkInt((long)a.pos.y), ctx.mkMul(t, ctx.mkInt((long)a.v.y)))
+          ));
+
+        s.add( ctx.mkEq( 
+          ctx.mkAdd(pz, ctx.mkMul(t, vz)),
+          ctx.mkAdd(ctx.mkInt((long)a.pos.z), ctx.mkMul(t, ctx.mkInt((long)a.v.z)))
+          ));
+      }
+
+      System.out.println("Invoking Z3 solver...");
+      System.out.println("Check: " + s.check());
+      //System.out.println("Model: " + s.getModel());
+
+      IntNum px_i = (IntNum) s.getModel().getConstInterp(px);
+      IntNum py_i = (IntNum) s.getModel().getConstInterp(py);
+      IntNum pz_i = (IntNum) s.getModel().getConstInterp(pz);
+
+      long p2_solver = px_i.getInt64() + py_i.getInt64() + pz_i.getInt64();
+
+      System.out.println("P2 solver: " + p2_solver);
+    }
+   
     for(int x=-range; x<=range; x++)
 		{
       new RangeCheck(x).start();
@@ -94,7 +157,9 @@ public class Prob
 		}
 
   }
-  int range=250;
+
+
+ int range=250;
 
 	public class RangeCheck extends Thread
   {

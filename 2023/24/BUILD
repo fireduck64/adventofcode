@@ -7,6 +7,7 @@ java_library(
     "@duckutil//:duckutil_lib",
     "@maven//:net_minidev_json_smart",
     "@maven//:com_google_guava_guava",
+    "@maven//:tools_aqua_z3_turnkey",
   ],
 )
 

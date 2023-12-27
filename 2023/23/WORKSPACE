@@ -32,6 +32,7 @@ maven_install(
         "com.amazonaws:aws-java-sdk:1.11.765",
         "org.elasticsearch.client:elasticsearch-rest-high-level-client:7.6.2",
         "org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5",
+        "org.matheclipse:matheclipse-core:3.0.0",
     ],
     repositories = [
         "https://repo1.maven.org/maven2",
