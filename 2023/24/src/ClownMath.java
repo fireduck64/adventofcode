@@ -2,6 +2,13 @@ import java.math.BigInteger;
 
 import java.util.*;
 
+import com.microsoft.z3.RatNum;
+import com.microsoft.z3.IntNum;
+import com.microsoft.z3.Expr;
+import com.microsoft.z3.Solver;
+
+
+
 public class ClownMath
 {
 
@@ -40,6 +47,26 @@ public class ClownMath
       bi.add(BigInteger.valueOf(l));
     }
     return lcm(bi);
+
+  }
+
+  public static long z3get(Solver s, Expr sym)
+  {
+    Expr v = s.getModel().getConstInterp(sym);
+
+    if (v instanceof IntNum)
+    {
+      IntNum vi = (IntNum) v;
+      return vi.getInt64();
+
+    }
+    else
+    {
+      RatNum rn = (RatNum) v;
+      return (long) Math.round(Double.parseDouble(rn.toString()));
+
+    }
+
 
   }
 

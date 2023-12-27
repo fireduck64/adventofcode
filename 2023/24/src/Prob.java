@@ -75,12 +75,12 @@ public class Prob
 
       Solver s = ctx.mkSolver();
 
-      IntExpr px = ctx.mkIntConst(ctx.mkSymbol("px"));
-      IntExpr py = ctx.mkIntConst(ctx.mkSymbol("py"));
-      IntExpr pz = ctx.mkIntConst(ctx.mkSymbol("pz"));
-      IntExpr vx = ctx.mkIntConst(ctx.mkSymbol("vx"));
-      IntExpr vy = ctx.mkIntConst(ctx.mkSymbol("vy"));
-      IntExpr vz = ctx.mkIntConst(ctx.mkSymbol("vz"));
+      Expr px = ctx.mkRealConst(ctx.mkSymbol("px"));
+      Expr py = ctx.mkRealConst(ctx.mkSymbol("py"));
+      Expr pz = ctx.mkRealConst(ctx.mkSymbol("pz"));
+      Expr vx = ctx.mkRealConst(ctx.mkSymbol("vx"));
+      Expr vy = ctx.mkRealConst(ctx.mkSymbol("vy"));
+      Expr vz = ctx.mkRealConst(ctx.mkSymbol("vz"));
 
       int stone_count = 5;
 
@@ -94,7 +94,7 @@ public class Prob
       for(int stone_idx : index_lst)
       {
         Stone a = stones.get(stone_idx);
-        Expr t = ctx.mkIntConst(ctx.mkSymbol("t_" + stone_idx));
+        Expr t = ctx.mkRealConst(ctx.mkSymbol("t_" + stone_idx));
 
         s.add( ctx.mkEq( 
           ctx.mkAdd(px, ctx.mkMul(t, vx)),
@@ -116,11 +116,10 @@ public class Prob
       System.out.println("Check: " + s.check());
       //System.out.println("Model: " + s.getModel());
 
-      IntNum px_i = (IntNum) s.getModel().getConstInterp(px);
-      IntNum py_i = (IntNum) s.getModel().getConstInterp(py);
-      IntNum pz_i = (IntNum) s.getModel().getConstInterp(pz);
-
-      long p2_solver = px_i.getInt64() + py_i.getInt64() + pz_i.getInt64();
+      long p2_solver = 
+        ClownMath.z3get(s, px) +
+        ClownMath.z3get(s, py) +
+        ClownMath.z3get(s, pz);
 
       System.out.println("P2 solver: " + p2_solver);
     }
