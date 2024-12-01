@@ -73,6 +73,18 @@ public class Map2D<V>
     low_y = Math.min(low_y, y);
     return old;
   }
+  public List<Point > getAllPoints(V val)
+  {
+    List<Point> lst = new LinkedList<>();
+
+    for(Point p : getAllPoints())
+    {
+      if (get(p).equals(val)) lst.add(p);
+
+    }
+    return lst;
+
+  }
 
   public List<Point > getAllPoints()
   {
