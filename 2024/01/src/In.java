@@ -2,17 +2,6 @@ import java.util.*;
 
 public class In
 {
-  public static String oneString(Scanner scan)
-  {
-    StringBuilder sb = new StringBuilder();
-    for(String line : lines(scan))
-    {
-      sb.append(line);
-      sb.append('\n');
-    }
-    return sb.toString();
-
-  }
   public static List<String> lines(Scanner scan)
   {
     LinkedList<String> lines = new LinkedList<>();
