@@ -18,7 +18,7 @@ public class Prob
     LinkedList<Integer> lst = expand1(line);
 
     long sum = 0;
-    int pos = 0;
+    long pos = 0;
 
     while(lst.size() > 0)
     {
@@ -139,7 +139,7 @@ public class Prob
     }
     for(int pos = 0; pos<lst.size(); pos++)
     {
-      int v = lst.get(pos);
+      long v = lst.get(pos);
       if (v >= 0) sum+=pos*v;
 
     }
@@ -299,18 +299,27 @@ public class Prob
 	{
     if (new File(input).exists())
     {
+      long t1 = System.currentTimeMillis();
       System.out.println("Part 1: " + input);
       System.out.println(Part1(new Scanner(new FileInputStream(input))));
+      long t = System.currentTimeMillis() - t1;
+      System.out.println("Time: " + t + " ms");
     }
     if (new File(input).exists())
     {
+      long t1 = System.currentTimeMillis();
       System.out.println("Part 2: " + input);
       System.out.println(Part2(new Scanner(new FileInputStream(input))));
+      long t = System.currentTimeMillis() - t1;
+      System.out.println("Time: " + t + " ms");
     }    
     if (new File(input).exists())
     {
+      long t1 = System.currentTimeMillis();
       System.out.println("Part 2B: " + input);
       System.out.println(Part2B(new Scanner(new FileInputStream(input))));
+      long t = System.currentTimeMillis() - t1;
+      System.out.println("Time: " + t + " ms");
     }    
 
   }
