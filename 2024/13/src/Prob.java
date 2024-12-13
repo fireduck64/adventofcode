@@ -28,7 +28,7 @@ public class Prob
     {
       sum += runPhase(scan);
     }
-    
+  
 		return "" + sum;
   }
 
@@ -144,6 +144,7 @@ public class Prob
       ctx.mkAdd( ctx.mkMul(ctx.mkInt(a.x), ma), ctx.mkMul(ctx.mkInt(b.x), mb)),
       ctx.mkInt(target.x)
     ));
+    // a.y * ma + b.y * mb = target.y
     s.add( ctx.mkEq(
       ctx.mkAdd( ctx.mkMul(ctx.mkInt(a.y), ma), ctx.mkMul(ctx.mkInt(b.y), mb)),
       ctx.mkInt(target.y)
