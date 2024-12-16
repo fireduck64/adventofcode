@@ -66,8 +66,6 @@ public class Prob
       {
         o_map.put(days-1, o_map.get(days-1)+count);
       }
-
-
     }
     return o_map;
 
