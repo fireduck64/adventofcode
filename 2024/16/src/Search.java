@@ -9,7 +9,7 @@ import duckutil.PeriodicThread;
 
 public class Search
 {
-  public static final long print_every=10000;
+  public static final long print_every=1000000;
 
   public static class SearchCtx
   {
@@ -26,7 +26,7 @@ public class Search
       String hash = state.getHash();
       synchronized(visited)
       {
-        if ((!visited.containsKey(hash)) || (visited.get(hash) > cost))
+        if ((!visited.containsKey(hash)) || (visited.get(hash) >= cost))
         {
           visited.put(hash, cost);
           return true;
@@ -226,13 +226,16 @@ public class Search
 
   }
 
-  public static State searchM(List<State> starts)
+  public static List<State> searchM(List<State> starts)
   {
     //TreeMultimap<Double, State> queue = TreeMultimap.create();
     TreeMap<StateSort, State> queue = new TreeMap<>();
     long sort_idx = 0;
 
-    HashSet<String> visited = new HashSet<>();
+    HashMap<String, Double> visited = new HashMap<>();
+
+    List<State> sols = new LinkedList<>();
+    double term_cost =0.0;
 
     Random rnd = new Random();
     for(State s : starts)
@@ -259,15 +262,24 @@ public class Search
       }
       if (s.isTerm())
       {
-        System.out.println("Search solution: " + s);
-        return s;
+        if ((sols.size() == 0) || (s.getCost() <= term_cost))
+        {
+          term_cost = s.getCost();
+          sols.add(s);
+        }
+      }
+
+      if ((sols.size() > 0) && (s.getCost() > term_cost))
+      {
+        return sols;
       }
 
       String hash = s.getHash();
 
-      if (!visited.contains(hash))
+      if (
+        (!visited.containsKey(hash)) || (visited.get(hash) == s.getCost()))
       {
-        visited.add(hash);
+        visited.put(hash, s.getCost());
 
         for(State n : s.next())
         {
@@ -279,12 +291,12 @@ public class Search
 
     }
 
-    return null;
+    return sols;
 
   }
 
 
-  public static State search(State start)
+  public static List<State> search(State start)
   {
     return searchM(ImmutableList.of(start));
   }
