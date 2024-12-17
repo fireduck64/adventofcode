@@ -41,7 +41,11 @@ public class Compy
     c2.code = code;
     c2.output=new ArrayList<>();
     //c2.code_match=true;
-    c2.reset(0);
+    c2.inst_ptr=0;
+    c2.reg_a = reg_a;
+    c2.reg_b = reg_b;
+    c2.reg_c = reg_c;
+    
     return c2;
 
   }
@@ -63,7 +67,6 @@ public class Compy
   {
     BigInteger n=a;
     BigInteger dem = BigInteger.ONE.shiftLeft(v.intValueExact());
-    //System.out.println("" + v + " " + dem);
     return n.divide(dem);
   }
 
@@ -80,7 +83,7 @@ public class Compy
       else if (oprand == 4) val = reg_a;
       else if (oprand == 5) val = reg_b;
       else if (oprand == 6) val = reg_c;
-      else if (oprand == 7) val = null;
+      else if (oprand == 7) E.er();
       else
       {
         E.er();
