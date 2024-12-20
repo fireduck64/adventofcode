@@ -95,8 +95,6 @@ public class Prob
     {
       //System.out.println(lbl + " " + check2(lbl));
       good += check2(lbl);
-
-
     }
     return "" +good;
   }
