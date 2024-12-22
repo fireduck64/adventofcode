@@ -494,13 +494,15 @@ public class Prob
   }
 
   // Get the cost of going from from to to
-
+  // We are at key grid mapo.  We want to go from a key to another key.
+  // There will be a number of paths to do that with different costs,
+  // which depend on the costs from upwards layers.  So we try the paths
+  // and take the least cost.
   HashMap<String, Long> cost_memo=new HashMap<>();
   long recRobotGetCost(int layers, char from, char to, Map2D<Character> mapo, Map2D<Character> next_map)
   {
     // top layer, just press the damn button
     if (layers==0) return 1;
-
 
     Point a= mapo.getAllPoints(from).get(0);
     Point b= mapo.getAllPoints(to).get(0);
