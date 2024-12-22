@@ -216,7 +216,8 @@ public class Prob
 
     System.out.println("No cheat cost: " + no_cost);
 
-    HashSet<String> opts=new HashSet<>();
+    //HashSet<String> opts=new HashSet<>();
+    int opts=0;
 
     for(Point a : map.getAllPoints())
     {
@@ -235,7 +236,8 @@ public class Prob
             if (save >= target)
             {
               //System.out.println("Save: " + save);
-              opts.add("" + a +"/" + b);
+              //opts.add("" + a +"/" + b);
+              opts++;
             }
 
           }
@@ -245,12 +247,7 @@ public class Prob
       }
 
     }
-    for(String s: opts)
-    {
-       //System.out.println(s);
-    }
-
-    return "" + opts.size();
+    return "" + opts;
 
   }
 
