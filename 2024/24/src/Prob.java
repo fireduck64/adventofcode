@@ -205,6 +205,8 @@ public class Prob
   {
     readInput(scan);
 
+    
+    // Attribute some amount of error to various nodes
     TreeMap<String, Double> err_cnt=new TreeMap<>();
 
     int depth=20;
@@ -225,16 +227,20 @@ public class Prob
 
    }
 
+    // Sort by error attribution
     TreeMap<Double, String> pri_map = new TreeMap<>();
 
     for(String n : err_cnt.keySet())
     {
       double cnt = rnd.nextDouble() + err_cnt.get(n);
+
+      // Inputs can't be in error, anything else can
       if ((!n.startsWith("x")) && (!n.startsWith("y")))
         pri_map.put(cnt, n);
     }
 
     System.out.println(pri_map.size());
+    // Take the top 60 error nodes - somewhat arbitrary
     while(pri_map.size() > 60)
     {
       pri_map.pollFirstEntry();
@@ -246,16 +252,6 @@ public class Prob
     ArrayList<String> usable = new ArrayList<>();
     usable.addAll(pri_map.values());
 
-    TreeSet<String> used=new TreeSet<>();
-    while(pri_map.size() > 8)
-    {
-      pri_map.pollFirstEntry();
-    }
-    TreeSet<String> as=new TreeSet<String>();
-    as.addAll(pri_map.values());
-    String ans = as.toString();
-    ans=ans.replace(" ","");
-    System.out.println(ans);
     System.out.println(usable);
 
     /*
@@ -482,6 +478,9 @@ public class Prob
           SS ss = new SS(usable, u2, s2, swaps_left-1, smap);
           ss.swap(a,b);
           ss.updateScore();
+
+          // The thing that makes this work at all, only bother
+          // adding to queue if the error score is lower
           if (ss.score < score) lst.add(ss);
 
         }
