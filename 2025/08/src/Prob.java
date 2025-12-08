@@ -158,21 +158,11 @@ public class Prob
       connect(a,b);
       connect(b,a);
       
-
       Search.search(new FF(a));
     }
     distances.clear();
 
-    {
-
-    }
-
-    long p2 = 0;
-    while(marked.size() < plst.size())
-    {
-      System.out.println(marked.size());
-      distances.clear();
-
+    { // initial distances
       for(Point a : marked)
       for(Point b : plst)
       {
@@ -182,16 +172,36 @@ public class Prob
           distances.put(dist, ImmutableList.of(a,b));
         }
       }
+    }
+
+    long p2 = 0;
+    while(marked.size() < plst.size())
+    {
       {
         List<Point> lst = distances.pollFirstEntry().getValue();
         Point a = lst.get(0);
         Point b = lst.get(1);
-        connect(a,b);
-        connect(b,a);
-        //Search.search(new FF(a));
-        marked.add(b);
-        marked.add(a);
-        p2 = a.x * b.x;
+
+        if (!marked.contains(b))
+        {
+
+          connect(a,b);
+          connect(b,a);
+          marked.add(b);
+
+          TreeSet<Point> nlst = new TreeSet<>();
+
+          for(Point b2 : plst)
+          {
+            if (!marked.contains(b2))
+            {
+              double dist = b.getDist2(b2) + rnd.nextDouble();
+              distances.put(dist, ImmutableList.of(b,b2));
+            }
+          }
+     
+          p2 = a.x * b.x;
+        }
       }
 
     }
